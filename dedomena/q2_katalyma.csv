@@ -1,0 +1,580 @@
+﻿geo,proorismos,typos,nyxtes,pososto,typos_onoma,proorismos_onoma,einai_athroisma,xora,kratos_melos,xora_krisis,einai_ellada,einai_ee
+AT,DOM,NR_OTH,995336.0,2.3,Άλλο μη πληρωμένο,Εντός της χώρας,False,Αυστρία,True,False,False,False
+BE,DOM,NR_OTH,208014.0,1.3,Άλλο μη πληρωμένο,Εντός της χώρας,False,Βέλγιο,True,False,False,False
+BG,DOM,NR_OTH,134481.0,0.9,Άλλο μη πληρωμένο,Εντός της χώρας,False,Βουλγαρία,True,False,False,False
+CY,DOM,NR_OTH,27540.0,0.6,Άλλο μη πληρωμένο,Εντός της χώρας,False,Κύπρος,True,True,False,False
+CZ,DOM,NR_OTH,440924.0,0.6,Άλλο μη πληρωμένο,Εντός της χώρας,False,Τσεχία,True,False,False,False
+DE,DOM,NR_OTH,19326254.0,3.7,Άλλο μη πληρωμένο,Εντός της χώρας,False,Γερμανία,True,False,False,False
+DK,DOM,NR_OTH,715142.0,1.7,Άλλο μη πληρωμένο,Εντός της χώρας,False,Δανία,True,False,False,False
+EE,DOM,NR_OTH,294124.0,4.5,Άλλο μη πληρωμένο,Εντός της χώρας,False,Εσθονία,True,False,False,False
+EL,DOM,NR_OTH,367624.0,0.6,Άλλο μη πληρωμένο,Εντός της χώρας,False,Ελλάδα,True,True,True,False
+ES,DOM,NR_OTH,5988085.0,1.2,Άλλο μη πληρωμένο,Εντός της χώρας,False,Ισπανία,True,True,False,False
+EU27_2020,DOM,NR_OTH,60556677.0,2.0,Άλλο μη πληρωμένο,Εντός της χώρας,False,Ευρωπαϊκή Ένωση (27),False,False,False,True
+FI,DOM,NR_OTH,2828284.0,3.6,Άλλο μη πληρωμένο,Εντός της χώρας,False,Φινλανδία,True,False,False,False
+FR,DOM,NR_OTH,15299083.0,1.9,Άλλο μη πληρωμένο,Εντός της χώρας,False,Γαλλία,True,False,False,False
+HR,DOM,NR_OTH,,,Άλλο μη πληρωμένο,Εντός της χώρας,False,Κροατία,True,False,False,False
+HU,DOM,NR_OTH,,,Άλλο μη πληρωμένο,Εντός της χώρας,False,Ουγγαρία,True,False,False,False
+IE,DOM,NR_OTH,775957.0,2.7,Άλλο μη πληρωμένο,Εντός της χώρας,False,Ιρλανδία,True,True,False,False
+IT,DOM,NR_OTH,2353573.0,1.3,Άλλο μη πληρωμένο,Εντός της χώρας,False,Ιταλία,True,True,False,False
+LT,DOM,NR_OTH,344105.0,3.7,Άλλο μη πληρωμένο,Εντός της χώρας,False,Λιθουανία,True,False,False,False
+LU,DOM,NR_OTH,145600.0,28.5,Άλλο μη πληρωμένο,Εντός της χώρας,False,Λουξεμβούργο,True,False,False,False
+LV,DOM,NR_OTH,79625.0,1.2,Άλλο μη πληρωμένο,Εντός της χώρας,False,Λετονία,True,False,False,False
+MT,DOM,NR_OTH,28782.0,2.6,Άλλο μη πληρωμένο,Εντός της χώρας,False,Μάλτα,True,False,False,False
+NL,DOM,NR_OTH,2168443.0,2.9,Άλλο μη πληρωμένο,Εντός της χώρας,False,Ολλανδία,True,False,False,False
+NO,DOM,NR_OTH,1094033.0,1.6,Άλλο μη πληρωμένο,Εντός της χώρας,False,NO,False,False,False,False
+PL,DOM,NR_OTH,1155951.0,0.5,Άλλο μη πληρωμένο,Εντός της χώρας,False,Πολωνία,True,False,False,False
+PT,DOM,NR_OTH,1198546.0,2.1,Άλλο μη πληρωμένο,Εντός της χώρας,False,Πορτογαλία,True,True,False,False
+RO,DOM,NR_OTH,759842.0,1.2,Άλλο μη πληρωμένο,Εντός της χώρας,False,Ρουμανία,True,False,False,False
+SE,DOM,NR_OTH,4659405.0,2.8,Άλλο μη πληρωμένο,Εντός της χώρας,False,Σουηδία,True,False,False,False
+SI,DOM,NR_OTH,67043.0,0.9,Άλλο μη πληρωμένο,Εντός της χώρας,False,Σλοβενία,True,False,False,False
+SK,DOM,NR_OTH,,,Άλλο μη πληρωμένο,Εντός της χώρας,False,Σλοβακία,True,False,False,False
+AT,DOM,NR_OWN,5056483.0,11.9,Δικό τους σπίτι,Εντός της χώρας,False,Αυστρία,True,False,False,False
+BE,DOM,NR_OWN,2339162.0,14.4,Δικό τους σπίτι,Εντός της χώρας,False,Βέλγιο,True,False,False,False
+BG,DOM,NR_OWN,1294218.0,8.8,Δικό τους σπίτι,Εντός της χώρας,False,Βουλγαρία,True,False,False,False
+CY,DOM,NR_OWN,1872577.0,39.7,Δικό τους σπίτι,Εντός της χώρας,False,Κύπρος,True,True,False,False
+CZ,DOM,NR_OWN,26497681.0,34.7,Δικό τους σπίτι,Εντός της χώρας,False,Τσεχία,True,False,False,False
+DE,DOM,NR_OWN,33111427.0,6.4,Δικό τους σπίτι,Εντός της χώρας,False,Γερμανία,True,False,False,False
+DK,DOM,NR_OWN,8853322.0,20.6,Δικό τους σπίτι,Εντός της χώρας,False,Δανία,True,False,False,False
+EE,DOM,NR_OWN,413544.0,6.3,Δικό τους σπίτι,Εντός της χώρας,False,Εσθονία,True,False,False,False
+EL,DOM,NR_OWN,31693208.0,52.4,Δικό τους σπίτι,Εντός της χώρας,False,Ελλάδα,True,True,True,False
+ES,DOM,NR_OWN,132664198.0,26.9,Δικό τους σπίτι,Εντός της χώρας,False,Ισπανία,True,True,False,False
+EU27_2020,DOM,NR_OWN,536685488.0,17.5,Δικό τους σπίτι,Εντός της χώρας,False,Ευρωπαϊκή Ένωση (27),False,False,False,True
+FI,DOM,NR_OWN,25298424.0,32.0,Δικό τους σπίτι,Εντός της χώρας,False,Φινλανδία,True,False,False,False
+FR,DOM,NR_OWN,135948680.0,16.7,Δικό τους σπίτι,Εντός της χώρας,False,Γαλλία,True,False,False,False
+HR,DOM,NR_OWN,6919283.0,34.2,Δικό τους σπίτι,Εντός της χώρας,False,Κροατία,True,False,False,False
+HU,DOM,NR_OWN,4825413.0,15.1,Δικό τους σπίτι,Εντός της χώρας,False,Ουγγαρία,True,False,False,False
+IE,DOM,NR_OWN,2177057.0,7.5,Δικό τους σπίτι,Εντός της χώρας,False,Ιρλανδία,True,True,False,False
+IT,DOM,NR_OWN,26605736.0,14.7,Δικό τους σπίτι,Εντός της χώρας,False,Ιταλία,True,True,False,False
+LT,DOM,NR_OWN,1657792.0,17.8,Δικό τους σπίτι,Εντός της χώρας,False,Λιθουανία,True,False,False,False
+LU,DOM,NR_OWN,,,Δικό τους σπίτι,Εντός της χώρας,False,Λουξεμβούργο,True,False,False,False
+LV,DOM,NR_OWN,1349526.0,19.7,Δικό τους σπίτι,Εντός της χώρας,False,Λετονία,True,False,False,False
+MT,DOM,NR_OWN,231742.0,20.8,Δικό τους σπίτι,Εντός της χώρας,False,Μάλτα,True,False,False,False
+NL,DOM,NR_OWN,9395647.0,12.4,Δικό τους σπίτι,Εντός της χώρας,False,Ολλανδία,True,False,False,False
+NO,DOM,NR_OWN,26635196.0,38.3,Δικό τους σπίτι,Εντός της χώρας,False,NO,False,False,False,False
+PL,DOM,NR_OWN,11903928.0,5.2,Δικό τους σπίτι,Εντός της χώρας,False,Πολωνία,True,False,False,False
+PT,DOM,NR_OWN,14297279.0,25.3,Δικό τους σπίτι,Εντός της χώρας,False,Πορτογαλία,True,True,False,False
+RO,DOM,NR_OWN,2651255.0,4.1,Δικό τους σπίτι,Εντός της χώρας,False,Ρουμανία,True,False,False,False
+SE,DOM,NR_OWN,46798200.0,27.8,Δικό τους σπίτι,Εντός της χώρας,False,Σουηδία,True,False,False,False
+SI,DOM,NR_OWN,1865593.0,24.9,Δικό τους σπίτι,Εντός της χώρας,False,Σλοβενία,True,False,False,False
+SK,DOM,NR_OWN,953430.0,4.1,Δικό τους σπίτι,Εντός της χώρας,False,Σλοβακία,True,False,False,False
+AT,DOM,NR_RF,10554866.0,24.9,Συγγενείς και φίλοι,Εντός της χώρας,False,Αυστρία,True,False,False,False
+BE,DOM,NR_RF,2963078.0,18.2,Συγγενείς και φίλοι,Εντός της χώρας,False,Βέλγιο,True,False,False,False
+BG,DOM,NR_RF,3234278.0,22.0,Συγγενείς και φίλοι,Εντός της χώρας,False,Βουλγαρία,True,False,False,False
+CY,DOM,NR_RF,701589.0,14.9,Συγγενείς και φίλοι,Εντός της χώρας,False,Κύπρος,True,True,False,False
+CZ,DOM,NR_RF,24636857.0,32.3,Συγγενείς και φίλοι,Εντός της χώρας,False,Τσεχία,True,False,False,False
+DE,DOM,NR_RF,148737343.0,28.8,Συγγενείς και φίλοι,Εντός της χώρας,False,Γερμανία,True,False,False,False
+DK,DOM,NR_RF,14743973.0,34.3,Συγγενείς και φίλοι,Εντός της χώρας,False,Δανία,True,False,False,False
+EE,DOM,NR_RF,3264063.0,50.1,Συγγενείς και φίλοι,Εντός της χώρας,False,Εσθονία,True,False,False,False
+EL,DOM,NR_RF,14165439.0,23.4,Συγγενείς και φίλοι,Εντός της χώρας,False,Ελλάδα,True,True,True,False
+ES,DOM,NR_RF,184306265.0,37.3,Συγγενείς και φίλοι,Εντός της χώρας,False,Ισπανία,True,True,False,False
+EU27_2020,DOM,NR_RF,1102423259.0,35.9,Συγγενείς και φίλοι,Εντός της χώρας,False,Ευρωπαϊκή Ένωση (27),False,False,False,True
+FI,DOM,NR_RF,32756772.0,41.5,Συγγενείς και φίλοι,Εντός της χώρας,False,Φινλανδία,True,False,False,False
+FR,DOM,NR_RF,356787176.0,43.9,Συγγενείς και φίλοι,Εντός της χώρας,False,Γαλλία,True,False,False,False
+HR,DOM,NR_RF,5361949.0,26.5,Συγγενείς και φίλοι,Εντός της χώρας,False,Κροατία,True,False,False,False
+HU,DOM,NR_RF,9309197.0,29.2,Συγγενείς και φίλοι,Εντός της χώρας,False,Ουγγαρία,True,False,False,False
+IE,DOM,NR_RF,12244341.0,42.1,Συγγενείς και φίλοι,Εντός της χώρας,False,Ιρλανδία,True,True,False,False
+IT,DOM,NR_RF,55562021.0,30.7,Συγγενείς και φίλοι,Εντός της χώρας,False,Ιταλία,True,True,False,False
+LT,DOM,NR_RF,2158144.0,23.2,Συγγενείς και φίλοι,Εντός της χώρας,False,Λιθουανία,True,False,False,False
+LU,DOM,NR_RF,190664.0,37.3,Συγγενείς και φίλοι,Εντός της χώρας,False,Λουξεμβούργο,True,False,False,False
+LV,DOM,NR_RF,4023225.0,58.7,Συγγενείς και φίλοι,Εντός της χώρας,False,Λετονία,True,False,False,False
+MT,DOM,NR_RF,204731.0,18.3,Συγγενείς και φίλοι,Εντός της χώρας,False,Μάλτα,True,False,False,False
+NL,DOM,NR_RF,12353365.0,16.3,Συγγενείς και φίλοι,Εντός της χώρας,False,Ολλανδία,True,False,False,False
+NO,DOM,NR_RF,27568889.0,39.7,Συγγενείς και φίλοι,Εντός της χώρας,False,NO,False,False,False,False
+PL,DOM,NR_RF,80903016.0,35.3,Συγγενείς και φίλοι,Εντός της χώρας,False,Πολωνία,True,False,False,False
+PT,DOM,NR_RF,25003153.0,44.2,Συγγενείς και φίλοι,Εντός της χώρας,False,Πορτογαλία,True,True,False,False
+RO,DOM,NR_RF,29758327.0,45.7,Συγγενείς και φίλοι,Εντός της χώρας,False,Ρουμανία,True,False,False,False
+SE,DOM,NR_RF,58421568.0,34.7,Συγγενείς και φίλοι,Εντός της χώρας,False,Σουηδία,True,False,False,False
+SI,DOM,NR_RF,2858348.0,38.2,Συγγενείς και φίλοι,Εντός της χώρας,False,Σλοβενία,True,False,False,False
+SK,DOM,NR_RF,7219511.0,30.8,Συγγενείς και φίλοι,Εντός της χώρας,False,Σλοβακία,True,False,False,False
+AT,DOM,R_APT,3312817.0,7.8,Ενοικιαζόμενο διαμέρισμα,Εντός της χώρας,False,Αυστρία,True,False,False,False
+BE,DOM,R_APT,6294934.0,38.7,Ενοικιαζόμενο διαμέρισμα,Εντός της χώρας,False,Βέλγιο,True,False,False,False
+BG,DOM,R_APT,1654470.0,11.3,Ενοικιαζόμενο διαμέρισμα,Εντός της χώρας,False,Βουλγαρία,True,False,False,False
+CY,DOM,R_APT,612044.0,13.0,Ενοικιαζόμενο διαμέρισμα,Εντός της χώρας,False,Κύπρος,True,True,False,False
+CZ,DOM,R_APT,4085671.0,5.3,Ενοικιαζόμενο διαμέρισμα,Εντός της χώρας,False,Τσεχία,True,False,False,False
+DE,DOM,R_APT,95696038.0,18.5,Ενοικιαζόμενο διαμέρισμα,Εντός της χώρας,False,Γερμανία,True,False,False,False
+DK,DOM,R_APT,9411050.0,21.9,Ενοικιαζόμενο διαμέρισμα,Εντός της χώρας,False,Δανία,True,False,False,False
+EE,DOM,R_APT,666895.0,10.2,Ενοικιαζόμενο διαμέρισμα,Εντός της χώρας,False,Εσθονία,True,False,False,False
+EL,DOM,R_APT,6497288.0,10.7,Ενοικιαζόμενο διαμέρισμα,Εντός της χώρας,False,Ελλάδα,True,True,True,False
+ES,DOM,R_APT,63559051.0,12.9,Ενοικιαζόμενο διαμέρισμα,Εντός της χώρας,False,Ισπανία,True,True,False,False
+EU27_2020,DOM,R_APT,460036349.0,15.0,Ενοικιαζόμενο διαμέρισμα,Εντός της χώρας,False,Ευρωπαϊκή Ένωση (27),False,False,False,True
+FI,DOM,R_APT,7046319.0,8.9,Ενοικιαζόμενο διαμέρισμα,Εντός της χώρας,False,Φινλανδία,True,False,False,False
+FR,DOM,R_APT,136708487.0,16.8,Ενοικιαζόμενο διαμέρισμα,Εντός της χώρας,False,Γαλλία,True,False,False,False
+HR,DOM,R_APT,3417492.0,16.9,Ενοικιαζόμενο διαμέρισμα,Εντός της χώρας,False,Κροατία,True,False,False,False
+HU,DOM,R_APT,2137047.0,6.7,Ενοικιαζόμενο διαμέρισμα,Εντός της χώρας,False,Ουγγαρία,True,False,False,False
+IE,DOM,R_APT,2658518.0,9.1,Ενοικιαζόμενο διαμέρισμα,Εντός της χώρας,False,Ιρλανδία,True,True,False,False
+IT,DOM,R_APT,21419843.0,11.8,Ενοικιαζόμενο διαμέρισμα,Εντός της χώρας,False,Ιταλία,True,True,False,False
+LT,DOM,R_APT,2008237.0,21.6,Ενοικιαζόμενο διαμέρισμα,Εντός της χώρας,False,Λιθουανία,True,False,False,False
+LU,DOM,R_APT,39651.0,7.8,Ενοικιαζόμενο διαμέρισμα,Εντός της χώρας,False,Λουξεμβούργο,True,False,False,False
+LV,DOM,R_APT,363059.0,5.3,Ενοικιαζόμενο διαμέρισμα,Εντός της χώρας,False,Λετονία,True,False,False,False
+MT,DOM,R_APT,413067.0,37.0,Ενοικιαζόμενο διαμέρισμα,Εντός της χώρας,False,Μάλτα,True,False,False,False
+NL,DOM,R_APT,24991685.0,33.0,Ενοικιαζόμενο διαμέρισμα,Εντός της χώρας,False,Ολλανδία,True,False,False,False
+NO,DOM,R_APT,2798508.0,4.0,Ενοικιαζόμενο διαμέρισμα,Εντός της χώρας,False,NO,False,False,False,False
+PL,DOM,R_APT,38967488.0,17.0,Ενοικιαζόμενο διαμέρισμα,Εντός της χώρας,False,Πολωνία,True,False,False,False
+PT,DOM,R_APT,6614952.0,11.7,Ενοικιαζόμενο διαμέρισμα,Εντός της χώρας,False,Πορτογαλία,True,True,False,False
+RO,DOM,R_APT,3607072.0,5.5,Ενοικιαζόμενο διαμέρισμα,Εντός της χώρας,False,Ρουμανία,True,False,False,False
+SE,DOM,R_APT,14892865.0,8.9,Ενοικιαζόμενο διαμέρισμα,Εντός της χώρας,False,Σουηδία,True,False,False,False
+SI,DOM,R_APT,833006.0,11.1,Ενοικιαζόμενο διαμέρισμα,Εντός της χώρας,False,Σλοβενία,True,False,False,False
+SK,DOM,R_APT,2127302.0,9.1,Ενοικιαζόμενο διαμέρισμα,Εντός της χώρας,False,Σλοβακία,True,False,False,False
+AT,DOM,R_CAMP,1696542.0,4.0,Κάμπινγκ,Εντός της χώρας,False,Αυστρία,True,False,False,False
+BE,DOM,R_CAMP,1504589.0,9.3,Κάμπινγκ,Εντός της χώρας,False,Βέλγιο,True,False,False,False
+BG,DOM,R_CAMP,280838.0,1.9,Κάμπινγκ,Εντός της χώρας,False,Βουλγαρία,True,False,False,False
+CY,DOM,R_CAMP,,,Κάμπινγκ,Εντός της χώρας,False,Κύπρος,True,True,False,False
+CZ,DOM,R_CAMP,3823615.0,5.0,Κάμπινγκ,Εντός της χώρας,False,Τσεχία,True,False,False,False
+DE,DOM,R_CAMP,46166328.0,8.9,Κάμπινγκ,Εντός της χώρας,False,Γερμανία,True,False,False,False
+DK,DOM,R_CAMP,3074155.0,7.2,Κάμπινγκ,Εντός της χώρας,False,Δανία,True,False,False,False
+EE,DOM,R_CAMP,,,Κάμπινγκ,Εντός της χώρας,False,Εσθονία,True,False,False,False
+EL,DOM,R_CAMP,530579.0,0.9,Κάμπινγκ,Εντός της χώρας,False,Ελλάδα,True,True,True,False
+ES,DOM,R_CAMP,12830648.0,2.6,Κάμπινγκ,Εντός της χώρας,False,Ισπανία,True,True,False,False
+EU27_2020,DOM,R_CAMP,175320487.0,5.7,Κάμπινγκ,Εντός της χώρας,False,Ευρωπαϊκή Ένωση (27),False,False,False,True
+FI,DOM,R_CAMP,1936336.0,2.5,Κάμπινγκ,Εντός της χώρας,False,Φινλανδία,True,False,False,False
+FR,DOM,R_CAMP,64667764.0,8.0,Κάμπινγκ,Εντός της χώρας,False,Γαλλία,True,False,False,False
+HR,DOM,R_CAMP,900605.0,4.5,Κάμπινγκ,Εντός της χώρας,False,Κροατία,True,False,False,False
+HU,DOM,R_CAMP,655111.0,2.1,Κάμπινγκ,Εντός της χώρας,False,Ουγγαρία,True,False,False,False
+IE,DOM,R_CAMP,1433592.0,4.9,Κάμπινγκ,Εντός της χώρας,False,Ιρλανδία,True,True,False,False
+IT,DOM,R_CAMP,7641807.0,4.2,Κάμπινγκ,Εντός της χώρας,False,Ιταλία,True,True,False,False
+LT,DOM,R_CAMP,60315.0,0.6,Κάμπινγκ,Εντός της χώρας,False,Λιθουανία,True,False,False,False
+LU,DOM,R_CAMP,,,Κάμπινγκ,Εντός της χώρας,False,Λουξεμβούργο,True,False,False,False
+LV,DOM,R_CAMP,180692.0,2.6,Κάμπινγκ,Εντός της χώρας,False,Λετονία,True,False,False,False
+MT,DOM,R_CAMP,,,Κάμπινγκ,Εντός της χώρας,False,Μάλτα,True,False,False,False
+NL,DOM,R_CAMP,13833352.0,18.2,Κάμπινγκ,Εντός της χώρας,False,Ολλανδία,True,False,False,False
+NO,DOM,R_CAMP,3931761.0,5.7,Κάμπινγκ,Εντός της χώρας,False,NO,False,False,False,False
+PL,DOM,R_CAMP,3791349.0,1.7,Κάμπινγκ,Εντός της χώρας,False,Πολωνία,True,False,False,False
+PT,DOM,R_CAMP,1247581.0,2.2,Κάμπινγκ,Εντός της χώρας,False,Πορτογαλία,True,True,False,False
+RO,DOM,R_CAMP,426869.0,0.7,Κάμπινγκ,Εντός της χώρας,False,Ρουμανία,True,False,False,False
+SE,DOM,R_CAMP,7798649.0,4.6,Κάμπινγκ,Εντός της χώρας,False,Σουηδία,True,False,False,False
+SI,DOM,R_CAMP,406667.0,5.4,Κάμπινγκ,Εντός της χώρας,False,Σλοβενία,True,False,False,False
+SK,DOM,R_CAMP,205430.0,0.9,Κάμπινγκ,Εντός της χώρας,False,Σλοβακία,True,False,False,False
+AT,DOM,R_HOT,18972024.0,44.7,Ξενοδοχείο,Εντός της χώρας,False,Αυστρία,True,False,False,False
+BE,DOM,R_HOT,2516621.0,15.5,Ξενοδοχείο,Εντός της χώρας,False,Βέλγιο,True,False,False,False
+BG,DOM,R_HOT,7162566.0,48.7,Ξενοδοχείο,Εντός της χώρας,False,Βουλγαρία,True,False,False,False
+CY,DOM,R_HOT,1330770.0,28.2,Ξενοδοχείο,Εντός της χώρας,False,Κύπρος,True,True,False,False
+CZ,DOM,R_HOT,14522085.0,19.0,Ξενοδοχείο,Εντός της χώρας,False,Τσεχία,True,False,False,False
+DE,DOM,R_HOT,156163633.0,30.2,Ξενοδοχείο,Εντός της χώρας,False,Γερμανία,True,False,False,False
+DK,DOM,R_HOT,4726296.0,11.0,Ξενοδοχείο,Εντός της χώρας,False,Δανία,True,False,False,False
+EE,DOM,R_HOT,1596278.0,24.5,Ξενοδοχείο,Εντός της χώρας,False,Εσθονία,True,False,False,False
+EL,DOM,R_HOT,7032432.0,11.6,Ξενοδοχείο,Εντός της χώρας,False,Ελλάδα,True,True,True,False
+ES,DOM,R_HOT,83172990.0,16.8,Ξενοδοχείο,Εντός της χώρας,False,Ισπανία,True,True,False,False
+EU27_2020,DOM,R_HOT,575264724.0,18.7,Ξενοδοχείο,Εντός της χώρας,False,Ευρωπαϊκή Ένωση (27),False,False,False,True
+FI,DOM,R_HOT,7208129.0,9.1,Ξενοδοχείο,Εντός της χώρας,False,Φινλανδία,True,False,False,False
+FR,DOM,R_HOT,60316853.0,7.4,Ξενοδοχείο,Εντός της χώρας,False,Γαλλία,True,False,False,False
+HR,DOM,R_HOT,3002776.0,14.9,Ξενοδοχείο,Εντός της χώρας,False,Κροατία,True,False,False,False
+HU,DOM,R_HOT,14188558.0,44.5,Ξενοδοχείο,Εντός της χώρας,False,Ουγγαρία,True,False,False,False
+IE,DOM,R_HOT,8831642.0,30.4,Ξενοδοχείο,Εντός της χώρας,False,Ιρλανδία,True,True,False,False
+IT,DOM,R_HOT,45446296.0,25.1,Ξενοδοχείο,Εντός της χώρας,False,Ιταλία,True,True,False,False
+LT,DOM,R_HOT,2444454.0,26.3,Ξενοδοχείο,Εντός της χώρας,False,Λιθουανία,True,False,False,False
+LU,DOM,R_HOT,88265.0,17.3,Ξενοδοχείο,Εντός της χώρας,False,Λουξεμβούργο,True,False,False,False
+LV,DOM,R_HOT,570988.0,8.3,Ξενοδοχείο,Εντός της χώρας,False,Λετονία,True,False,False,False
+MT,DOM,R_HOT,218910.0,19.6,Ξενοδοχείο,Εντός της χώρας,False,Μάλτα,True,False,False,False
+NL,DOM,R_HOT,11100377.0,14.6,Ξενοδοχείο,Εντός της χώρας,False,Ολλανδία,True,False,False,False
+NO,DOM,R_HOT,6257833.0,9.0,Ξενοδοχείο,Εντός της χώρας,False,NO,False,False,False,False
+PL,DOM,R_HOT,56883253.0,24.8,Ξενοδοχείο,Εντός της χώρας,False,Πολωνία,True,False,False,False
+PT,DOM,R_HOT,7733433.0,13.7,Ξενοδοχείο,Εντός της χώρας,False,Πορτογαλία,True,True,False,False
+RO,DOM,R_HOT,18955554.0,29.1,Ξενοδοχείο,Εντός της χώρας,False,Ρουμανία,True,False,False,False
+SE,DOM,R_HOT,32287423.0,19.2,Ξενοδοχείο,Εντός της χώρας,False,Σουηδία,True,False,False,False
+SI,DOM,R_HOT,1306932.0,17.5,Ξενοδοχείο,Εντός της χώρας,False,Σλοβενία,True,False,False,False
+SK,DOM,R_HOT,7485186.0,32.0,Ξενοδοχείο,Εντός της χώρας,False,Σλοβακία,True,False,False,False
+AT,DOM,R_OTH,1851295.0,4.4,Άλλο πληρωμένο,Εντός της χώρας,False,Αυστρία,True,False,False,False
+BE,DOM,R_OTH,422940.0,2.6,Άλλο πληρωμένο,Εντός της χώρας,False,Βέλγιο,True,False,False,False
+BG,DOM,R_OTH,935523.0,6.4,Άλλο πληρωμένο,Εντός της χώρας,False,Βουλγαρία,True,False,False,False
+CY,DOM,R_OTH,55067.0,1.2,Άλλο πληρωμένο,Εντός της χώρας,False,Κύπρος,True,True,False,False
+CZ,DOM,R_OTH,2369000.0,3.1,Άλλο πληρωμένο,Εντός της χώρας,False,Τσεχία,True,False,False,False
+DE,DOM,R_OTH,17060572.0,3.3,Άλλο πληρωμένο,Εντός της χώρας,False,Γερμανία,True,False,False,False
+DK,DOM,R_OTH,1400166.0,3.3,Άλλο πληρωμένο,Εντός της χώρας,False,Δανία,True,False,False,False
+EE,DOM,R_OTH,193473.0,3.0,Άλλο πληρωμένο,Εντός της χώρας,False,Εσθονία,True,False,False,False
+EL,DOM,R_OTH,156554.0,0.3,Άλλο πληρωμένο,Εντός της χώρας,False,Ελλάδα,True,True,True,False
+ES,DOM,R_OTH,11314874.0,2.3,Άλλο πληρωμένο,Εντός της χώρας,False,Ισπανία,True,True,False,False
+EU27_2020,DOM,R_OTH,161101658.0,5.2,Άλλο πληρωμένο,Εντός της χώρας,False,Ευρωπαϊκή Ένωση (27),False,False,False,True
+FI,DOM,R_OTH,1916327.0,2.4,Άλλο πληρωμένο,Εντός της χώρας,False,Φινλανδία,True,False,False,False
+FR,DOM,R_OTH,42290318.0,5.2,Άλλο πληρωμένο,Εντός της χώρας,False,Γαλλία,True,False,False,False
+HR,DOM,R_OTH,579511.0,2.9,Άλλο πληρωμένο,Εντός της χώρας,False,Κροατία,True,False,False,False
+HU,DOM,R_OTH,754096.0,2.4,Άλλο πληρωμένο,Εντός της χώρας,False,Ουγγαρία,True,False,False,False
+IE,DOM,R_OTH,953736.0,3.3,Άλλο πληρωμένο,Εντός της χώρας,False,Ιρλανδία,True,True,False,False
+IT,DOM,R_OTH,22101484.0,12.2,Άλλο πληρωμένο,Εντός της χώρας,False,Ιταλία,True,True,False,False
+LT,DOM,R_OTH,619210.0,6.7,Άλλο πληρωμένο,Εντός της χώρας,False,Λιθουανία,True,False,False,False
+LU,DOM,R_OTH,11908.0,2.3,Άλλο πληρωμένο,Εντός της χώρας,False,Λουξεμβούργο,True,False,False,False
+LV,DOM,R_OTH,285512.0,4.2,Άλλο πληρωμένο,Εντός της χώρας,False,Λετονία,True,False,False,False
+MT,DOM,R_OTH,18624.0,1.7,Άλλο πληρωμένο,Εντός της χώρας,False,Μάλτα,True,False,False,False
+NL,DOM,R_OTH,1998854.0,2.6,Άλλο πληρωμένο,Εντός της χώρας,False,Ολλανδία,True,False,False,False
+NO,DOM,R_OTH,1172063.0,1.7,Άλλο πληρωμένο,Εντός της χώρας,False,NO,False,False,False,False
+PL,DOM,R_OTH,35659317.0,15.6,Άλλο πληρωμένο,Εντός της χώρας,False,Πολωνία,True,False,False,False
+PT,DOM,R_OTH,412847.0,0.7,Άλλο πληρωμένο,Εντός της χώρας,False,Πορτογαλία,True,True,False,False
+RO,DOM,R_OTH,9014706.0,13.8,Άλλο πληρωμένο,Εντός της χώρας,False,Ρουμανία,True,False,False,False
+SE,DOM,R_OTH,3315025.0,2.0,Άλλο πληρωμένο,Εντός της χώρας,False,Σουηδία,True,False,False,False
+SI,DOM,R_OTH,142366.0,1.9,Άλλο πληρωμένο,Εντός της χώρας,False,Σλοβενία,True,False,False,False
+SK,DOM,R_OTH,5268355.0,22.5,Άλλο πληρωμένο,Εντός της χώρας,False,Σλοβακία,True,False,False,False
+AT,DOM,TOTAL,42439362.0,100.0,ΣΥΝΟΛΟ,Εντός της χώρας,True,Αυστρία,True,False,False,False
+BE,DOM,TOTAL,16249337.0,100.0,ΣΥΝΟΛΟ,Εντός της χώρας,True,Βέλγιο,True,False,False,False
+BG,DOM,TOTAL,14696375.0,100.0,ΣΥΝΟΛΟ,Εντός της χώρας,True,Βουλγαρία,True,False,False,False
+CY,DOM,TOTAL,4711588.0,100.0,ΣΥΝΟΛΟ,Εντός της χώρας,True,Κύπρος,True,True,False,False
+CZ,DOM,TOTAL,76375833.0,100.0,ΣΥΝΟΛΟ,Εντός της χώρας,True,Τσεχία,True,False,False,False
+DE,DOM,TOTAL,516261595.0,100.0,ΣΥΝΟΛΟ,Εντός της χώρας,True,Γερμανία,True,False,False,False
+DK,DOM,TOTAL,42924104.0,100.0,ΣΥΝΟΛΟ,Εντός της χώρας,True,Δανία,True,False,False,False
+EE,DOM,TOTAL,6518440.0,100.0,ΣΥΝΟΛΟ,Εντός της χώρας,True,Εσθονία,True,False,False,False
+EL,DOM,TOTAL,60443123.0,100.0,ΣΥΝΟΛΟ,Εντός της χώρας,True,Ελλάδα,True,True,True,False
+ES,DOM,TOTAL,493836112.0,100.0,ΣΥΝΟΛΟ,Εντός της χώρας,True,Ισπανία,True,True,False,False
+EU27_2020,DOM,TOTAL,3071388642.0,100.0,ΣΥΝΟΛΟ,Εντός της χώρας,True,Ευρωπαϊκή Ένωση (27),False,False,False,True
+FI,DOM,TOTAL,78990591.0,100.0,ΣΥΝΟΛΟ,Εντός της χώρας,True,Φινλανδία,True,False,False,False
+FR,DOM,TOTAL,812018362.0,100.0,ΣΥΝΟΛΟ,Εντός της χώρας,True,Γαλλία,True,False,False,False
+HR,DOM,TOTAL,20216788.0,100.0,ΣΥΝΟΛΟ,Εντός της χώρας,True,Κροατία,True,False,False,False
+HU,DOM,TOTAL,31882938.0,100.0,ΣΥΝΟΛΟ,Εντός της χώρας,True,Ουγγαρία,True,False,False,False
+IE,DOM,TOTAL,29074843.0,100.0,ΣΥΝΟΛΟ,Εντός της χώρας,True,Ιρλανδία,True,True,False,False
+IT,DOM,TOTAL,181130760.0,100.0,ΣΥΝΟΛΟ,Εντός της χώρας,True,Ιταλία,True,True,False,False
+LT,DOM,TOTAL,9292257.0,100.0,ΣΥΝΟΛΟ,Εντός της χώρας,True,Λιθουανία,True,False,False,False
+LU,DOM,TOTAL,511046.0,100.0,ΣΥΝΟΛΟ,Εντός της χώρας,True,Λουξεμβούργο,True,False,False,False
+LV,DOM,TOTAL,6852627.0,100.0,ΣΥΝΟΛΟ,Εντός της χώρας,True,Λετονία,True,False,False,False
+MT,DOM,TOTAL,1116590.0,100.0,ΣΥΝΟΛΟ,Εντός της χώρας,True,Μάλτα,True,False,False,False
+NL,DOM,TOTAL,75841724.0,100.0,ΣΥΝΟΛΟ,Εντός της χώρας,True,Ολλανδία,True,False,False,False
+NO,DOM,TOTAL,69458283.0,100.0,ΣΥΝΟΛΟ,Εντός της χώρας,True,NO,False,False,False,False
+PL,DOM,TOTAL,229264302.0,100.0,ΣΥΝΟΛΟ,Εντός της χώρας,True,Πολωνία,True,False,False,False
+PT,DOM,TOTAL,56507792.0,100.0,ΣΥΝΟΛΟ,Εντός της χώρας,True,Πορτογαλία,True,True,False,False
+RO,DOM,TOTAL,65173624.0,100.0,ΣΥΝΟΛΟ,Εντός της χώρας,True,Ρουμανία,True,False,False,False
+SE,DOM,TOTAL,168173135.0,100.0,ΣΥΝΟΛΟ,Εντός της χώρας,True,Σουηδία,True,False,False,False
+SI,DOM,TOTAL,7479955.0,100.0,ΣΥΝΟΛΟ,Εντός της χώρας,True,Σλοβενία,True,False,False,False
+SK,DOM,TOTAL,23405439.0,100.0,ΣΥΝΟΛΟ,Εντός της χώρας,True,Σλοβακία,True,False,False,False
+AT,DOM,TOT_NR,16606685.0,39.1,ΣΥΝΟΛΟ μη πληρωμένο,Εντός της χώρας,True,Αυστρία,True,False,False,False
+BE,DOM,TOT_NR,5510254.0,33.9,ΣΥΝΟΛΟ μη πληρωμένο,Εντός της χώρας,True,Βέλγιο,True,False,False,False
+BG,DOM,TOT_NR,4662977.0,31.7,ΣΥΝΟΛΟ μη πληρωμένο,Εντός της χώρας,True,Βουλγαρία,True,False,False,False
+CY,DOM,TOT_NR,2601706.0,55.2,ΣΥΝΟΛΟ μη πληρωμένο,Εντός της χώρας,True,Κύπρος,True,True,False,False
+CZ,DOM,TOT_NR,51575462.0,67.5,ΣΥΝΟΛΟ μη πληρωμένο,Εντός της χώρας,True,Τσεχία,True,False,False,False
+DE,DOM,TOT_NR,201175025.0,39.0,ΣΥΝΟΛΟ μη πληρωμένο,Εντός της χώρας,True,Γερμανία,True,False,False,False
+DK,DOM,TOT_NR,24312437.0,56.6,ΣΥΝΟΛΟ μη πληρωμένο,Εντός της χώρας,True,Δανία,True,False,False,False
+EE,DOM,TOT_NR,3971732.0,60.9,ΣΥΝΟΛΟ μη πληρωμένο,Εντός της χώρας,True,Εσθονία,True,False,False,False
+EL,DOM,TOT_NR,46226271.0,76.5,ΣΥΝΟΛΟ μη πληρωμένο,Εντός της χώρας,True,Ελλάδα,True,True,True,False
+ES,DOM,TOT_NR,322958548.0,65.4,ΣΥΝΟΛΟ μη πληρωμένο,Εντός της χώρας,True,Ισπανία,True,True,False,False
+EU27_2020,DOM,TOT_NR,1699665424.0,55.3,ΣΥΝΟΛΟ μη πληρωμένο,Εντός της χώρας,True,Ευρωπαϊκή Ένωση (27),False,False,False,True
+FI,DOM,TOT_NR,60883480.0,77.1,ΣΥΝΟΛΟ μη πληρωμένο,Εντός της χώρας,True,Φινλανδία,True,False,False,False
+FR,DOM,TOT_NR,508034940.0,62.6,ΣΥΝΟΛΟ μη πληρωμένο,Εντός της χώρας,True,Γαλλία,True,False,False,False
+HR,DOM,TOT_NR,12316403.0,60.9,ΣΥΝΟΛΟ μη πληρωμένο,Εντός της χώρας,True,Κροατία,True,False,False,False
+HU,DOM,TOT_NR,14148126.0,44.4,ΣΥΝΟΛΟ μη πληρωμένο,Εντός της χώρας,True,Ουγγαρία,True,False,False,False
+IE,DOM,TOT_NR,15197355.0,52.3,ΣΥΝΟΛΟ μη πληρωμένο,Εντός της χώρας,True,Ιρλανδία,True,True,False,False
+IT,DOM,TOT_NR,84521329.0,46.7,ΣΥΝΟΛΟ μη πληρωμένο,Εντός της χώρας,True,Ιταλία,True,True,False,False
+LT,DOM,TOT_NR,4160041.0,44.8,ΣΥΝΟΛΟ μη πληρωμένο,Εντός της χώρας,True,Λιθουανία,True,False,False,False
+LU,DOM,TOT_NR,346945.0,67.9,ΣΥΝΟΛΟ μη πληρωμένο,Εντός της χώρας,True,Λουξεμβούργο,True,False,False,False
+LV,DOM,TOT_NR,5452377.0,79.6,ΣΥΝΟΛΟ μη πληρωμένο,Εντός της χώρας,True,Λετονία,True,False,False,False
+MT,DOM,TOT_NR,465254.0,41.7,ΣΥΝΟΛΟ μη πληρωμένο,Εντός της χώρας,True,Μάλτα,True,False,False,False
+NL,DOM,TOT_NR,23917455.0,31.5,ΣΥΝΟΛΟ μη πληρωμένο,Εντός της χώρας,True,Ολλανδία,True,False,False,False
+NO,DOM,TOT_NR,55298118.0,79.6,ΣΥΝΟΛΟ μη πληρωμένο,Εντός της χώρας,True,NO,False,False,False,False
+PL,DOM,TOT_NR,93962895.0,41.0,ΣΥΝΟΛΟ μη πληρωμένο,Εντός της χώρας,True,Πολωνία,True,False,False,False
+PT,DOM,TOT_NR,40498979.0,71.7,ΣΥΝΟΛΟ μη πληρωμένο,Εντός της χώρας,True,Πορτογαλία,True,True,False,False
+RO,DOM,TOT_NR,33169424.0,50.9,ΣΥΝΟΛΟ μη πληρωμένο,Εντός της χώρας,True,Ρουμανία,True,False,False,False
+SE,DOM,TOT_NR,109879174.0,65.3,ΣΥΝΟΛΟ μη πληρωμένο,Εντός της χώρας,True,Σουηδία,True,False,False,False
+SI,DOM,TOT_NR,4790985.0,64.1,ΣΥΝΟΛΟ μη πληρωμένο,Εντός της χώρας,True,Σλοβενία,True,False,False,False
+SK,DOM,TOT_NR,8319166.0,35.5,ΣΥΝΟΛΟ μη πληρωμένο,Εντός της χώρας,True,Σλοβακία,True,False,False,False
+AT,DOM,TOT_R,25832678.0,60.9,ΣΥΝΟΛΟ πληρωμένο,Εντός της χώρας,True,Αυστρία,True,False,False,False
+BE,DOM,TOT_R,10739084.0,66.1,ΣΥΝΟΛΟ πληρωμένο,Εντός της χώρας,True,Βέλγιο,True,False,False,False
+BG,DOM,TOT_R,10033398.0,68.3,ΣΥΝΟΛΟ πληρωμένο,Εντός της χώρας,True,Βουλγαρία,True,False,False,False
+CY,DOM,TOT_R,2109882.0,44.8,ΣΥΝΟΛΟ πληρωμένο,Εντός της χώρας,True,Κύπρος,True,True,False,False
+CZ,DOM,TOT_R,24800371.0,32.5,ΣΥΝΟΛΟ πληρωμένο,Εντός της χώρας,True,Τσεχία,True,False,False,False
+DE,DOM,TOT_R,315086570.0,61.0,ΣΥΝΟΛΟ πληρωμένο,Εντός της χώρας,True,Γερμανία,True,False,False,False
+DK,DOM,TOT_R,18611667.0,43.4,ΣΥΝΟΛΟ πληρωμένο,Εντός της χώρας,True,Δανία,True,False,False,False
+EE,DOM,TOT_R,2546708.0,39.1,ΣΥΝΟΛΟ πληρωμένο,Εντός της χώρας,True,Εσθονία,True,False,False,False
+EL,DOM,TOT_R,14216853.0,23.5,ΣΥΝΟΛΟ πληρωμένο,Εντός της χώρας,True,Ελλάδα,True,True,True,False
+ES,DOM,TOT_R,170877564.0,34.6,ΣΥΝΟΛΟ πληρωμένο,Εντός της χώρας,True,Ισπανία,True,True,False,False
+EU27_2020,DOM,TOT_R,1371723218.0,44.7,ΣΥΝΟΛΟ πληρωμένο,Εντός της χώρας,True,Ευρωπαϊκή Ένωση (27),False,False,False,True
+FI,DOM,TOT_R,18107111.0,22.9,ΣΥΝΟΛΟ πληρωμένο,Εντός της χώρας,True,Φινλανδία,True,False,False,False
+FR,DOM,TOT_R,303983422.0,37.4,ΣΥΝΟΛΟ πληρωμένο,Εντός της χώρας,True,Γαλλία,True,False,False,False
+HR,DOM,TOT_R,7900384.0,39.1,ΣΥΝΟΛΟ πληρωμένο,Εντός της χώρας,True,Κροατία,True,False,False,False
+HU,DOM,TOT_R,17734812.0,55.6,ΣΥΝΟΛΟ πληρωμένο,Εντός της χώρας,True,Ουγγαρία,True,False,False,False
+IE,DOM,TOT_R,13877488.0,47.7,ΣΥΝΟΛΟ πληρωμένο,Εντός της χώρας,True,Ιρλανδία,True,True,False,False
+IT,DOM,TOT_R,96609431.0,53.3,ΣΥΝΟΛΟ πληρωμένο,Εντός της χώρας,True,Ιταλία,True,True,False,False
+LT,DOM,TOT_R,5132217.0,55.2,ΣΥΝΟΛΟ πληρωμένο,Εντός της χώρας,True,Λιθουανία,True,False,False,False
+LU,DOM,TOT_R,164101.0,32.1,ΣΥΝΟΛΟ πληρωμένο,Εντός της χώρας,True,Λουξεμβούργο,True,False,False,False
+LV,DOM,TOT_R,1400250.0,20.4,ΣΥΝΟΛΟ πληρωμένο,Εντός της χώρας,True,Λετονία,True,False,False,False
+MT,DOM,TOT_R,651336.0,58.3,ΣΥΝΟΛΟ πληρωμένο,Εντός της χώρας,True,Μάλτα,True,False,False,False
+NL,DOM,TOT_R,51924269.0,68.5,ΣΥΝΟΛΟ πληρωμένο,Εντός της χώρας,True,Ολλανδία,True,False,False,False
+NO,DOM,TOT_R,14160166.0,20.4,ΣΥΝΟΛΟ πληρωμένο,Εντός της χώρας,True,NO,False,False,False,False
+PL,DOM,TOT_R,135301406.0,59.0,ΣΥΝΟΛΟ πληρωμένο,Εντός της χώρας,True,Πολωνία,True,False,False,False
+PT,DOM,TOT_R,16008813.0,28.3,ΣΥΝΟΛΟ πληρωμένο,Εντός της χώρας,True,Πορτογαλία,True,True,False,False
+RO,DOM,TOT_R,32004200.0,49.1,ΣΥΝΟΛΟ πληρωμένο,Εντός της χώρας,True,Ρουμανία,True,False,False,False
+SE,DOM,TOT_R,58293961.0,34.7,ΣΥΝΟΛΟ πληρωμένο,Εντός της χώρας,True,Σουηδία,True,False,False,False
+SI,DOM,TOT_R,2688970.0,35.9,ΣΥΝΟΛΟ πληρωμένο,Εντός της χώρας,True,Σλοβενία,True,False,False,False
+SK,DOM,TOT_R,15086273.0,64.5,ΣΥΝΟΛΟ πληρωμένο,Εντός της χώρας,True,Σλοβακία,True,False,False,False
+AT,FOR,NR_OTH,4437681.0,4.5,Άλλο μη πληρωμένο,Εξωτερικό,False,Αυστρία,True,False,False,False
+BE,FOR,NR_OTH,3329866.0,2.6,Άλλο μη πληρωμένο,Εξωτερικό,False,Βέλγιο,True,False,False,False
+BG,FOR,NR_OTH,,,Άλλο μη πληρωμένο,Εξωτερικό,False,Βουλγαρία,True,False,False,False
+CY,FOR,NR_OTH,,,Άλλο μη πληρωμένο,Εξωτερικό,False,Κύπρος,True,True,False,False
+CZ,FOR,NR_OTH,,,Άλλο μη πληρωμένο,Εξωτερικό,False,Τσεχία,True,False,False,False
+DE,FOR,NR_OTH,43406412.0,4.7,Άλλο μη πληρωμένο,Εξωτερικό,False,Γερμανία,True,False,False,False
+DK,FOR,NR_OTH,659717.0,0.9,Άλλο μη πληρωμένο,Εξωτερικό,False,Δανία,True,False,False,False
+EE,FOR,NR_OTH,121806.0,1.4,Άλλο μη πληρωμένο,Εξωτερικό,False,Εσθονία,True,False,False,False
+EL,FOR,NR_OTH,,,Άλλο μη πληρωμένο,Εξωτερικό,False,Ελλάδα,True,True,True,False
+ES,FOR,NR_OTH,2769533.0,2.1,Άλλο μη πληρωμένο,Εξωτερικό,False,Ισπανία,True,True,False,False
+EU27_2020,FOR,NR_OTH,72904166.0,2.9,Άλλο μη πληρωμένο,Εξωτερικό,False,Ευρωπαϊκή Ένωση (27),False,False,False,True
+FI,FOR,NR_OTH,812682.0,1.5,Άλλο μη πληρωμένο,Εξωτερικό,False,Φινλανδία,True,False,False,False
+FR,FOR,NR_OTH,3372114.0,1.6,Άλλο μη πληρωμένο,Εξωτερικό,False,Γαλλία,True,False,False,False
+HR,FOR,NR_OTH,,,Άλλο μη πληρωμένο,Εξωτερικό,False,Κροατία,True,False,False,False
+HU,FOR,NR_OTH,378399.0,1.2,Άλλο μη πληρωμένο,Εξωτερικό,False,Ουγγαρία,True,False,False,False
+IE,FOR,NR_OTH,711129.0,1.1,Άλλο μη πληρωμένο,Εξωτερικό,False,Ιρλανδία,True,True,False,False
+IT,FOR,NR_OTH,,,Άλλο μη πληρωμένο,Εξωτερικό,False,Ιταλία,True,True,False,False
+LT,FOR,NR_OTH,199654.0,1.6,Άλλο μη πληρωμένο,Εξωτερικό,False,Λιθουανία,True,False,False,False
+LU,FOR,NR_OTH,1066602.0,5.4,Άλλο μη πληρωμένο,Εξωτερικό,False,Λουξεμβούργο,True,False,False,False
+LV,FOR,NR_OTH,,,Άλλο μη πληρωμένο,Εξωτερικό,False,Λετονία,True,False,False,False
+MT,FOR,NR_OTH,52851.0,1.1,Άλλο μη πληρωμένο,Εξωτερικό,False,Μάλτα,True,False,False,False
+NL,FOR,NR_OTH,7422454.0,3.4,Άλλο μη πληρωμένο,Εξωτερικό,False,Ολλανδία,True,False,False,False
+NO,FOR,NR_OTH,734882.0,1.4,Άλλο μη πληρωμένο,Εξωτερικό,False,NO,False,False,False,False
+PL,FOR,NR_OTH,326484.0,0.3,Άλλο μη πληρωμένο,Εξωτερικό,False,Πολωνία,True,False,False,False
+PT,FOR,NR_OTH,734547.0,4.0,Άλλο μη πληρωμένο,Εξωτερικό,False,Πορτογαλία,True,True,False,False
+RO,FOR,NR_OTH,,,Άλλο μη πληρωμένο,Εξωτερικό,False,Ρουμανία,True,False,False,False
+SE,FOR,NR_OTH,,,Άλλο μη πληρωμένο,Εξωτερικό,False,Σουηδία,True,False,False,False
+SI,FOR,NR_OTH,834608.0,3.8,Άλλο μη πληρωμένο,Εξωτερικό,False,Σλοβενία,True,False,False,False
+SK,FOR,NR_OTH,,,Άλλο μη πληρωμένο,Εξωτερικό,False,Σλοβακία,True,False,False,False
+AT,FOR,NR_OWN,4892303.0,5.0,Δικό τους σπίτι,Εξωτερικό,False,Αυστρία,True,False,False,False
+BE,FOR,NR_OWN,9553989.0,7.3,Δικό τους σπίτι,Εξωτερικό,False,Βέλγιο,True,False,False,False
+BG,FOR,NR_OWN,,,Δικό τους σπίτι,Εξωτερικό,False,Βουλγαρία,True,False,False,False
+CY,FOR,NR_OWN,1387005.0,11.3,Δικό τους σπίτι,Εξωτερικό,False,Κύπρος,True,True,False,False
+CZ,FOR,NR_OWN,,,Δικό τους σπίτι,Εξωτερικό,False,Τσεχία,True,False,False,False
+DE,FOR,NR_OWN,71298629.0,7.7,Δικό τους σπίτι,Εξωτερικό,False,Γερμανία,True,False,False,False
+DK,FOR,NR_OWN,5287515.0,7.3,Δικό τους σπίτι,Εξωτερικό,False,Δανία,True,False,False,False
+EE,FOR,NR_OWN,,,Δικό τους σπίτι,Εξωτερικό,False,Εσθονία,True,False,False,False
+EL,FOR,NR_OWN,845266.0,10.8,Δικό τους σπίτι,Εξωτερικό,False,Ελλάδα,True,True,True,False
+ES,FOR,NR_OWN,5839863.0,4.3,Δικό τους σπίτι,Εξωτερικό,False,Ισπανία,True,True,False,False
+EU27_2020,FOR,NR_OWN,162040791.0,6.5,Δικό τους σπίτι,Εξωτερικό,False,Ευρωπαϊκή Ένωση (27),False,False,False,True
+FI,FOR,NR_OWN,3982967.0,7.5,Δικό τους σπίτι,Εξωτερικό,False,Φινλανδία,True,False,False,False
+FR,FOR,NR_OWN,7939763.0,3.7,Δικό τους σπίτι,Εξωτερικό,False,Γαλλία,True,False,False,False
+HR,FOR,NR_OWN,591785.0,6.0,Δικό τους σπίτι,Εξωτερικό,False,Κροατία,True,False,False,False
+HU,FOR,NR_OWN,189425.0,0.6,Δικό τους σπίτι,Εξωτερικό,False,Ουγγαρία,True,False,False,False
+IE,FOR,NR_OWN,2199811.0,3.4,Δικό τους σπίτι,Εξωτερικό,False,Ιρλανδία,True,True,False,False
+IT,FOR,NR_OWN,,,Δικό τους σπίτι,Εξωτερικό,False,Ιταλία,True,True,False,False
+LT,FOR,NR_OWN,,,Δικό τους σπίτι,Εξωτερικό,False,Λιθουανία,True,False,False,False
+LU,FOR,NR_OWN,2419865.0,12.3,Δικό τους σπίτι,Εξωτερικό,False,Λουξεμβούργο,True,False,False,False
+LV,FOR,NR_OWN,,,Δικό τους σπίτι,Εξωτερικό,False,Λετονία,True,False,False,False
+MT,FOR,NR_OWN,325613.0,7.1,Δικό τους σπίτι,Εξωτερικό,False,Μάλτα,True,False,False,False
+NL,FOR,NR_OWN,20058359.0,9.3,Δικό τους σπίτι,Εξωτερικό,False,Ολλανδία,True,False,False,False
+NO,FOR,NR_OWN,7759868.0,14.3,Δικό τους σπίτι,Εξωτερικό,False,NO,False,False,False,False
+PL,FOR,NR_OWN,1652341.0,1.4,Δικό τους σπίτι,Εξωτερικό,False,Πολωνία,True,False,False,False
+PT,FOR,NR_OWN,486168.0,2.7,Δικό τους σπίτι,Εξωτερικό,False,Πορτογαλία,True,True,False,False
+RO,FOR,NR_OWN,,,Δικό τους σπίτι,Εξωτερικό,False,Ρουμανία,True,False,False,False
+SE,FOR,NR_OWN,,,Δικό τους σπίτι,Εξωτερικό,False,Σουηδία,True,False,False,False
+SI,FOR,NR_OWN,3278588.0,14.8,Δικό τους σπίτι,Εξωτερικό,False,Σλοβενία,True,False,False,False
+SK,FOR,NR_OWN,,,Δικό τους σπίτι,Εξωτερικό,False,Σλοβακία,True,False,False,False
+AT,FOR,NR_RF,18809804.0,19.1,Συγγενείς και φίλοι,Εξωτερικό,False,Αυστρία,True,False,False,False
+BE,FOR,NR_RF,30283760.0,23.3,Συγγενείς και φίλοι,Εξωτερικό,False,Βέλγιο,True,False,False,False
+BG,FOR,NR_RF,1843540.0,26.4,Συγγενείς και φίλοι,Εξωτερικό,False,Βουλγαρία,True,False,False,False
+CY,FOR,NR_RF,4432530.0,36.2,Συγγενείς και φίλοι,Εξωτερικό,False,Κύπρος,True,True,False,False
+CZ,FOR,NR_RF,7105706.0,15.0,Συγγενείς και φίλοι,Εξωτερικό,False,Τσεχία,True,False,False,False
+DE,FOR,NR_RF,107870464.0,11.6,Συγγενείς και φίλοι,Εξωτερικό,False,Γερμανία,True,False,False,False
+DK,FOR,NR_RF,10177401.0,14.1,Συγγενείς και φίλοι,Εξωτερικό,False,Δανία,True,False,False,False
+EE,FOR,NR_RF,2252026.0,25.8,Συγγενείς και φίλοι,Εξωτερικό,False,Εσθονία,True,False,False,False
+EL,FOR,NR_RF,3235494.0,41.4,Συγγενείς και φίλοι,Εξωτερικό,False,Ελλάδα,True,True,True,False
+ES,FOR,NR_RF,56049150.0,41.6,Συγγενείς και φίλοι,Εξωτερικό,False,Ισπανία,True,True,False,False
+EU27_2020,FOR,NR_RF,489771672.0,19.6,Συγγενείς και φίλοι,Εξωτερικό,False,Ευρωπαϊκή Ένωση (27),False,False,False,True
+FI,FOR,NR_RF,9664058.0,18.2,Συγγενείς και φίλοι,Εξωτερικό,False,Φινλανδία,True,False,False,False
+FR,FOR,NR_RF,40581618.0,18.7,Συγγενείς και φίλοι,Εξωτερικό,False,Γαλλία,True,False,False,False
+HR,FOR,NR_RF,3849735.0,39.1,Συγγενείς και φίλοι,Εξωτερικό,False,Κροατία,True,False,False,False
+HU,FOR,NR_RF,6343100.0,19.6,Συγγενείς και φίλοι,Εξωτερικό,False,Ουγγαρία,True,False,False,False
+IE,FOR,NR_RF,16963495.0,26.4,Συγγενείς και φίλοι,Εξωτερικό,False,Ιρλανδία,True,True,False,False
+IT,FOR,NR_RF,23205879.0,34.5,Συγγενείς και φίλοι,Εξωτερικό,False,Ιταλία,True,True,False,False
+LT,FOR,NR_RF,4148256.0,33.1,Συγγενείς και φίλοι,Εξωτερικό,False,Λιθουανία,True,False,False,False
+LU,FOR,NR_RF,5591896.0,28.4,Συγγενείς και φίλοι,Εξωτερικό,False,Λουξεμβούργο,True,False,False,False
+LV,FOR,NR_RF,1765760.0,21.0,Συγγενείς και φίλοι,Εξωτερικό,False,Λετονία,True,False,False,False
+MT,FOR,NR_RF,894746.0,19.4,Συγγενείς και φίλοι,Εξωτερικό,False,Μάλτα,True,False,False,False
+NL,FOR,NR_RF,28530905.0,13.2,Συγγενείς και φίλοι,Εξωτερικό,False,Ολλανδία,True,False,False,False
+NO,FOR,NR_RF,14055349.0,26.0,Συγγενείς και φίλοι,Εξωτερικό,False,NO,False,False,False,False
+PL,FOR,NR_RF,53414979.0,46.0,Συγγενείς και φίλοι,Εξωτερικό,False,Πολωνία,True,False,False,False
+PT,FOR,NR_RF,5255367.0,28.9,Συγγενείς και φίλοι,Εξωτερικό,False,Πορτογαλία,True,True,False,False
+RO,FOR,NR_RF,4608500.0,33.6,Συγγενείς και φίλοι,Εξωτερικό,False,Ρουμανία,True,False,False,False
+SE,FOR,NR_RF,34666216.0,22.5,Συγγενείς και φίλοι,Εξωτερικό,False,Σουηδία,True,False,False,False
+SI,FOR,NR_RF,3954231.0,17.9,Συγγενείς και φίλοι,Εξωτερικό,False,Σλοβενία,True,False,False,False
+SK,FOR,NR_RF,4273055.0,16.9,Συγγενείς και φίλοι,Εξωτερικό,False,Σλοβακία,True,False,False,False
+AT,FOR,R_APT,12455569.0,12.6,Ενοικιαζόμενο διαμέρισμα,Εξωτερικό,False,Αυστρία,True,False,False,False
+BE,FOR,R_APT,32590282.0,25.0,Ενοικιαζόμενο διαμέρισμα,Εξωτερικό,False,Βέλγιο,True,False,False,False
+BG,FOR,R_APT,905249.0,13.0,Ενοικιαζόμενο διαμέρισμα,Εξωτερικό,False,Βουλγαρία,True,False,False,False
+CY,FOR,R_APT,1695772.0,13.8,Ενοικιαζόμενο διαμέρισμα,Εξωτερικό,False,Κύπρος,True,True,False,False
+CZ,FOR,R_APT,7282524.0,15.3,Ενοικιαζόμενο διαμέρισμα,Εξωτερικό,False,Τσεχία,True,False,False,False
+DE,FOR,R_APT,224434140.0,24.2,Ενοικιαζόμενο διαμέρισμα,Εξωτερικό,False,Γερμανία,True,False,False,False
+DK,FOR,R_APT,16746804.0,23.1,Ενοικιαζόμενο διαμέρισμα,Εξωτερικό,False,Δανία,True,False,False,False
+EE,FOR,R_APT,2141921.0,24.5,Ενοικιαζόμενο διαμέρισμα,Εξωτερικό,False,Εσθονία,True,False,False,False
+EL,FOR,R_APT,752279.0,9.6,Ενοικιαζόμενο διαμέρισμα,Εξωτερικό,False,Ελλάδα,True,True,True,False
+ES,FOR,R_APT,19562657.0,14.5,Ενοικιαζόμενο διαμέρισμα,Εξωτερικό,False,Ισπανία,True,True,False,False
+EU27_2020,FOR,R_APT,511887331.0,20.5,Ενοικιαζόμενο διαμέρισμα,Εξωτερικό,False,Ευρωπαϊκή Ένωση (27),False,False,False,True
+FI,FOR,R_APT,13972608.0,26.3,Ενοικιαζόμενο διαμέρισμα,Εξωτερικό,False,Φινλανδία,True,False,False,False
+FR,FOR,R_APT,43263122.0,19.9,Ενοικιαζόμενο διαμέρισμα,Εξωτερικό,False,Γαλλία,True,False,False,False
+HR,FOR,R_APT,1722937.0,17.5,Ενοικιαζόμενο διαμέρισμα,Εξωτερικό,False,Κροατία,True,False,False,False
+HU,FOR,R_APT,6789621.0,21.0,Ενοικιαζόμενο διαμέρισμα,Εξωτερικό,False,Ουγγαρία,True,False,False,False
+IE,FOR,R_APT,13165269.0,20.5,Ενοικιαζόμενο διαμέρισμα,Εξωτερικό,False,Ιρλανδία,True,True,False,False
+IT,FOR,R_APT,7370857.0,11.0,Ενοικιαζόμενο διαμέρισμα,Εξωτερικό,False,Ιταλία,True,True,False,False
+LT,FOR,R_APT,2676293.0,21.4,Ενοικιαζόμενο διαμέρισμα,Εξωτερικό,False,Λιθουανία,True,False,False,False
+LU,FOR,R_APT,2802992.0,14.2,Ενοικιαζόμενο διαμέρισμα,Εξωτερικό,False,Λουξεμβούργο,True,False,False,False
+LV,FOR,R_APT,1535758.0,18.3,Ενοικιαζόμενο διαμέρισμα,Εξωτερικό,False,Λετονία,True,False,False,False
+MT,FOR,R_APT,958068.0,20.8,Ενοικιαζόμενο διαμέρισμα,Εξωτερικό,False,Μάλτα,True,False,False,False
+NL,FOR,R_APT,59749304.0,27.7,Ενοικιαζόμενο διαμέρισμα,Εξωτερικό,False,Ολλανδία,True,False,False,False
+NO,FOR,R_APT,6790904.0,12.6,Ενοικιαζόμενο διαμέρισμα,Εξωτερικό,False,NO,False,False,False,False
+PL,FOR,R_APT,10221219.0,8.8,Ενοικιαζόμενο διαμέρισμα,Εξωτερικό,False,Πολωνία,True,False,False,False
+PT,FOR,R_APT,1811439.0,10.0,Ενοικιαζόμενο διαμέρισμα,Εξωτερικό,False,Πορτογαλία,True,True,False,False
+RO,FOR,R_APT,344241.0,2.5,Ενοικιαζόμενο διαμέρισμα,Εξωτερικό,False,Ρουμανία,True,False,False,False
+SE,FOR,R_APT,17277223.0,11.2,Ενοικιαζόμενο διαμέρισμα,Εξωτερικό,False,Σουηδία,True,False,False,False
+SI,FOR,R_APT,5779579.0,26.1,Ενοικιαζόμενο διαμέρισμα,Εξωτερικό,False,Σλοβενία,True,False,False,False
+SK,FOR,R_APT,3879605.0,15.4,Ενοικιαζόμενο διαμέρισμα,Εξωτερικό,False,Σλοβακία,True,False,False,False
+AT,FOR,R_CAMP,6935034.0,7.0,Κάμπινγκ,Εξωτερικό,False,Αυστρία,True,False,False,False
+BE,FOR,R_CAMP,9740996.0,7.5,Κάμπινγκ,Εξωτερικό,False,Βέλγιο,True,False,False,False
+BG,FOR,R_CAMP,,,Κάμπινγκ,Εξωτερικό,False,Βουλγαρία,True,False,False,False
+CY,FOR,R_CAMP,,,Κάμπινγκ,Εξωτερικό,False,Κύπρος,True,True,False,False
+CZ,FOR,R_CAMP,1705972.0,3.6,Κάμπινγκ,Εξωτερικό,False,Τσεχία,True,False,False,False
+DE,FOR,R_CAMP,85016624.0,9.2,Κάμπινγκ,Εξωτερικό,False,Γερμανία,True,False,False,False
+DK,FOR,R_CAMP,4398488.0,6.1,Κάμπινγκ,Εξωτερικό,False,Δανία,True,False,False,False
+EE,FOR,R_CAMP,,,Κάμπινγκ,Εξωτερικό,False,Εσθονία,True,False,False,False
+ES,FOR,R_CAMP,2709270.0,2.0,Κάμπινγκ,Εξωτερικό,False,Ισπανία,True,True,False,False
+EU27_2020,FOR,R_CAMP,149802787.0,6.0,Κάμπινγκ,Εξωτερικό,False,Ευρωπαϊκή Ένωση (27),False,False,False,True
+FI,FOR,R_CAMP,668340.0,1.3,Κάμπινγκ,Εξωτερικό,False,Φινλανδία,True,False,False,False
+FR,FOR,R_CAMP,5606273.0,2.6,Κάμπινγκ,Εξωτερικό,False,Γαλλία,True,False,False,False
+HR,FOR,R_CAMP,,,Κάμπινγκ,Εξωτερικό,False,Κροατία,True,False,False,False
+HU,FOR,R_CAMP,1064835.0,3.3,Κάμπινγκ,Εξωτερικό,False,Ουγγαρία,True,False,False,False
+IE,FOR,R_CAMP,2884777.0,4.5,Κάμπινγκ,Εξωτερικό,False,Ιρλανδία,True,True,False,False
+IT,FOR,R_CAMP,1884560.0,2.8,Κάμπινγκ,Εξωτερικό,False,Ιταλία,True,True,False,False
+LT,FOR,R_CAMP,55293.0,0.4,Κάμπινγκ,Εξωτερικό,False,Λιθουανία,True,False,False,False
+LU,FOR,R_CAMP,591260.0,3.0,Κάμπινγκ,Εξωτερικό,False,Λουξεμβούργο,True,False,False,False
+LV,FOR,R_CAMP,,,Κάμπινγκ,Εξωτερικό,False,Λετονία,True,False,False,False
+MT,FOR,R_CAMP,,,Κάμπινγκ,Εξωτερικό,False,Μάλτα,True,False,False,False
+NL,FOR,R_CAMP,19436198.0,9.0,Κάμπινγκ,Εξωτερικό,False,Ολλανδία,True,False,False,False
+NO,FOR,R_CAMP,2320308.0,4.3,Κάμπινγκ,Εξωτερικό,False,NO,False,False,False,False
+PL,FOR,R_CAMP,1406506.0,1.2,Κάμπινγκ,Εξωτερικό,False,Πολωνία,True,False,False,False
+PT,FOR,R_CAMP,131025.0,0.7,Κάμπινγκ,Εξωτερικό,False,Πορτογαλία,True,True,False,False
+RO,FOR,R_CAMP,,,Κάμπινγκ,Εξωτερικό,False,Ρουμανία,True,False,False,False
+SE,FOR,R_CAMP,,,Κάμπινγκ,Εξωτερικό,False,Σουηδία,True,False,False,False
+SI,FOR,R_CAMP,2667277.0,12.1,Κάμπινγκ,Εξωτερικό,False,Σλοβενία,True,False,False,False
+SK,FOR,R_CAMP,,,Κάμπινγκ,Εξωτερικό,False,Σλοβακία,True,False,False,False
+AT,FOR,R_HOT,46559907.0,47.2,Ξενοδοχείο,Εξωτερικό,False,Αυστρία,True,False,False,False
+BE,FOR,R_HOT,41642830.0,32.0,Ξενοδοχείο,Εξωτερικό,False,Βέλγιο,True,False,False,False
+BG,FOR,R_HOT,3965471.0,56.9,Ξενοδοχείο,Εξωτερικό,False,Βουλγαρία,True,False,False,False
+CY,FOR,R_HOT,4573114.0,37.3,Ξενοδοχείο,Εξωτερικό,False,Κύπρος,True,True,False,False
+CZ,FOR,R_HOT,30135072.0,63.5,Ξενοδοχείο,Εξωτερικό,False,Τσεχία,True,False,False,False
+DE,FOR,R_HOT,371625111.0,40.1,Ξενοδοχείο,Εξωτερικό,False,Γερμανία,True,False,False,False
+DK,FOR,R_HOT,31029029.0,42.9,Ξενοδοχείο,Εξωτερικό,False,Δανία,True,False,False,False
+EE,FOR,R_HOT,3941926.0,45.2,Ξενοδοχείο,Εξωτερικό,False,Εσθονία,True,False,False,False
+EL,FOR,R_HOT,2851385.0,36.5,Ξενοδοχείο,Εξωτερικό,False,Ελλάδα,True,True,True,False
+ES,FOR,R_HOT,42451252.0,31.5,Ξενοδοχείο,Εξωτερικό,False,Ισπανία,True,True,False,False
+EU27_2020,FOR,R_HOT,1020512488.0,40.8,Ξενοδοχείο,Εξωτερικό,False,Ευρωπαϊκή Ένωση (27),False,False,False,True
+FI,FOR,R_HOT,20252590.0,38.2,Ξενοδοχείο,Εξωτερικό,False,Φινλανδία,True,False,False,False
+FR,FOR,R_HOT,102180930.0,47.0,Ξενοδοχείο,Εξωτερικό,False,Γαλλία,True,False,False,False
+HR,FOR,R_HOT,3334087.0,33.8,Ξενοδοχείο,Εξωτερικό,False,Κροατία,True,False,False,False
+HU,FOR,R_HOT,16718147.0,51.7,Ξενοδοχείο,Εξωτερικό,False,Ουγγαρία,True,False,False,False
+IE,FOR,R_HOT,24989158.0,38.8,Ξενοδοχείο,Εξωτερικό,False,Ιρλανδία,True,True,False,False
+IT,FOR,R_HOT,21993294.0,32.7,Ξενοδοχείο,Εξωτερικό,False,Ιταλία,True,True,False,False
+LT,FOR,R_HOT,5329378.0,42.5,Ξενοδοχείο,Εξωτερικό,False,Λιθουανία,True,False,False,False
+LU,FOR,R_HOT,7020004.0,35.6,Ξενοδοχείο,Εξωτερικό,False,Λουξεμβούργο,True,False,False,False
+LV,FOR,R_HOT,4573856.0,54.4,Ξενοδοχείο,Εξωτερικό,False,Λετονία,True,False,False,False
+MT,FOR,R_HOT,2159380.0,46.9,Ξενοδοχείο,Εξωτερικό,False,Μάλτα,True,False,False,False
+NL,FOR,R_HOT,71243448.0,33.0,Ξενοδοχείο,Εξωτερικό,False,Ολλανδία,True,False,False,False
+NO,FOR,R_HOT,21551301.0,39.8,Ξενοδοχείο,Εξωτερικό,False,NO,False,False,False,False
+PL,FOR,R_HOT,46220945.0,39.8,Ξενοδοχείο,Εξωτερικό,False,Πολωνία,True,False,False,False
+PT,FOR,R_HOT,9390380.0,51.6,Ξενοδοχείο,Εξωτερικό,False,Πορτογαλία,True,True,False,False
+RO,FOR,R_HOT,8180706.0,59.6,Ξενοδοχείο,Εξωτερικό,False,Ρουμανία,True,False,False,False
+SE,FOR,R_HOT,76909204.0,50.0,Ξενοδοχείο,Εξωτερικό,False,Σουηδία,True,False,False,False
+SI,FOR,R_HOT,5012014.0,22.7,Ξενοδοχείο,Εξωτερικό,False,Σλοβενία,True,False,False,False
+SK,FOR,R_HOT,16229871.0,64.2,Ξενοδοχείο,Εξωτερικό,False,Σλοβακία,True,False,False,False
+AT,FOR,R_OTH,4642247.0,4.7,Άλλο πληρωμένο,Εξωτερικό,False,Αυστρία,True,False,False,False
+BE,FOR,R_OTH,2984647.0,2.3,Άλλο πληρωμένο,Εξωτερικό,False,Βέλγιο,True,False,False,False
+BG,FOR,R_OTH,,,Άλλο πληρωμένο,Εξωτερικό,False,Βουλγαρία,True,False,False,False
+CY,FOR,R_OTH,,,Άλλο πληρωμένο,Εξωτερικό,False,Κύπρος,True,True,False,False
+CZ,FOR,R_OTH,,,Άλλο πληρωμένο,Εξωτερικό,False,Τσεχία,True,False,False,False
+DE,FOR,R_OTH,23280368.0,2.5,Άλλο πληρωμένο,Εξωτερικό,False,Γερμανία,True,False,False,False
+DK,FOR,R_OTH,4052580.0,5.6,Άλλο πληρωμένο,Εξωτερικό,False,Δανία,True,False,False,False
+EE,FOR,R_OTH,,,Άλλο πληρωμένο,Εξωτερικό,False,Εσθονία,True,False,False,False
+EL,FOR,R_OTH,,,Άλλο πληρωμένο,Εξωτερικό,False,Ελλάδα,True,True,True,False
+ES,FOR,R_OTH,5328216.0,4.0,Άλλο πληρωμένο,Εξωτερικό,False,Ισπανία,True,True,False,False
+EU27_2020,FOR,R_OTH,93780775.0,3.8,Άλλο πληρωμένο,Εξωτερικό,False,Ευρωπαϊκή Ένωση (27),False,False,False,True
+FI,FOR,R_OTH,3722431.0,7.0,Άλλο πληρωμένο,Εξωτερικό,False,Φινλανδία,True,False,False,False
+FR,FOR,R_OTH,14489728.0,6.7,Άλλο πληρωμένο,Εξωτερικό,False,Γαλλία,True,False,False,False
+HR,FOR,R_OTH,318919.0,3.2,Άλλο πληρωμένο,Εξωτερικό,False,Κροατία,True,False,False,False
+HU,FOR,R_OTH,838117.0,2.6,Άλλο πληρωμένο,Εξωτερικό,False,Ουγγαρία,True,False,False,False
+IE,FOR,R_OTH,3463240.0,5.4,Άλλο πληρωμένο,Εξωτερικό,False,Ιρλανδία,True,True,False,False
+IT,FOR,R_OTH,9907375.0,14.7,Άλλο πληρωμένο,Εξωτερικό,False,Ιταλία,True,True,False,False
+LT,FOR,R_OTH,116693.0,0.9,Άλλο πληρωμένο,Εξωτερικό,False,Λιθουανία,True,False,False,False
+LU,FOR,R_OTH,216621.0,1.1,Άλλο πληρωμένο,Εξωτερικό,False,Λουξεμβούργο,True,False,False,False
+LV,FOR,R_OTH,230270.0,2.7,Άλλο πληρωμένο,Εξωτερικό,False,Λετονία,True,False,False,False
+MT,FOR,R_OTH,184589.0,4.0,Άλλο πληρωμένο,Εξωτερικό,False,Μάλτα,True,False,False,False
+NL,FOR,R_OTH,9387163.0,4.3,Άλλο πληρωμένο,Εξωτερικό,False,Ολλανδία,True,False,False,False
+NO,FOR,R_OTH,890552.0,1.6,Άλλο πληρωμένο,Εξωτερικό,False,NO,False,False,False,False
+PL,FOR,R_OTH,2951803.0,2.5,Άλλο πληρωμένο,Εξωτερικό,False,Πολωνία,True,False,False,False
+PT,FOR,R_OTH,381347.0,2.1,Άλλο πληρωμένο,Εξωτερικό,False,Πορτογαλία,True,True,False,False
+RO,FOR,R_OTH,352687.0,2.6,Άλλο πληρωμένο,Εξωτερικό,False,Ρουμανία,True,False,False,False
+SE,FOR,R_OTH,5296289.0,3.4,Άλλο πληρωμένο,Εξωτερικό,False,Σουηδία,True,False,False,False
+SI,FOR,R_OTH,579098.0,2.6,Άλλο πληρωμένο,Εξωτερικό,False,Σλοβενία,True,False,False,False
+SK,FOR,R_OTH,,,Άλλο πληρωμένο,Εξωτερικό,False,Σλοβακία,True,False,False,False
+AT,FOR,TOTAL,98732543.0,100.0,ΣΥΝΟΛΟ,Εξωτερικό,True,Αυστρία,True,False,False,False
+BE,FOR,TOTAL,130126370.0,100.0,ΣΥΝΟΛΟ,Εξωτερικό,True,Βέλγιο,True,False,False,False
+BG,FOR,TOTAL,6972053.0,100.0,ΣΥΝΟΛΟ,Εξωτερικό,True,Βουλγαρία,True,False,False,False
+CY,FOR,TOTAL,12252650.0,100.0,ΣΥΝΟΛΟ,Εξωτερικό,True,Κύπρος,True,True,False,False
+CZ,FOR,TOTAL,47458418.0,100.0,ΣΥΝΟΛΟ,Εξωτερικό,True,Τσεχία,True,False,False,False
+DE,FOR,TOTAL,926931747.0,100.0,ΣΥΝΟΛΟ,Εξωτερικό,True,Γερμανία,True,False,False,False
+DK,FOR,TOTAL,72351534.0,100.0,ΣΥΝΟΛΟ,Εξωτερικό,True,Δανία,True,False,False,False
+EE,FOR,TOTAL,8728538.0,100.0,ΣΥΝΟΛΟ,Εξωτερικό,True,Εσθονία,True,False,False,False
+EL,FOR,TOTAL,7809634.0,100.0,ΣΥΝΟΛΟ,Εξωτερικό,True,Ελλάδα,True,True,True,False
+ES,FOR,TOTAL,134709941.0,100.0,ΣΥΝΟΛΟ,Εξωτερικό,True,Ισπανία,True,True,False,False
+EU27_2020,FOR,TOTAL,2500700009.0,100.0,ΣΥΝΟΛΟ,Εξωτερικό,True,Ευρωπαϊκή Ένωση (27),False,False,False,True
+FI,FOR,TOTAL,53075676.0,100.0,ΣΥΝΟΛΟ,Εξωτερικό,True,Φινλανδία,True,False,False,False
+FR,FOR,TOTAL,217433548.0,100.0,ΣΥΝΟΛΟ,Εξωτερικό,True,Γαλλία,True,False,False,False
+HR,FOR,TOTAL,9852227.0,100.0,ΣΥΝΟΛΟ,Εξωτερικό,True,Κροατία,True,False,False,False
+HU,FOR,TOTAL,32321644.0,100.0,ΣΥΝΟΛΟ,Εξωτερικό,True,Ουγγαρία,True,False,False,False
+IE,FOR,TOTAL,64376880.0,100.0,ΣΥΝΟΛΟ,Εξωτερικό,True,Ιρλανδία,True,True,False,False
+IT,FOR,TOTAL,67174266.0,100.0,ΣΥΝΟΛΟ,Εξωτερικό,True,Ιταλία,True,True,False,False
+LT,FOR,TOTAL,12527458.0,100.0,ΣΥΝΟΛΟ,Εξωτερικό,True,Λιθουανία,True,False,False,False
+LU,FOR,TOTAL,19709241.0,100.0,ΣΥΝΟΛΟ,Εξωτερικό,True,Λουξεμβούργο,True,False,False,False
+LV,FOR,TOTAL,8405657.0,100.0,ΣΥΝΟΛΟ,Εξωτερικό,True,Λετονία,True,False,False,False
+MT,FOR,TOTAL,4605649.0,100.0,ΣΥΝΟΛΟ,Εξωτερικό,True,Μάλτα,True,False,False,False
+NL,FOR,TOTAL,215827830.0,100.0,ΣΥΝΟΛΟ,Εξωτερικό,True,Ολλανδία,True,False,False,False
+NO,FOR,TOTAL,54103165.0,100.0,ΣΥΝΟΛΟ,Εξωτερικό,True,NO,False,False,False,False
+PL,FOR,TOTAL,116194277.0,100.0,ΣΥΝΟΛΟ,Εξωτερικό,True,Πολωνία,True,False,False,False
+PT,FOR,TOTAL,18190274.0,100.0,ΣΥΝΟΛΟ,Εξωτερικό,True,Πορτογαλία,True,True,False,False
+RO,FOR,TOTAL,13718905.0,100.0,ΣΥΝΟΛΟ,Εξωτερικό,True,Ρουμανία,True,False,False,False
+SE,FOR,TOTAL,153842517.0,100.0,ΣΥΝΟΛΟ,Εξωτερικό,True,Σουηδία,True,False,False,False
+SI,FOR,TOTAL,22105395.0,100.0,ΣΥΝΟΛΟ,Εξωτερικό,True,Σλοβενία,True,False,False,False
+SK,FOR,TOTAL,25265136.0,100.0,ΣΥΝΟΛΟ,Εξωτερικό,True,Σλοβακία,True,False,False,False
+AT,FOR,TOT_NR,28139787.0,28.5,ΣΥΝΟΛΟ μη πληρωμένο,Εξωτερικό,True,Αυστρία,True,False,False,False
+BE,FOR,TOT_NR,43167614.0,33.2,ΣΥΝΟΛΟ μη πληρωμένο,Εξωτερικό,True,Βέλγιο,True,False,False,False
+BG,FOR,TOT_NR,1987818.0,28.5,ΣΥΝΟΛΟ μη πληρωμένο,Εξωτερικό,True,Βουλγαρία,True,False,False,False
+CY,FOR,TOT_NR,5855540.0,47.8,ΣΥΝΟΛΟ μη πληρωμένο,Εξωτερικό,True,Κύπρος,True,True,False,False
+CZ,FOR,TOT_NR,7752962.0,16.3,ΣΥΝΟΛΟ μη πληρωμένο,Εξωτερικό,True,Τσεχία,True,False,False,False
+DE,FOR,TOT_NR,222575504.0,24.0,ΣΥΝΟΛΟ μη πληρωμένο,Εξωτερικό,True,Γερμανία,True,False,False,False
+DK,FOR,TOT_NR,16124634.0,22.3,ΣΥΝΟΛΟ μη πληρωμένο,Εξωτερικό,True,Δανία,True,False,False,False
+EE,FOR,TOT_NR,2512055.0,28.8,ΣΥΝΟΛΟ μη πληρωμένο,Εξωτερικό,True,Εσθονία,True,False,False,False
+EL,FOR,TOT_NR,4093118.0,52.4,ΣΥΝΟΛΟ μη πληρωμένο,Εξωτερικό,True,Ελλάδα,True,True,True,False
+ES,FOR,TOT_NR,64658546.0,48.0,ΣΥΝΟΛΟ μη πληρωμένο,Εξωτερικό,True,Ισπανία,True,True,False,False
+EU27_2020,FOR,TOT_NR,724716628.0,29.0,ΣΥΝΟΛΟ μη πληρωμένο,Εξωτερικό,True,Ευρωπαϊκή Ένωση (27),False,False,False,True
+FI,FOR,TOT_NR,14459707.0,27.2,ΣΥΝΟΛΟ μη πληρωμένο,Εξωτερικό,True,Φινλανδία,True,False,False,False
+FR,FOR,TOT_NR,51893495.0,23.9,ΣΥΝΟΛΟ μη πληρωμένο,Εξωτερικό,True,Γαλλία,True,False,False,False
+HR,FOR,TOT_NR,4447935.0,45.1,ΣΥΝΟΛΟ μη πληρωμένο,Εξωτερικό,True,Κροατία,True,False,False,False
+HU,FOR,TOT_NR,6910924.0,21.4,ΣΥΝΟΛΟ μη πληρωμένο,Εξωτερικό,True,Ουγγαρία,True,False,False,False
+IE,FOR,TOT_NR,19874435.0,30.9,ΣΥΝΟΛΟ μη πληρωμένο,Εξωτερικό,True,Ιρλανδία,True,True,False,False
+IT,FOR,TOT_NR,26018180.0,38.7,ΣΥΝΟΛΟ μη πληρωμένο,Εξωτερικό,True,Ιταλία,True,True,False,False
+LT,FOR,TOT_NR,4349802.0,34.7,ΣΥΝΟΛΟ μη πληρωμένο,Εξωτερικό,True,Λιθουανία,True,False,False,False
+LU,FOR,TOT_NR,9078364.0,46.1,ΣΥΝΟΛΟ μη πληρωμένο,Εξωτερικό,True,Λουξεμβούργο,True,False,False,False
+LV,FOR,TOT_NR,1925790.0,22.9,ΣΥΝΟΛΟ μη πληρωμένο,Εξωτερικό,True,Λετονία,True,False,False,False
+MT,FOR,TOT_NR,1273209.0,27.6,ΣΥΝΟΛΟ μη πληρωμένο,Εξωτερικό,True,Μάλτα,True,False,False,False
+NL,FOR,TOT_NR,56011718.0,26.0,ΣΥΝΟΛΟ μη πληρωμένο,Εξωτερικό,True,Ολλανδία,True,False,False,False
+NO,FOR,TOT_NR,22550100.0,41.7,ΣΥΝΟΛΟ μη πληρωμένο,Εξωτερικό,True,NO,False,False,False,False
+PL,FOR,TOT_NR,55393804.0,47.7,ΣΥΝΟΛΟ μη πληρωμένο,Εξωτερικό,True,Πολωνία,True,False,False,False
+PT,FOR,TOT_NR,6476082.0,35.6,ΣΥΝΟΛΟ μη πληρωμένο,Εξωτερικό,True,Πορτογαλία,True,True,False,False
+RO,FOR,TOT_NR,4655861.0,33.9,ΣΥΝΟΛΟ μη πληρωμένο,Εξωτερικό,True,Ρουμανία,True,False,False,False
+SE,FOR,TOT_NR,52367760.0,34.0,ΣΥΝΟΛΟ μη πληρωμένο,Εξωτερικό,True,Σουηδία,True,False,False,False
+SI,FOR,TOT_NR,8067427.0,36.5,ΣΥΝΟΛΟ μη πληρωμένο,Εξωτερικό,True,Σλοβενία,True,False,False,False
+SK,FOR,TOT_NR,4644557.0,18.4,ΣΥΝΟΛΟ μη πληρωμένο,Εξωτερικό,True,Σλοβακία,True,False,False,False
+AT,FOR,TOT_R,70592756.0,71.5,ΣΥΝΟΛΟ πληρωμένο,Εξωτερικό,True,Αυστρία,True,False,False,False
+BE,FOR,TOT_R,86958756.0,66.8,ΣΥΝΟΛΟ πληρωμένο,Εξωτερικό,True,Βέλγιο,True,False,False,False
+BG,FOR,TOT_R,4984236.0,71.5,ΣΥΝΟΛΟ πληρωμένο,Εξωτερικό,True,Βουλγαρία,True,False,False,False
+CY,FOR,TOT_R,6397110.0,52.2,ΣΥΝΟΛΟ πληρωμένο,Εξωτερικό,True,Κύπρος,True,True,False,False
+CZ,FOR,TOT_R,39705456.0,83.7,ΣΥΝΟΛΟ πληρωμένο,Εξωτερικό,True,Τσεχία,True,False,False,False
+DE,FOR,TOT_R,704356242.0,76.0,ΣΥΝΟΛΟ πληρωμένο,Εξωτερικό,True,Γερμανία,True,False,False,False
+DK,FOR,TOT_R,56226900.0,77.7,ΣΥΝΟΛΟ πληρωμένο,Εξωτερικό,True,Δανία,True,False,False,False
+EE,FOR,TOT_R,6216483.0,71.2,ΣΥΝΟΛΟ πληρωμένο,Εξωτερικό,True,Εσθονία,True,False,False,False
+EL,FOR,TOT_R,3716516.0,47.6,ΣΥΝΟΛΟ πληρωμένο,Εξωτερικό,True,Ελλάδα,True,True,True,False
+ES,FOR,TOT_R,70051395.0,52.0,ΣΥΝΟΛΟ πληρωμένο,Εξωτερικό,True,Ισπανία,True,True,False,False
+EU27_2020,FOR,TOT_R,1775983381.0,71.0,ΣΥΝΟΛΟ πληρωμένο,Εξωτερικό,True,Ευρωπαϊκή Ένωση (27),False,False,False,True
+FI,FOR,TOT_R,38615969.0,72.8,ΣΥΝΟΛΟ πληρωμένο,Εξωτερικό,True,Φινλανδία,True,False,False,False
+FR,FOR,TOT_R,165540052.0,76.1,ΣΥΝΟΛΟ πληρωμένο,Εξωτερικό,True,Γαλλία,True,False,False,False
+HR,FOR,TOT_R,5404292.0,54.9,ΣΥΝΟΛΟ πληρωμένο,Εξωτερικό,True,Κροατία,True,False,False,False
+HU,FOR,TOT_R,25410720.0,78.6,ΣΥΝΟΛΟ πληρωμένο,Εξωτερικό,True,Ουγγαρία,True,False,False,False
+IE,FOR,TOT_R,44502445.0,69.1,ΣΥΝΟΛΟ πληρωμένο,Εξωτερικό,True,Ιρλανδία,True,True,False,False
+IT,FOR,TOT_R,41156086.0,61.3,ΣΥΝΟΛΟ πληρωμένο,Εξωτερικό,True,Ιταλία,True,True,False,False
+LT,FOR,TOT_R,8177657.0,65.3,ΣΥΝΟΛΟ πληρωμένο,Εξωτερικό,True,Λιθουανία,True,False,False,False
+LU,FOR,TOT_R,10630877.0,53.9,ΣΥΝΟΛΟ πληρωμένο,Εξωτερικό,True,Λουξεμβούργο,True,False,False,False
+LV,FOR,TOT_R,6479867.0,77.1,ΣΥΝΟΛΟ πληρωμένο,Εξωτερικό,True,Λετονία,True,False,False,False
+MT,FOR,TOT_R,3332440.0,72.4,ΣΥΝΟΛΟ πληρωμένο,Εξωτερικό,True,Μάλτα,True,False,False,False
+NL,FOR,TOT_R,159816112.0,74.0,ΣΥΝΟΛΟ πληρωμένο,Εξωτερικό,True,Ολλανδία,True,False,False,False
+NO,FOR,TOT_R,31553065.0,58.3,ΣΥΝΟΛΟ πληρωμένο,Εξωτερικό,True,NO,False,False,False,False
+PL,FOR,TOT_R,60800473.0,52.3,ΣΥΝΟΛΟ πληρωμένο,Εξωτερικό,True,Πολωνία,True,False,False,False
+PT,FOR,TOT_R,11714192.0,64.4,ΣΥΝΟΛΟ πληρωμένο,Εξωτερικό,True,Πορτογαλία,True,True,False,False
+RO,FOR,TOT_R,9063044.0,66.1,ΣΥΝΟΛΟ πληρωμένο,Εξωτερικό,True,Ρουμανία,True,False,False,False
+SE,FOR,TOT_R,101474758.0,66.0,ΣΥΝΟΛΟ πληρωμένο,Εξωτερικό,True,Σουηδία,True,False,False,False
+SI,FOR,TOT_R,14037968.0,63.5,ΣΥΝΟΛΟ πληρωμένο,Εξωτερικό,True,Σλοβενία,True,False,False,False
+SK,FOR,TOT_R,20620580.0,81.6,ΣΥΝΟΛΟ πληρωμένο,Εξωτερικό,True,Σλοβακία,True,False,False,False
