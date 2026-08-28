@@ -127,7 +127,12 @@ def simane(df):
 # 5. Αρχείο 1, η χρονοσειρά της αδυναμίας
 # ------------------------------------------------------------
 
-seira = simane(diakopes[diakopes["etos_erevnas"] >= 2003].copy())
+# Μόνο ο συνολικός πληθυσμός. Ο πίνακας δίνει και τους κάτω και τους πάνω
+# από το όριο φτώχειας, οπότε χωρίς αυτό το φίλτρο κάθε χώρα έχει τρεις
+# γραμμές ανά έτος και το Tableau βγάζει τον μέσο όρο τους.
+seira = diakopes[(diakopes["etos_erevnas"] >= 2003)
+                 & (diakopes["omada_kod"] == "TOTAL")]
+seira = simane(seira.copy())
 
 # Το Tableau δείχνει το έτος ως "2.017" αν είναι ακέραιος. Στέλνουμε
 # ημερομηνία και πετάμε τον αριθμό.
@@ -212,6 +217,8 @@ print("1. Ελλάδα εισόδημα:", el["eisodima_2009"], "->", el["eisodi
 
 print("2. Ελλάδα αδυναμία:", el["adynamia_2009"], "->", el["adynamia_2024"],
       "  αναμενόμενο 46.3 -> 46.6")
+print("   μία γραμμή ανά χώρα και έτος στη σειρά;",
+      "ναι" if seira.groupby(["geo", "imerominia"]).size().max() == 1 else "ΟΧΙ")
 
 melh = pinakas[pinakas["kratos_melos"]]
 epesan = melh[melh["metavoli_eisodimatos"] < 0]
