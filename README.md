@@ -65,8 +65,9 @@ foreign visitors. Four lost residents of Greece, and they are the four
 with the highest foreign demand: Crete, the Ionian Islands, Attica, the
 South Aegean.
 
-**Trips abroad are growing faster.** In five of the six years from 2020
-to 2025. In 2025, **+18,8%** against **+12,8%** for domestic trips.
+**Trips abroad are growing faster.** Every year from 2021 to 2025,
+without exception. In 2025, **+18,8%** against **+12,8%** for domestic
+trips. 2020 is not comparable, the borders were closed.
 
 **Trips are getting shorter.** From 2024 to 2025 the 1 to 3 night band
 went from **23,9%** to **26,7%** of trips, while the 15 nights and over
@@ -97,12 +98,9 @@ fails.
 
 ## What this work does not claim
 
-**It does not answer whether prices are to blame.** The hypothesis was
-tested against average spending per night from INSETE and no clear
-pattern emerged, but that measure covers **accommodation only**. The cost
-of a holiday also includes food, sunbeds, transport and shopping. Prices
-by region for the domestic tourist are published nowhere, so the question
-stays open rather than answered.
+**It does not answer whether prices are to blame, and it cannot.** Prices
+by region for a resident of Greece are published nowhere. The question
+stays open.
 
 **It does not claim Greeks abandoned the islands.** This was checked
 against mode of transport: trips requiring a ferry or a plane held a
