@@ -1,4 +1,4 @@
-# Why half of Greece cannot afford a week away
+# Nearly half of Greece cannot afford a week away
 
 Data analysis of holiday-taking by residents of Greece, using Eurostat and
 ELSTAT sources, 2009 to 2025.
