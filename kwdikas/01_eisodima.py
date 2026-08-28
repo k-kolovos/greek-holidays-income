@@ -34,6 +34,16 @@ print("κατέβηκαν", len(diakopes), len(eisodima), len(times), "γραμ�
 # 2. Καθάρισμα
 # ------------------------------------------------------------
 
+# Μόνο τα 27 κράτη μέλη και ο μέσος όρος τους. Οι υποψήφιες και οι χώρες
+# του ΕΟΧ έχουν άλλο θεσμικό πλαίσιο και δεν συγκρίνονται.
+kratimeli = ["BE", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR",
+             "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT",
+             "RO", "SI", "SK", "FI", "SE"]
+ee = kratimeli + ["EU27_2020"]
+
+diakopes = diakopes[diakopes["geo"].isin(ee)]
+eisodima = eisodima[eisodima["geo"].isin(ee)]
+
 diakopes = diakopes[(diakopes["hhcomp"] == "TOTAL") & (diakopes["unit"] == "PC")]
 diakopes = diakopes[["geo", "TIME_PERIOD", "rskpovth", "OBS_VALUE", "OBS_FLAG"]]
 diakopes.columns = ["geo", "etos_erevnas", "omada_kod", "pososto", "simaia_ad"]
@@ -47,7 +57,7 @@ eisodima = eisodima[eisodima["statinfo"] == "MED_EI"]
 # στην ένταξη.
 evrozoni = ["AT", "BE", "CY", "DE", "EE", "ES", "FI", "FR", "EL", "HR",
             "IE", "IT", "LT", "LU", "LV", "MT", "NL", "PT", "SI", "SK",
-            "EU27_2020", "EA19", "EA20"]
+            "EU27_2020"]
 
 se_eur = eisodima[(eisodima["unit"] == "EUR") & (eisodima["geo"].isin(evrozoni))]
 se_nac = eisodima[(eisodima["unit"] == "NAC") & (~eisodima["geo"].isin(evrozoni))]
@@ -91,13 +101,7 @@ xores = {
     "FI": "Φινλανδία", "IE": "Ιρλανδία", "LU": "Λουξεμβούργο", "MT": "Μάλτα",
     "EE": "Εσθονία", "LV": "Λετονία", "LT": "Λιθουανία",
     "EU27_2020": "Ευρωπαϊκή Ένωση (27)",
-    "NO": "Νορβηγία", "CH": "Ελβετία", "IS": "Ισλανδία", "RS": "Σερβία",
-    "TR": "Τουρκία", "ME": "Μαυροβούνιο", "MK": "Β. Μακεδονία", "AL": "Αλβανία",
 }
-
-kratimeli = ["BE", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR",
-             "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT",
-             "RO", "SI", "SK", "FI", "SE"]
 
 # Οι έξι χώρες που πέρασαν κρίση χρέους. Συμπληρώνουν τη σύγκριση με
 # όλη την ΕΕ, δεν την αντικαθιστούν.
@@ -232,12 +236,13 @@ for g in anamenomena:
         print("   ", g.ljust(10), "δικό μας", str(diko).rjust(6),
               " Eurostat", str(anamenomena[g]).rjust(6))
 
-print("7. Έλεγχος νομίσματος σε χώρες εκτός ΕΕ")
-for g in ["NO", "TR"]:
+print("7. Έλεγχος νομίσματος σε κράτη μέλη εκτός ευρωζώνης")
+for g, anam in [("HU", 49.9), ("RO", 160.2)]:
     x = pinakas[pinakas["geo"] == g]
     if len(x):
-        print("   ", g, x["metavoli_eisodimatos"].values[0], "%")
-print("    αναμενόμενα NO +15.5 και TR +150.8")
-print("    αν δεις -13.3 και -84.7, το νόμισμα είναι λάθος")
+        print("   ", g, x["metavoli_eisodimatos"].values[0], "%",
+              " αναμενόμενο", anam)
+print("    αν δεις +6.3 και +121.8, η σειρά είναι σε ευρώ και το")
+print("    νόμισμα είναι λάθος")
 
 print("\nτα αρχεία γράφτηκαν στον φάκελο", EXODOS)

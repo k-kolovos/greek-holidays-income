@@ -69,6 +69,14 @@ plithysmos.columns = ["geo", "etos", "plithysmos"]
 # 3. Ένωση και υπολογισμοί
 # ------------------------------------------------------------
 
+# Μόνο τα 27 κράτη μέλη και ο μέσος όρος τους. Οι υποψήφιες, οι χώρες
+# του ΕΟΧ και το Ηνωμένο Βασίλειο έχουν άλλο θεσμικό πλαίσιο.
+ee = ["BE", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR",
+      "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT",
+      "RO", "SI", "SK", "FI", "SE", "EU27_2020"]
+for d in [taxidia, nyxtes, ana_taxidi, ana_nyxta, plithysmos]:
+    d.drop(d[~d["geo"].isin(ee)].index, inplace=True)
+
 olo = pd.merge(taxidia, nyxtes, on=["geo", "proorismos", "etos"])
 olo = pd.merge(olo, plithysmos, on=["geo", "etos"])
 olo = pd.merge(olo, ana_taxidi, on=["geo", "proorismos", "etos"], how="left")
@@ -172,6 +180,7 @@ dap.to_csv(f"{EXODOS}/q2_dapani.csv", index=False, encoding="utf-8-sig")
 
 kat = katalyma[(katalyma["purpose"] == "PER") & (katalyma["duration"] == "N_GE1")]
 kat = kat[kat["c_dest"].isin(["DOM", "FOR"]) & (kat["TIME_PERIOD"] == 2024)]
+kat = kat[kat["geo"].isin(ee)]
 kat = kat[["geo", "c_dest", "accommod", "OBS_VALUE"]]
 kat.columns = ["geo", "proorismos", "typos", "nyxtes"]
 

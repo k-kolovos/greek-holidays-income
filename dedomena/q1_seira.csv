@@ -1,11 +1,4 @@
 ﻿geo,pososto,simaia_ad,xora,kratos_melos,xora_krisis,einai_ellada,einai_ee,omada_xrwmatos,imerominia
-AL,58.5,,Αλβανία,False,False,False,False,Υπόλοιπες,2017-01-01
-AL,56.4,,Αλβανία,False,False,False,False,Υπόλοιπες,2018-01-01
-AL,56.5,,Αλβανία,False,False,False,False,Υπόλοιπες,2019-01-01
-AL,47.2,,Αλβανία,False,False,False,False,Υπόλοιπες,2020-01-01
-AL,50.8,,Αλβανία,False,False,False,False,Υπόλοιπες,2021-01-01
-AL,48.0,,Αλβανία,False,False,False,False,Υπόλοιπες,2022-01-01
-AL,45.4,,Αλβανία,False,False,False,False,Υπόλοιπες,2023-01-01
 AT,20.5,,Αυστρία,True,False,False,False,Υπόλοιπες,2003-01-01
 AT,23.1,,Αυστρία,True,False,False,False,Υπόλοιπες,2004-01-01
 AT,22.7,,Αυστρία,True,False,False,False,Υπόλοιπες,2005-01-01
@@ -73,24 +66,6 @@ BG,34.5,,Βουλγαρία,True,False,False,False,Υπόλοιπες,2022-01-01
 BG,36.1,,Βουλγαρία,True,False,False,False,Υπόλοιπες,2023-01-01
 BG,32.7,,Βουλγαρία,True,False,False,False,Υπόλοιπες,2024-01-01
 BG,30.7,,Βουλγαρία,True,False,False,False,Υπόλοιπες,2025-01-01
-CH,9.1,,Ελβετία,False,False,False,False,Υπόλοιπες,2007-01-01
-CH,7.4,,Ελβετία,False,False,False,False,Υπόλοιπες,2008-01-01
-CH,7.9,,Ελβετία,False,False,False,False,Υπόλοιπες,2009-01-01
-CH,6.9,,Ελβετία,False,False,False,False,Υπόλοιπες,2010-01-01
-CH,6.4,,Ελβετία,False,False,False,False,Υπόλοιπες,2011-01-01
-CH,4.9,,Ελβετία,False,False,False,False,Υπόλοιπες,2012-01-01
-CH,6.5,,Ελβετία,False,False,False,False,Υπόλοιπες,2013-01-01
-CH,7.4,b,Ελβετία,False,False,False,False,Υπόλοιπες,2014-01-01
-CH,6.0,,Ελβετία,False,False,False,False,Υπόλοιπες,2015-01-01
-CH,6.9,,Ελβετία,False,False,False,False,Υπόλοιπες,2016-01-01
-CH,5.8,,Ελβετία,False,False,False,False,Υπόλοιπες,2017-01-01
-CH,7.7,,Ελβετία,False,False,False,False,Υπόλοιπες,2018-01-01
-CH,5.7,,Ελβετία,False,False,False,False,Υπόλοιπες,2019-01-01
-CH,5.4,,Ελβετία,False,False,False,False,Υπόλοιπες,2020-01-01
-CH,6.1,,Ελβετία,False,False,False,False,Υπόλοιπες,2021-01-01
-CH,5.8,,Ελβετία,False,False,False,False,Υπόλοιπες,2022-01-01
-CH,5.8,,Ελβετία,False,False,False,False,Υπόλοιπες,2023-01-01
-CH,6.4,,Ελβετία,False,False,False,False,Υπόλοιπες,2024-01-01
 CY,47.3,,Κύπρος,True,True,False,False,Υπόλοιπες,2005-01-01
 CY,48.2,,Κύπρος,True,True,False,False,Υπόλοιπες,2006-01-01
 CY,47.3,,Κύπρος,True,True,False,False,Υπόλοιπες,2007-01-01
@@ -177,63 +152,6 @@ DK,11.0,,Δανία,True,False,False,False,Υπόλοιπες,2022-01-01
 DK,13.0,,Δανία,True,False,False,False,Υπόλοιπες,2023-01-01
 DK,12.6,,Δανία,True,False,False,False,Υπόλοιπες,2024-01-01
 DK,12.1,,Δανία,True,False,False,False,Υπόλοιπες,2025-01-01
-EA,26.7,e,EA,False,False,False,False,Υπόλοιπες,2011-01-01
-EA,28.2,e,EA,False,False,False,False,Υπόλοιπες,2012-01-01
-EA,28.7,e,EA,False,False,False,False,Υπόλοιπες,2013-01-01
-EA,26.6,e,EA,False,False,False,False,Υπόλοιπες,2014-01-01
-EA,24.9,e,EA,False,False,False,False,Υπόλοιπες,2015-01-01
-EA,23.4,e,EA,False,False,False,False,Υπόλοιπες,2016-01-01
-EA,21.7,e,EA,False,False,False,False,Υπόλοιπες,2017-01-01
-EA,20.9,e,EA,False,False,False,False,Υπόλοιπες,2018-01-01
-EA,20.1,,EA,False,False,False,False,Υπόλοιπες,2019-01-01
-EA,21.5,,EA,False,False,False,False,Υπόλοιπες,2020-01-01
-EA,20.4,,EA,False,False,False,False,Υπόλοιπες,2021-01-01
-EA18,28.0,,EA18,False,False,False,False,Υπόλοιπες,2005-01-01
-EA18,28.1,,EA18,False,False,False,False,Υπόλοιπες,2006-01-01
-EA18,26.5,,EA18,False,False,False,False,Υπόλοιπες,2007-01-01
-EA18,27.1,,EA18,False,False,False,False,Υπόλοιπες,2008-01-01
-EA18,27.4,,EA18,False,False,False,False,Υπόλοιπες,2009-01-01
-EA18,26.7,,EA18,False,False,False,False,Υπόλοιπες,2010-01-01
-EA18,26.9,,EA18,False,False,False,False,Υπόλοιπες,2011-01-01
-EA18,28.3,,EA18,False,False,False,False,Υπόλοιπες,2012-01-01
-EA18,28.8,,EA18,False,False,False,False,Υπόλοιπες,2013-01-01
-EA18,26.6,,EA18,False,False,False,False,Υπόλοιπες,2014-01-01
-EA18,24.8,,EA18,False,False,False,False,Υπόλοιπες,2015-01-01
-EA18,23.3,,EA18,False,False,False,False,Υπόλοιπες,2016-01-01
-EA18,21.6,,EA18,False,False,False,False,Υπόλοιπες,2017-01-01
-EA18,20.9,,EA18,False,False,False,False,Υπόλοιπες,2018-01-01
-EA18,20.0,,EA18,False,False,False,False,Υπόλοιπες,2019-01-01
-EA18,21.4,,EA18,False,False,False,False,Υπόλοιπες,2020-01-01
-EA19,28.4,,EA19,False,False,False,False,Υπόλοιπες,2005-01-01
-EA19,28.5,,EA19,False,False,False,False,Υπόλοιπες,2006-01-01
-EA19,26.8,,EA19,False,False,False,False,Υπόλοιπες,2007-01-01
-EA19,27.1,,EA19,False,False,False,False,Υπόλοιπες,2008-01-01
-EA19,27.4,,EA19,False,False,False,False,Υπόλοιπες,2009-01-01
-EA19,27.0,,EA19,False,False,False,False,Υπόλοιπες,2010-01-01
-EA19,27.1,,EA19,False,False,False,False,Υπόλοιπες,2011-01-01
-EA19,28.5,,EA19,False,False,False,False,Υπόλοιπες,2012-01-01
-EA19,28.9,,EA19,False,False,False,False,Υπόλοιπες,2013-01-01
-EA19,26.7,,EA19,False,False,False,False,Υπόλοιπες,2014-01-01
-EA19,24.9,,EA19,False,False,False,False,Υπόλοιπες,2015-01-01
-EA19,23.4,,EA19,False,False,False,False,Υπόλοιπες,2016-01-01
-EA19,21.7,,EA19,False,False,False,False,Υπόλοιπες,2017-01-01
-EA19,20.9,,EA19,False,False,False,False,Υπόλοιπες,2018-01-01
-EA19,20.1,,EA19,False,False,False,False,Υπόλοιπες,2019-01-01
-EA19,21.5,,EA19,False,False,False,False,Υπόλοιπες,2020-01-01
-EA19,20.4,,EA19,False,False,False,False,Υπόλοιπες,2021-01-01
-EA20,27.1,,EA20,False,False,False,False,Υπόλοιπες,2014-01-01
-EA20,25.3,,EA20,False,False,False,False,Υπόλοιπες,2015-01-01
-EA20,23.8,,EA20,False,False,False,False,Υπόλοιπες,2016-01-01
-EA20,22.1,,EA20,False,False,False,False,Υπόλοιπες,2017-01-01
-EA20,21.2,,EA20,False,False,False,False,Υπόλοιπες,2018-01-01
-EA20,20.3,,EA20,False,False,False,False,Υπόλοιπες,2019-01-01
-EA20,21.7,,EA20,False,False,False,False,Υπόλοιπες,2020-01-01
-EA20,20.5,,EA20,False,False,False,False,Υπόλοιπες,2021-01-01
-EA20,21.5,,EA20,False,False,False,False,Υπόλοιπες,2022-01-01
-EA20,21.6,,EA20,False,False,False,False,Υπόλοιπες,2023-01-01
-EA20,20.3,,EA20,False,False,False,False,Υπόλοιπες,2024-01-01
-EA20,20.6,,EA20,False,False,False,False,Υπόλοιπες,2025-01-01
-EA21,20.7,,EA21,False,False,False,False,Υπόλοιπες,2025-01-01
 EE,67.5,,Εσθονία,True,False,False,False,Υπόλοιπες,2004-01-01
 EE,60.8,,Εσθονία,True,False,False,False,Υπόλοιπες,2005-01-01
 EE,54.9,,Εσθονία,True,False,False,False,Υπόλοιπες,2006-01-01
@@ -301,28 +219,6 @@ ES,26.2,,Ισπανία,True,True,False,False,Υπόλοιπες,2022-01-01
 ES,26.5,,Ισπανία,True,True,False,False,Υπόλοιπες,2023-01-01
 ES,27.1,,Ισπανία,True,True,False,False,Υπόλοιπες,2024-01-01
 ES,26.5,,Ισπανία,True,True,False,False,Υπόλοιπες,2025-01-01
-EU,31.8,,EU,False,False,False,False,Υπόλοιπες,2011-01-01
-EU,33.4,,EU,False,False,False,False,Υπόλοιπες,2012-01-01
-EU,33.2,,EU,False,False,False,False,Υπόλοιπες,2013-01-01
-EU,30.2,,EU,False,False,False,False,Υπόλοιπες,2014-01-01
-EU,27.7,,EU,False,False,False,False,Υπόλοιπες,2015-01-01
-EU,26.2,,EU,False,False,False,False,Υπόλοιπες,2016-01-01
-EU,23.9,,EU,False,False,False,False,Υπόλοιπες,2017-01-01
-EU,22.3,,EU,False,False,False,False,Υπόλοιπες,2018-01-01
-EU,21.4,e,EU,False,False,False,False,Υπόλοιπες,2019-01-01
-EU27_2007,30.8,,EU27_2007,False,False,False,False,Υπόλοιπες,2007-01-01
-EU27_2007,30.9,,EU27_2007,False,False,False,False,Υπόλοιπες,2008-01-01
-EU27_2007,31.0,,EU27_2007,False,False,False,False,Υπόλοιπες,2009-01-01
-EU27_2007,30.9,,EU27_2007,False,False,False,False,Υπόλοιπες,2010-01-01
-EU27_2007,31.6,,EU27_2007,False,False,False,False,Υπόλοιπες,2011-01-01
-EU27_2007,33.1,,EU27_2007,False,False,False,False,Υπόλοιπες,2012-01-01
-EU27_2007,32.9,,EU27_2007,False,False,False,False,Υπόλοιπες,2013-01-01
-EU27_2007,30.0,,EU27_2007,False,False,False,False,Υπόλοιπες,2014-01-01
-EU27_2007,27.4,,EU27_2007,False,False,False,False,Υπόλοιπες,2015-01-01
-EU27_2007,26.0,,EU27_2007,False,False,False,False,Υπόλοιπες,2016-01-01
-EU27_2007,23.7,,EU27_2007,False,False,False,False,Υπόλοιπες,2017-01-01
-EU27_2007,22.2,,EU27_2007,False,False,False,False,Υπόλοιπες,2018-01-01
-EU27_2007,21.2,e,EU27_2007,False,False,False,False,Υπόλοιπες,2019-01-01
 EU27_2020,32.4,e,Ευρωπαϊκή Ένωση (27),False,False,False,True,ΕΕ27,2010-01-01
 EU27_2020,32.7,e,Ευρωπαϊκή Ένωση (27),False,False,False,True,ΕΕ27,2011-01-01
 EU27_2020,34.0,e,Ευρωπαϊκή Ένωση (27),False,False,False,True,ΕΕ27,2012-01-01
@@ -339,16 +235,6 @@ EU27_2020,22.9,,Ευρωπαϊκή Ένωση (27),False,False,False,True,ΕΕ27
 EU27_2020,23.0,,Ευρωπαϊκή Ένωση (27),False,False,False,True,ΕΕ27,2023-01-01
 EU27_2020,21.7,,Ευρωπαϊκή Ένωση (27),False,False,False,True,ΕΕ27,2024-01-01
 EU27_2020,21.9,,Ευρωπαϊκή Ένωση (27),False,False,False,True,ΕΕ27,2025-01-01
-EU28,31.1,,EU28,False,False,False,False,Υπόλοιπες,2010-01-01
-EU28,31.8,,EU28,False,False,False,False,Υπόλοιπες,2011-01-01
-EU28,33.4,,EU28,False,False,False,False,Υπόλοιπες,2012-01-01
-EU28,33.2,,EU28,False,False,False,False,Υπόλοιπες,2013-01-01
-EU28,30.2,,EU28,False,False,False,False,Υπόλοιπες,2014-01-01
-EU28,27.7,,EU28,False,False,False,False,Υπόλοιπες,2015-01-01
-EU28,26.2,,EU28,False,False,False,False,Υπόλοιπες,2016-01-01
-EU28,23.9,,EU28,False,False,False,False,Υπόλοιπες,2017-01-01
-EU28,22.3,,EU28,False,False,False,False,Υπόλοιπες,2018-01-01
-EU28,21.4,e,EU28,False,False,False,False,Υπόλοιπες,2019-01-01
 FI,16.9,,Φινλανδία,True,False,False,False,Υπόλοιπες,2004-01-01
 FI,16.0,,Φινλανδία,True,False,False,False,Υπόλοιπες,2005-01-01
 FI,14.4,,Φινλανδία,True,False,False,False,Υπόλοιπες,2006-01-01
@@ -453,23 +339,6 @@ IE,21.9,,Ιρλανδία,True,True,False,False,Υπόλοιπες,2022-01-01
 IE,20.8,,Ιρλανδία,True,True,False,False,Υπόλοιπες,2023-01-01
 IE,18.8,,Ιρλανδία,True,True,False,False,Υπόλοιπες,2024-01-01
 IE,16.4,,Ιρλανδία,True,True,False,False,Υπόλοιπες,2025-01-01
-IS,12.2,,Ισλανδία,False,False,False,False,Υπόλοιπες,2004-01-01
-IS,9.8,,Ισλανδία,False,False,False,False,Υπόλοιπες,2005-01-01
-IS,12.9,,Ισλανδία,False,False,False,False,Υπόλοιπες,2006-01-01
-IS,12.5,,Ισλανδία,False,False,False,False,Υπόλοιπες,2007-01-01
-IS,2.4,b,Ισλανδία,False,False,False,False,Υπόλοιπες,2008-01-01
-IS,4.0,,Ισλανδία,False,False,False,False,Υπόλοιπες,2009-01-01
-IS,6.5,,Ισλανδία,False,False,False,False,Υπόλοιπες,2010-01-01
-IS,7.1,,Ισλανδία,False,False,False,False,Υπόλοιπες,2011-01-01
-IS,7.2,,Ισλανδία,False,False,False,False,Υπόλοιπες,2012-01-01
-IS,6.3,,Ισλανδία,False,False,False,False,Υπόλοιπες,2013-01-01
-IS,4.7,,Ισλανδία,False,False,False,False,Υπόλοιπες,2014-01-01
-IS,3.8,,Ισλανδία,False,False,False,False,Υπόλοιπες,2015-01-01
-IS,9.9,,Ισλανδία,False,False,False,False,Υπόλοιπες,2016-01-01
-IS,8.8,,Ισλανδία,False,False,False,False,Υπόλοιπες,2017-01-01
-IS,8.0,,Ισλανδία,False,False,False,False,Υπόλοιπες,2018-01-01
-IS,8.5,,Ισλανδία,False,False,False,False,Υπόλοιπες,2019-01-01
-IS,7.4,,Ισλανδία,False,False,False,False,Υπόλοιπες,2020-01-01
 IT,31.5,,Ιταλία,True,True,False,False,Υπόλοιπες,2004-01-01
 IT,31.5,,Ιταλία,True,True,False,False,Υπόλοιπες,2005-01-01
 IT,31.5,,Ιταλία,True,True,False,False,Υπόλοιπες,2006-01-01
@@ -557,32 +426,6 @@ LV,21.0,,Λετονία,True,False,False,False,Υπόλοιπες,2022-01-01
 LV,23.9,,Λετονία,True,False,False,False,Υπόλοιπες,2023-01-01
 LV,22.3,,Λετονία,True,False,False,False,Υπόλοιπες,2024-01-01
 LV,21.7,,Λετονία,True,False,False,False,Υπόλοιπες,2025-01-01
-ME,70.2,,Μαυροβούνιο,False,False,False,False,Υπόλοιπες,2013-01-01
-ME,60.8,,Μαυροβούνιο,False,False,False,False,Υπόλοιπες,2014-01-01
-ME,67.8,,Μαυροβούνιο,False,False,False,False,Υπόλοιπες,2015-01-01
-ME,55.4,,Μαυροβούνιο,False,False,False,False,Υπόλοιπες,2016-01-01
-ME,54.3,,Μαυροβούνιο,False,False,False,False,Υπόλοιπες,2017-01-01
-ME,66.5,,Μαυροβούνιο,False,False,False,False,Υπόλοιπες,2018-01-01
-ME,64.7,,Μαυροβούνιο,False,False,False,False,Υπόλοιπες,2019-01-01
-ME,65.5,,Μαυροβούνιο,False,False,False,False,Υπόλοιπες,2020-01-01
-ME,61.2,,Μαυροβούνιο,False,False,False,False,Υπόλοιπες,2021-01-01
-ME,57.6,,Μαυροβούνιο,False,False,False,False,Υπόλοιπες,2022-01-01
-ME,52.4,,Μαυροβούνιο,False,False,False,False,Υπόλοιπες,2023-01-01
-MK,67.7,,Β. Μακεδονία,False,False,False,False,Υπόλοιπες,2010-01-01
-MK,63.6,,Β. Μακεδονία,False,False,False,False,Υπόλοιπες,2011-01-01
-MK,66.3,,Β. Μακεδονία,False,False,False,False,Υπόλοιπες,2012-01-01
-MK,63.2,,Β. Μακεδονία,False,False,False,False,Υπόλοιπες,2013-01-01
-MK,60.6,,Β. Μακεδονία,False,False,False,False,Υπόλοιπες,2014-01-01
-MK,57.8,,Β. Μακεδονία,False,False,False,False,Υπόλοιπες,2015-01-01
-MK,58.6,,Β. Μακεδονία,False,False,False,False,Υπόλοιπες,2016-01-01
-MK,52.8,,Β. Μακεδονία,False,False,False,False,Υπόλοιπες,2017-01-01
-MK,48.7,,Β. Μακεδονία,False,False,False,False,Υπόλοιπες,2018-01-01
-MK,46.6,,Β. Μακεδονία,False,False,False,False,Υπόλοιπες,2019-01-01
-MK,46.2,,Β. Μακεδονία,False,False,False,False,Υπόλοιπες,2020-01-01
-MK,43.8,b,Β. Μακεδονία,False,False,False,False,Υπόλοιπες,2021-01-01
-MK,46.9,,Β. Μακεδονία,False,False,False,False,Υπόλοιπες,2022-01-01
-MK,41.3,,Β. Μακεδονία,False,False,False,False,Υπόλοιπες,2023-01-01
-MK,37.8,,Β. Μακεδονία,False,False,False,False,Υπόλοιπες,2024-01-01
 MT,64.9,,Μάλτα,True,False,False,False,Υπόλοιπες,2005-01-01
 MT,64.4,,Μάλτα,True,False,False,False,Υπόλοιπες,2006-01-01
 MT,64.5,,Μάλτα,True,False,False,False,Υπόλοιπες,2007-01-01
@@ -625,29 +468,6 @@ NL,8.6,,Ολλανδία,True,False,False,False,Υπόλοιπες,2022-01-01
 NL,9.6,,Ολλανδία,True,False,False,False,Υπόλοιπες,2023-01-01
 NL,9.8,,Ολλανδία,True,False,False,False,Υπόλοιπες,2024-01-01
 NL,9.2,,Ολλανδία,True,False,False,False,Υπόλοιπες,2025-01-01
-NO,8.5,,Νορβηγία,False,False,False,False,Υπόλοιπες,2003-01-01
-NO,7.7,,Νορβηγία,False,False,False,False,Υπόλοιπες,2004-01-01
-NO,6.9,,Νορβηγία,False,False,False,False,Υπόλοιπες,2005-01-01
-NO,5.7,,Νορβηγία,False,False,False,False,Υπόλοιπες,2006-01-01
-NO,4.6,,Νορβηγία,False,False,False,False,Υπόλοιπες,2007-01-01
-NO,4.7,,Νορβηγία,False,False,False,False,Υπόλοιπες,2008-01-01
-NO,5.0,,Νορβηγία,False,False,False,False,Υπόλοιπες,2009-01-01
-NO,4.2,,Νορβηγία,False,False,False,False,Υπόλοιπες,2010-01-01
-NO,4.7,,Νορβηγία,False,False,False,False,Υπόλοιπες,2011-01-01
-NO,4.4,,Νορβηγία,False,False,False,False,Υπόλοιπες,2012-01-01
-NO,4.6,,Νορβηγία,False,False,False,False,Υπόλοιπες,2013-01-01
-NO,3.1,,Νορβηγία,False,False,False,False,Υπόλοιπες,2014-01-01
-NO,3.2,,Νορβηγία,False,False,False,False,Υπόλοιπες,2015-01-01
-NO,3.5,,Νορβηγία,False,False,False,False,Υπόλοιπες,2016-01-01
-NO,4.1,,Νορβηγία,False,False,False,False,Υπόλοιπες,2017-01-01
-NO,3.7,,Νορβηγία,False,False,False,False,Υπόλοιπες,2018-01-01
-NO,4.4,,Νορβηγία,False,False,False,False,Υπόλοιπες,2019-01-01
-NO,3.4,,Νορβηγία,False,False,False,False,Υπόλοιπες,2020-01-01
-NO,5.5,b,Νορβηγία,False,False,False,False,Υπόλοιπες,2021-01-01
-NO,5.7,,Νορβηγία,False,False,False,False,Υπόλοιπες,2022-01-01
-NO,5.6,,Νορβηγία,False,False,False,False,Υπόλοιπες,2023-01-01
-NO,7.1,,Νορβηγία,False,False,False,False,Υπόλοιπες,2024-01-01
-NO,6.6,,Νορβηγία,False,False,False,False,Υπόλοιπες,2025-01-01
 PL,65.7,,Πολωνία,True,False,False,False,Υπόλοιπες,2005-01-01
 PL,62.0,,Πολωνία,True,False,False,False,Υπόλοιπες,2006-01-01
 PL,59.7,,Πολωνία,True,False,False,False,Υπόλοιπες,2007-01-01
@@ -710,19 +530,6 @@ RO,54.5,,Ρουμανία,True,False,False,False,Υπόλοιπες,2022-01-01
 RO,51.6,,Ρουμανία,True,False,False,False,Υπόλοιπες,2023-01-01
 RO,51.4,,Ρουμανία,True,False,False,False,Υπόλοιπες,2024-01-01
 RO,55.0,,Ρουμανία,True,False,False,False,Υπόλοιπες,2025-01-01
-RS,60.2,,Σερβία,False,False,False,False,Υπόλοιπες,2013-01-01
-RS,62.1,,Σερβία,False,False,False,False,Υπόλοιπες,2014-01-01
-RS,61.0,,Σερβία,False,False,False,False,Υπόλοιπες,2015-01-01
-RS,55.3,,Σερβία,False,False,False,False,Υπόλοιπες,2016-01-01
-RS,49.0,,Σερβία,False,False,False,False,Υπόλοιπες,2017-01-01
-RS,43.0,,Σερβία,False,False,False,False,Υπόλοιπες,2018-01-01
-RS,41.3,,Σερβία,False,False,False,False,Υπόλοιπες,2019-01-01
-RS,39.9,,Σερβία,False,False,False,False,Υπόλοιπες,2020-01-01
-RS,33.2,,Σερβία,False,False,False,False,Υπόλοιπες,2021-01-01
-RS,33.6,,Σερβία,False,False,False,False,Υπόλοιπες,2022-01-01
-RS,33.2,,Σερβία,False,False,False,False,Υπόλοιπες,2023-01-01
-RS,30.3,,Σερβία,False,False,False,False,Υπόλοιπες,2024-01-01
-RS,26.6,,Σερβία,False,False,False,False,Υπόλοιπες,2025-01-01
 SE,12.7,,Σουηδία,True,False,False,False,Υπόλοιπες,2004-01-01
 SE,14.0,,Σουηδία,True,False,False,False,Υπόλοιπες,2005-01-01
 SE,12.9,,Σουηδία,True,False,False,False,Υπόλοιπες,2006-01-01
@@ -787,47 +594,6 @@ SK,28.3,,Σλοβακία,True,False,False,False,Υπόλοιπες,2022-01-01
 SK,32.2,,Σλοβακία,True,False,False,False,Υπόλοιπες,2023-01-01
 SK,29.8,,Σλοβακία,True,False,False,False,Υπόλοιπες,2024-01-01
 SK,24.6,,Σλοβακία,True,False,False,False,Υπόλοιπες,2025-01-01
-TR,84.6,,Τουρκία,False,False,False,False,Υπόλοιπες,2006-01-01
-TR,85.0,,Τουρκία,False,False,False,False,Υπόλοιπες,2007-01-01
-TR,85.4,,Τουρκία,False,False,False,False,Υπόλοιπες,2008-01-01
-TR,83.4,,Τουρκία,False,False,False,False,Υπόλοιπες,2009-01-01
-TR,82.6,,Τουρκία,False,False,False,False,Υπόλοιπες,2011-01-01
-TR,81.9,,Τουρκία,False,False,False,False,Υπόλοιπες,2012-01-01
-TR,72.6,b,Τουρκία,False,False,False,False,Υπόλοιπες,2013-01-01
-TR,60.8,,Τουρκία,False,False,False,False,Υπόλοιπες,2014-01-01
-TR,65.0,,Τουρκία,False,False,False,False,Υπόλοιπες,2015-01-01
-TR,58.3,,Τουρκία,False,False,False,False,Υπόλοιπες,2016-01-01
-TR,52.4,,Τουρκία,False,False,False,False,Υπόλοιπες,2017-01-01
-TR,49.5,,Τουρκία,False,False,False,False,Υπόλοιπες,2018-01-01
-TR,50.2,,Τουρκία,False,False,False,False,Υπόλοιπες,2019-01-01
-TR,51.2,,Τουρκία,False,False,False,False,Υπόλοιπες,2020-01-01
-TR,53.1,,Τουρκία,False,False,False,False,Υπόλοιπες,2021-01-01
-TR,51.1,,Τουρκία,False,False,False,False,Υπόλοιπες,2022-01-01
-TR,51.8,,Τουρκία,False,False,False,False,Υπόλοιπες,2023-01-01
-TR,49.3,,Τουρκία,False,False,False,False,Υπόλοιπες,2024-01-01
-TR,39.6,,Τουρκία,False,False,False,False,Υπόλοιπες,2025-01-01
-UK,18.0,,UK,False,False,False,False,Υπόλοιπες,2005-01-01
-UK,17.1,,UK,False,False,False,False,Υπόλοιπες,2006-01-01
-UK,16.3,,UK,False,False,False,False,Υπόλοιπες,2007-01-01
-UK,18.8,,UK,False,False,False,False,Υπόλοιπες,2008-01-01
-UK,20.8,,UK,False,False,False,False,Υπόλοιπες,2009-01-01
-UK,22.4,,UK,False,False,False,False,Υπόλοιπες,2010-01-01
-UK,25.5,,UK,False,False,False,False,Υπόλοιπες,2011-01-01
-UK,28.5,b,UK,False,False,False,False,Υπόλοιπες,2012-01-01
-UK,28.6,,UK,False,False,False,False,Υπόλοιπες,2013-01-01
-UK,27.1,,UK,False,False,False,False,Υπόλοιπες,2014-01-01
-UK,24.0,,UK,False,False,False,False,Υπόλοιπες,2015-01-01
-UK,24.0,,UK,False,False,False,False,Υπόλοιπες,2016-01-01
-UK,18.7,b,UK,False,False,False,False,Υπόλοιπες,2017-01-01
-UK,18.4,,UK,False,False,False,False,Υπόλοιπες,2018-01-01
-XK,61.1,,XK,False,False,False,False,Υπόλοιπες,2018-01-01
-AL,84.2,,Αλβανία,False,False,False,False,Υπόλοιπες,2017-01-01
-AL,85.7,,Αλβανία,False,False,False,False,Υπόλοιπες,2018-01-01
-AL,87.5,,Αλβανία,False,False,False,False,Υπόλοιπες,2019-01-01
-AL,94.5,,Αλβανία,False,False,False,False,Υπόλοιπες,2020-01-01
-AL,84.8,,Αλβανία,False,False,False,False,Υπόλοιπες,2021-01-01
-AL,83.9,,Αλβανία,False,False,False,False,Υπόλοιπες,2022-01-01
-AL,82.4,,Αλβανία,False,False,False,False,Υπόλοιπες,2023-01-01
 AT,46.4,,Αυστρία,True,False,False,False,Υπόλοιπες,2003-01-01
 AT,50.5,,Αυστρία,True,False,False,False,Υπόλοιπες,2004-01-01
 AT,53.9,,Αυστρία,True,False,False,False,Υπόλοιπες,2005-01-01
@@ -895,24 +661,6 @@ BG,75.4,,Βουλγαρία,True,False,False,False,Υπόλοιπες,2022-01-01
 BG,75.4,,Βουλγαρία,True,False,False,False,Υπόλοιπες,2023-01-01
 BG,72.9,,Βουλγαρία,True,False,False,False,Υπόλοιπες,2024-01-01
 BG,70.1,,Βουλγαρία,True,False,False,False,Υπόλοιπες,2025-01-01
-CH,23.8,,Ελβετία,False,False,False,False,Υπόλοιπες,2007-01-01
-CH,20.5,,Ελβετία,False,False,False,False,Υπόλοιπες,2008-01-01
-CH,23.7,,Ελβετία,False,False,False,False,Υπόλοιπες,2009-01-01
-CH,22.8,,Ελβετία,False,False,False,False,Υπόλοιπες,2010-01-01
-CH,20.7,,Ελβετία,False,False,False,False,Υπόλοιπες,2011-01-01
-CH,20.5,,Ελβετία,False,False,False,False,Υπόλοιπες,2012-01-01
-CH,22.1,,Ελβετία,False,False,False,False,Υπόλοιπες,2013-01-01
-CH,24.0,b,Ελβετία,False,False,False,False,Υπόλοιπες,2014-01-01
-CH,21.3,,Ελβετία,False,False,False,False,Υπόλοιπες,2015-01-01
-CH,20.2,,Ελβετία,False,False,False,False,Υπόλοιπες,2016-01-01
-CH,23.6,,Ελβετία,False,False,False,False,Υπόλοιπες,2017-01-01
-CH,21.5,,Ελβετία,False,False,False,False,Υπόλοιπες,2018-01-01
-CH,24.6,,Ελβετία,False,False,False,False,Υπόλοιπες,2019-01-01
-CH,21.6,,Ελβετία,False,False,False,False,Υπόλοιπες,2020-01-01
-CH,21.8,,Ελβετία,False,False,False,False,Υπόλοιπες,2021-01-01
-CH,24.9,,Ελβετία,False,False,False,False,Υπόλοιπες,2022-01-01
-CH,23.3,,Ελβετία,False,False,False,False,Υπόλοιπες,2023-01-01
-CH,20.3,,Ελβετία,False,False,False,False,Υπόλοιπες,2024-01-01
 CY,82.5,,Κύπρος,True,True,False,False,Υπόλοιπες,2005-01-01
 CY,85.0,,Κύπρος,True,True,False,False,Υπόλοιπες,2006-01-01
 CY,83.2,,Κύπρος,True,True,False,False,Υπόλοιπες,2007-01-01
@@ -999,63 +747,6 @@ DK,26.3,,Δανία,True,False,False,False,Υπόλοιπες,2022-01-01
 DK,33.6,,Δανία,True,False,False,False,Υπόλοιπες,2023-01-01
 DK,31.9,,Δανία,True,False,False,False,Υπόλοιπες,2024-01-01
 DK,28.9,,Δανία,True,False,False,False,Υπόλοιπες,2025-01-01
-EA,67.3,e,EA,False,False,False,False,Υπόλοιπες,2011-01-01
-EA,68.5,e,EA,False,False,False,False,Υπόλοιπες,2012-01-01
-EA,69.0,e,EA,False,False,False,False,Υπόλοιπες,2013-01-01
-EA,68.2,e,EA,False,False,False,False,Υπόλοιπες,2014-01-01
-EA,65.5,e,EA,False,False,False,False,Υπόλοιπες,2015-01-01
-EA,64.2,e,EA,False,False,False,False,Υπόλοιπες,2016-01-01
-EA,58.9,e,EA,False,False,False,False,Υπόλοιπες,2017-01-01
-EA,58.7,e,EA,False,False,False,False,Υπόλοιπες,2018-01-01
-EA,57.6,,EA,False,False,False,False,Υπόλοιπες,2019-01-01
-EA,56.9,,EA,False,False,False,False,Υπόλοιπες,2020-01-01
-EA,54.7,,EA,False,False,False,False,Υπόλοιπες,2021-01-01
-EA18,64.9,,EA18,False,False,False,False,Υπόλοιπες,2005-01-01
-EA18,65.3,,EA18,False,False,False,False,Υπόλοιπες,2006-01-01
-EA18,63.0,,EA18,False,False,False,False,Υπόλοιπες,2007-01-01
-EA18,64.6,,EA18,False,False,False,False,Υπόλοιπες,2008-01-01
-EA18,66.4,,EA18,False,False,False,False,Υπόλοιπες,2009-01-01
-EA18,66.9,,EA18,False,False,False,False,Υπόλοιπες,2010-01-01
-EA18,67.4,,EA18,False,False,False,False,Υπόλοιπες,2011-01-01
-EA18,68.6,,EA18,False,False,False,False,Υπόλοιπες,2012-01-01
-EA18,69.1,,EA18,False,False,False,False,Υπόλοιπες,2013-01-01
-EA18,68.2,,EA18,False,False,False,False,Υπόλοιπες,2014-01-01
-EA18,65.5,,EA18,False,False,False,False,Υπόλοιπες,2015-01-01
-EA18,64.1,,EA18,False,False,False,False,Υπόλοιπες,2016-01-01
-EA18,58.7,,EA18,False,False,False,False,Υπόλοιπες,2017-01-01
-EA18,58.6,,EA18,False,False,False,False,Υπόλοιπες,2018-01-01
-EA18,57.6,,EA18,False,False,False,False,Υπόλοιπες,2019-01-01
-EA18,56.8,,EA18,False,False,False,False,Υπόλοιπες,2020-01-01
-EA19,65.2,,EA19,False,False,False,False,Υπόλοιπες,2005-01-01
-EA19,65.7,,EA19,False,False,False,False,Υπόλοιπες,2006-01-01
-EA19,63.3,,EA19,False,False,False,False,Υπόλοιπες,2007-01-01
-EA19,64.5,,EA19,False,False,False,False,Υπόλοιπες,2008-01-01
-EA19,66.3,,EA19,False,False,False,False,Υπόλοιπες,2009-01-01
-EA19,67.1,,EA19,False,False,False,False,Υπόλοιπες,2010-01-01
-EA19,67.5,,EA19,False,False,False,False,Υπόλοιπες,2011-01-01
-EA19,68.6,,EA19,False,False,False,False,Υπόλοιπες,2012-01-01
-EA19,69.1,,EA19,False,False,False,False,Υπόλοιπες,2013-01-01
-EA19,68.2,,EA19,False,False,False,False,Υπόλοιπες,2014-01-01
-EA19,65.5,,EA19,False,False,False,False,Υπόλοιπες,2015-01-01
-EA19,64.2,,EA19,False,False,False,False,Υπόλοιπες,2016-01-01
-EA19,58.9,,EA19,False,False,False,False,Υπόλοιπες,2017-01-01
-EA19,58.7,,EA19,False,False,False,False,Υπόλοιπες,2018-01-01
-EA19,57.6,,EA19,False,False,False,False,Υπόλοιπες,2019-01-01
-EA19,56.9,,EA19,False,False,False,False,Υπόλοιπες,2020-01-01
-EA19,54.7,,EA19,False,False,False,False,Υπόλοιπες,2021-01-01
-EA20,68.5,,EA20,False,False,False,False,Υπόλοιπες,2014-01-01
-EA20,65.9,,EA20,False,False,False,False,Υπόλοιπες,2015-01-01
-EA20,64.6,,EA20,False,False,False,False,Υπόλοιπες,2016-01-01
-EA20,59.3,,EA20,False,False,False,False,Υπόλοιπες,2017-01-01
-EA20,59.1,,EA20,False,False,False,False,Υπόλοιπες,2018-01-01
-EA20,58.0,,EA20,False,False,False,False,Υπόλοιπες,2019-01-01
-EA20,57.3,,EA20,False,False,False,False,Υπόλοιπες,2020-01-01
-EA20,55.2,,EA20,False,False,False,False,Υπόλοιπες,2021-01-01
-EA20,56.5,,EA20,False,False,False,False,Υπόλοιπες,2022-01-01
-EA20,55.5,,EA20,False,False,False,False,Υπόλοιπες,2023-01-01
-EA20,53.3,,EA20,False,False,False,False,Υπόλοιπες,2024-01-01
-EA20,55.0,,EA20,False,False,False,False,Υπόλοιπες,2025-01-01
-EA21,55.4,,EA21,False,False,False,False,Υπόλοιπες,2025-01-01
 EE,90.7,,Εσθονία,True,False,False,False,Υπόλοιπες,2004-01-01
 EE,88.1,,Εσθονία,True,False,False,False,Υπόλοιπες,2005-01-01
 EE,88.3,,Εσθονία,True,False,False,False,Υπόλοιπες,2006-01-01
@@ -1123,28 +814,6 @@ ES,62.4,,Ισπανία,True,True,False,False,Υπόλοιπες,2022-01-01
 ES,59.7,,Ισπανία,True,True,False,False,Υπόλοιπες,2023-01-01
 ES,59.3,,Ισπανία,True,True,False,False,Υπόλοιπες,2024-01-01
 ES,55.9,,Ισπανία,True,True,False,False,Υπόλοιπες,2025-01-01
-EU,69.1,,EU,False,False,False,False,Υπόλοιπες,2011-01-01
-EU,70.5,,EU,False,False,False,False,Υπόλοιπες,2012-01-01
-EU,71.0,,EU,False,False,False,False,Υπόλοιπες,2013-01-01
-EU,68.9,,EU,False,False,False,False,Υπόλοιπες,2014-01-01
-EU,66.5,,EU,False,False,False,False,Υπόλοιπες,2015-01-01
-EU,64.3,,EU,False,False,False,False,Υπόλοιπες,2016-01-01
-EU,60.0,,EU,False,False,False,False,Υπόλοιπες,2017-01-01
-EU,58.4,,EU,False,False,False,False,Υπόλοιπες,2018-01-01
-EU,57.5,e,EU,False,False,False,False,Υπόλοιπες,2019-01-01
-EU27_2007,65.5,,EU27_2007,False,False,False,False,Υπόλοιπες,2007-01-01
-EU27_2007,65.9,,EU27_2007,False,False,False,False,Υπόλοιπες,2008-01-01
-EU27_2007,67.9,,EU27_2007,False,False,False,False,Υπόλοιπες,2009-01-01
-EU27_2007,68.4,,EU27_2007,False,False,False,False,Υπόλοιπες,2010-01-01
-EU27_2007,68.9,,EU27_2007,False,False,False,False,Υπόλοιπες,2011-01-01
-EU27_2007,70.2,,EU27_2007,False,False,False,False,Υπόλοιπες,2012-01-01
-EU27_2007,70.8,,EU27_2007,False,False,False,False,Υπόλοιπες,2013-01-01
-EU27_2007,68.6,,EU27_2007,False,False,False,False,Υπόλοιπες,2014-01-01
-EU27_2007,66.2,,EU27_2007,False,False,False,False,Υπόλοιπες,2015-01-01
-EU27_2007,64.0,,EU27_2007,False,False,False,False,Υπόλοιπες,2016-01-01
-EU27_2007,59.7,,EU27_2007,False,False,False,False,Υπόλοιπες,2017-01-01
-EU27_2007,58.1,,EU27_2007,False,False,False,False,Υπόλοιπες,2018-01-01
-EU27_2007,57.3,e,EU27_2007,False,False,False,False,Υπόλοιπες,2019-01-01
 EU27_2020,71.2,e,Ευρωπαϊκή Ένωση (27),False,False,False,True,ΕΕ27,2010-01-01
 EU27_2020,71.5,e,Ευρωπαϊκή Ένωση (27),False,False,False,True,ΕΕ27,2011-01-01
 EU27_2020,72.3,e,Ευρωπαϊκή Ένωση (27),False,False,False,True,ΕΕ27,2012-01-01
@@ -1161,16 +830,6 @@ EU27_2020,57.9,,Ευρωπαϊκή Ένωση (27),False,False,False,True,ΕΕ27
 EU27_2020,57.2,,Ευρωπαϊκή Ένωση (27),False,False,False,True,ΕΕ27,2023-01-01
 EU27_2020,54.9,,Ευρωπαϊκή Ένωση (27),False,False,False,True,ΕΕ27,2024-01-01
 EU27_2020,56.2,,Ευρωπαϊκή Ένωση (27),False,False,False,True,ΕΕ27,2025-01-01
-EU28,68.6,,EU28,False,False,False,False,Υπόλοιπες,2010-01-01
-EU28,69.2,,EU28,False,False,False,False,Υπόλοιπες,2011-01-01
-EU28,70.5,,EU28,False,False,False,False,Υπόλοιπες,2012-01-01
-EU28,71.0,,EU28,False,False,False,False,Υπόλοιπες,2013-01-01
-EU28,68.9,,EU28,False,False,False,False,Υπόλοιπες,2014-01-01
-EU28,66.5,,EU28,False,False,False,False,Υπόλοιπες,2015-01-01
-EU28,64.3,,EU28,False,False,False,False,Υπόλοιπες,2016-01-01
-EU28,60.0,,EU28,False,False,False,False,Υπόλοιπες,2017-01-01
-EU28,58.4,,EU28,False,False,False,False,Υπόλοιπες,2018-01-01
-EU28,57.5,e,EU28,False,False,False,False,Υπόλοιπες,2019-01-01
 FI,44.2,,Φινλανδία,True,False,False,False,Υπόλοιπες,2004-01-01
 FI,49.2,,Φινλανδία,True,False,False,False,Υπόλοιπες,2005-01-01
 FI,48.6,,Φινλανδία,True,False,False,False,Υπόλοιπες,2006-01-01
@@ -1275,23 +934,6 @@ IE,53.7,,Ιρλανδία,True,True,False,False,Υπόλοιπες,2022-01-01
 IE,45.2,,Ιρλανδία,True,True,False,False,Υπόλοιπες,2023-01-01
 IE,51.6,,Ιρλανδία,True,True,False,False,Υπόλοιπες,2024-01-01
 IE,48.3,,Ιρλανδία,True,True,False,False,Υπόλοιπες,2025-01-01
-IS,26.0,,Ισλανδία,False,False,False,False,Υπόλοιπες,2004-01-01
-IS,22.9,,Ισλανδία,False,False,False,False,Υπόλοιπες,2005-01-01
-IS,23.8,,Ισλανδία,False,False,False,False,Υπόλοιπες,2006-01-01
-IS,28.7,,Ισλανδία,False,False,False,False,Υπόλοιπες,2007-01-01
-IS,10.4,b,Ισλανδία,False,False,False,False,Υπόλοιπες,2008-01-01
-IS,8.3,,Ισλανδία,False,False,False,False,Υπόλοιπες,2009-01-01
-IS,12.5,,Ισλανδία,False,False,False,False,Υπόλοιπες,2010-01-01
-IS,15.0,,Ισλανδία,False,False,False,False,Υπόλοιπες,2011-01-01
-IS,14.8,,Ισλανδία,False,False,False,False,Υπόλοιπες,2012-01-01
-IS,16.3,,Ισλανδία,False,False,False,False,Υπόλοιπες,2013-01-01
-IS,15.7,,Ισλανδία,False,False,False,False,Υπόλοιπες,2014-01-01
-IS,12.1,,Ισλανδία,False,False,False,False,Υπόλοιπες,2015-01-01
-IS,22.1,,Ισλανδία,False,False,False,False,Υπόλοιπες,2016-01-01
-IS,23.9,,Ισλανδία,False,False,False,False,Υπόλοιπες,2017-01-01
-IS,14.3,,Ισλανδία,False,False,False,False,Υπόλοιπες,2018-01-01
-IS,20.3,,Ισλανδία,False,False,False,False,Υπόλοιπες,2019-01-01
-IS,13.4,,Ισλανδία,False,False,False,False,Υπόλοιπες,2020-01-01
 IT,69.2,,Ιταλία,True,True,False,False,Υπόλοιπες,2004-01-01
 IT,71.1,,Ιταλία,True,True,False,False,Υπόλοιπες,2005-01-01
 IT,70.6,,Ιταλία,True,True,False,False,Υπόλοιπες,2006-01-01
@@ -1379,32 +1021,6 @@ LV,54.3,,Λετονία,True,False,False,False,Υπόλοιπες,2022-01-01
 LV,57.4,,Λετονία,True,False,False,False,Υπόλοιπες,2023-01-01
 LV,54.0,,Λετονία,True,False,False,False,Υπόλοιπες,2024-01-01
 LV,54.3,,Λετονία,True,False,False,False,Υπόλοιπες,2025-01-01
-ME,94.2,,Μαυροβούνιο,False,False,False,False,Υπόλοιπες,2013-01-01
-ME,67.1,,Μαυροβούνιο,False,False,False,False,Υπόλοιπες,2014-01-01
-ME,90.3,,Μαυροβούνιο,False,False,False,False,Υπόλοιπες,2015-01-01
-ME,88.7,,Μαυροβούνιο,False,False,False,False,Υπόλοιπες,2016-01-01
-ME,81.9,,Μαυροβούνιο,False,False,False,False,Υπόλοιπες,2017-01-01
-ME,88.1,,Μαυροβούνιο,False,False,False,False,Υπόλοιπες,2018-01-01
-ME,87.5,,Μαυροβούνιο,False,False,False,False,Υπόλοιπες,2019-01-01
-ME,89.4,,Μαυροβούνιο,False,False,False,False,Υπόλοιπες,2020-01-01
-ME,89.2,,Μαυροβούνιο,False,False,False,False,Υπόλοιπες,2021-01-01
-ME,89.1,,Μαυροβούνιο,False,False,False,False,Υπόλοιπες,2022-01-01
-ME,81.2,,Μαυροβούνιο,False,False,False,False,Υπόλοιπες,2023-01-01
-MK,91.9,,Β. Μακεδονία,False,False,False,False,Υπόλοιπες,2010-01-01
-MK,94.1,,Β. Μακεδονία,False,False,False,False,Υπόλοιπες,2011-01-01
-MK,94.0,,Β. Μακεδονία,False,False,False,False,Υπόλοιπες,2012-01-01
-MK,94.0,,Β. Μακεδονία,False,False,False,False,Υπόλοιπες,2013-01-01
-MK,94.5,,Β. Μακεδονία,False,False,False,False,Υπόλοιπες,2014-01-01
-MK,87.0,,Β. Μακεδονία,False,False,False,False,Υπόλοιπες,2015-01-01
-MK,89.2,,Β. Μακεδονία,False,False,False,False,Υπόλοιπες,2016-01-01
-MK,90.6,,Β. Μακεδονία,False,False,False,False,Υπόλοιπες,2017-01-01
-MK,89.0,,Β. Μακεδονία,False,False,False,False,Υπόλοιπες,2018-01-01
-MK,88.9,,Β. Μακεδονία,False,False,False,False,Υπόλοιπες,2019-01-01
-MK,86.3,,Β. Μακεδονία,False,False,False,False,Υπόλοιπες,2020-01-01
-MK,86.9,b,Β. Μακεδονία,False,False,False,False,Υπόλοιπες,2021-01-01
-MK,85.6,,Β. Μακεδονία,False,False,False,False,Υπόλοιπες,2022-01-01
-MK,80.9,,Β. Μακεδονία,False,False,False,False,Υπόλοιπες,2023-01-01
-MK,84.3,,Β. Μακεδονία,False,False,False,False,Υπόλοιπες,2024-01-01
 MT,84.5,,Μάλτα,True,False,False,False,Υπόλοιπες,2005-01-01
 MT,82.6,,Μάλτα,True,False,False,False,Υπόλοιπες,2006-01-01
 MT,82.4,,Μάλτα,True,False,False,False,Υπόλοιπες,2007-01-01
@@ -1447,29 +1063,6 @@ NL,37.6,,Ολλανδία,True,False,False,False,Υπόλοιπες,2022-01-01
 NL,38.9,,Ολλανδία,True,False,False,False,Υπόλοιπες,2023-01-01
 NL,37.0,,Ολλανδία,True,False,False,False,Υπόλοιπες,2024-01-01
 NL,38.2,,Ολλανδία,True,False,False,False,Υπόλοιπες,2025-01-01
-NO,27.1,,Νορβηγία,False,False,False,False,Υπόλοιπες,2003-01-01
-NO,24.2,,Νορβηγία,False,False,False,False,Υπόλοιπες,2004-01-01
-NO,27.0,,Νορβηγία,False,False,False,False,Υπόλοιπες,2005-01-01
-NO,24.1,,Νορβηγία,False,False,False,False,Υπόλοιπες,2006-01-01
-NO,19.0,,Νορβηγία,False,False,False,False,Υπόλοιπες,2007-01-01
-NO,20.2,,Νορβηγία,False,False,False,False,Υπόλοιπες,2008-01-01
-NO,25.2,,Νορβηγία,False,False,False,False,Υπόλοιπες,2009-01-01
-NO,25.6,,Νορβηγία,False,False,False,False,Υπόλοιπες,2010-01-01
-NO,25.3,,Νορβηγία,False,False,False,False,Υπόλοιπες,2011-01-01
-NO,23.2,,Νορβηγία,False,False,False,False,Υπόλοιπες,2012-01-01
-NO,27.3,,Νορβηγία,False,False,False,False,Υπόλοιπες,2013-01-01
-NO,22.0,,Νορβηγία,False,False,False,False,Υπόλοιπες,2014-01-01
-NO,21.4,,Νορβηγία,False,False,False,False,Υπόλοιπες,2015-01-01
-NO,24.4,,Νορβηγία,False,False,False,False,Υπόλοιπες,2016-01-01
-NO,25.6,,Νορβηγία,False,False,False,False,Υπόλοιπες,2017-01-01
-NO,24.6,,Νορβηγία,False,False,False,False,Υπόλοιπες,2018-01-01
-NO,26.9,,Νορβηγία,False,False,False,False,Υπόλοιπες,2019-01-01
-NO,31.8,,Νορβηγία,False,False,False,False,Υπόλοιπες,2020-01-01
-NO,29.0,b,Νορβηγία,False,False,False,False,Υπόλοιπες,2021-01-01
-NO,24.0,,Νορβηγία,False,False,False,False,Υπόλοιπες,2022-01-01
-NO,25.8,,Νορβηγία,False,False,False,False,Υπόλοιπες,2023-01-01
-NO,27.1,,Νορβηγία,False,False,False,False,Υπόλοιπες,2024-01-01
-NO,29.0,,Νορβηγία,False,False,False,False,Υπόλοιπες,2025-01-01
 PL,89.2,,Πολωνία,True,False,False,False,Υπόλοιπες,2005-01-01
 PL,89.5,,Πολωνία,True,False,False,False,Υπόλοιπες,2006-01-01
 PL,88.5,,Πολωνία,True,False,False,False,Υπόλοιπες,2007-01-01
@@ -1532,19 +1125,6 @@ RO,92.0,,Ρουμανία,True,False,False,False,Υπόλοιπες,2022-01-01
 RO,89.1,,Ρουμανία,True,False,False,False,Υπόλοιπες,2023-01-01
 RO,89.2,,Ρουμανία,True,False,False,False,Υπόλοιπες,2024-01-01
 RO,89.8,,Ρουμανία,True,False,False,False,Υπόλοιπες,2025-01-01
-RS,88.9,,Σερβία,False,False,False,False,Υπόλοιπες,2013-01-01
-RS,87.6,,Σερβία,False,False,False,False,Υπόλοιπες,2014-01-01
-RS,89.1,,Σερβία,False,False,False,False,Υπόλοιπες,2015-01-01
-RS,84.7,,Σερβία,False,False,False,False,Υπόλοιπες,2016-01-01
-RS,79.9,,Σερβία,False,False,False,False,Υπόλοιπες,2017-01-01
-RS,80.1,,Σερβία,False,False,False,False,Υπόλοιπες,2018-01-01
-RS,81.5,,Σερβία,False,False,False,False,Υπόλοιπες,2019-01-01
-RS,83.1,,Σερβία,False,False,False,False,Υπόλοιπες,2020-01-01
-RS,85.2,,Σερβία,False,False,False,False,Υπόλοιπες,2021-01-01
-RS,72.9,,Σερβία,False,False,False,False,Υπόλοιπες,2022-01-01
-RS,73.0,,Σερβία,False,False,False,False,Υπόλοιπες,2023-01-01
-RS,69.3,,Σερβία,False,False,False,False,Υπόλοιπες,2024-01-01
-RS,76.1,,Σερβία,False,False,False,False,Υπόλοιπες,2025-01-01
 SE,34.0,,Σουηδία,True,False,False,False,Υπόλοιπες,2004-01-01
 SE,32.4,,Σουηδία,True,False,False,False,Υπόλοιπες,2005-01-01
 SE,31.9,,Σουηδία,True,False,False,False,Υπόλοιπες,2006-01-01
@@ -1609,47 +1189,6 @@ SK,68.1,,Σλοβακία,True,False,False,False,Υπόλοιπες,2022-01-01
 SK,60.6,,Σλοβακία,True,False,False,False,Υπόλοιπες,2023-01-01
 SK,54.0,,Σλοβακία,True,False,False,False,Υπόλοιπες,2024-01-01
 SK,61.5,,Σλοβακία,True,False,False,False,Υπόλοιπες,2025-01-01
-TR,99.3,,Τουρκία,False,False,False,False,Υπόλοιπες,2006-01-01
-TR,99.0,,Τουρκία,False,False,False,False,Υπόλοιπες,2007-01-01
-TR,99.3,,Τουρκία,False,False,False,False,Υπόλοιπες,2008-01-01
-TR,99.3,,Τουρκία,False,False,False,False,Υπόλοιπες,2009-01-01
-TR,99.3,,Τουρκία,False,False,False,False,Υπόλοιπες,2011-01-01
-TR,98.8,,Τουρκία,False,False,False,False,Υπόλοιπες,2012-01-01
-TR,98.3,b,Τουρκία,False,False,False,False,Υπόλοιπες,2013-01-01
-TR,95.1,,Τουρκία,False,False,False,False,Υπόλοιπες,2014-01-01
-TR,93.6,,Τουρκία,False,False,False,False,Υπόλοιπες,2015-01-01
-TR,92.0,,Τουρκία,False,False,False,False,Υπόλοιπες,2016-01-01
-TR,90.2,,Τουρκία,False,False,False,False,Υπόλοιπες,2017-01-01
-TR,89.5,,Τουρκία,False,False,False,False,Υπόλοιπες,2018-01-01
-TR,88.2,,Τουρκία,False,False,False,False,Υπόλοιπες,2019-01-01
-TR,86.0,,Τουρκία,False,False,False,False,Υπόλοιπες,2020-01-01
-TR,87.6,,Τουρκία,False,False,False,False,Υπόλοιπες,2021-01-01
-TR,89.0,,Τουρκία,False,False,False,False,Υπόλοιπες,2022-01-01
-TR,85.5,,Τουρκία,False,False,False,False,Υπόλοιπες,2023-01-01
-TR,85.9,,Τουρκία,False,False,False,False,Υπόλοιπες,2024-01-01
-TR,86.1,,Τουρκία,False,False,False,False,Υπόλοιπες,2025-01-01
-UK,46.2,,UK,False,False,False,False,Υπόλοιπες,2005-01-01
-UK,47.4,,UK,False,False,False,False,Υπόλοιπες,2006-01-01
-UK,43.9,,UK,False,False,False,False,Υπόλοιπες,2007-01-01
-UK,46.4,,UK,False,False,False,False,Υπόλοιπες,2008-01-01
-UK,51.4,,UK,False,False,False,False,Υπόλοιπες,2009-01-01
-UK,51.4,,UK,False,False,False,False,Υπόλοιπες,2010-01-01
-UK,51.8,,UK,False,False,False,False,Υπόλοιπες,2011-01-01
-UK,56.2,b,UK,False,False,False,False,Υπόλοιπες,2012-01-01
-UK,57.4,,UK,False,False,False,False,Υπόλοιπες,2013-01-01
-UK,53.8,,UK,False,False,False,False,Υπόλοιπες,2014-01-01
-UK,53.0,,UK,False,False,False,False,Υπόλοιπες,2015-01-01
-UK,47.5,,UK,False,False,False,False,Υπόλοιπες,2016-01-01
-UK,48.0,b,UK,False,False,False,False,Υπόλοιπες,2017-01-01
-UK,46.0,,UK,False,False,False,False,Υπόλοιπες,2018-01-01
-XK,91.1,,XK,False,False,False,False,Υπόλοιπες,2018-01-01
-AL,64.6,,Αλβανία,False,False,False,False,Υπόλοιπες,2017-01-01
-AL,63.3,,Αλβανία,False,False,False,False,Υπόλοιπες,2018-01-01
-AL,63.6,,Αλβανία,False,False,False,False,Υπόλοιπες,2019-01-01
-AL,57.5,,Αλβανία,False,False,False,False,Υπόλοιπες,2020-01-01
-AL,58.3,,Αλβανία,False,False,False,False,Υπόλοιπες,2021-01-01
-AL,55.4,,Αλβανία,False,False,False,False,Υπόλοιπες,2022-01-01
-AL,52.7,,Αλβανία,False,False,False,False,Υπόλοιπες,2023-01-01
 AT,23.9,,Αυστρία,True,False,False,False,Υπόλοιπες,2003-01-01
 AT,26.6,,Αυστρία,True,False,False,False,Υπόλοιπες,2004-01-01
 AT,26.6,,Αυστρία,True,False,False,False,Υπόλοιπες,2005-01-01
@@ -1717,24 +1256,6 @@ BG,43.8,,Βουλγαρία,True,False,False,False,Υπόλοιπες,2022-01-01
 BG,44.2,,Βουλγαρία,True,False,False,False,Υπόλοιπες,2023-01-01
 BG,41.4,,Βουλγαρία,True,False,False,False,Υπόλοιπες,2024-01-01
 BG,39.1,,Βουλγαρία,True,False,False,False,Υπόλοιπες,2025-01-01
-CH,11.3,,Ελβετία,False,False,False,False,Υπόλοιπες,2007-01-01
-CH,9.5,,Ελβετία,False,False,False,False,Υπόλοιπες,2008-01-01
-CH,10.4,,Ελβετία,False,False,False,False,Υπόλοιπες,2009-01-01
-CH,9.3,,Ελβετία,False,False,False,False,Υπόλοιπες,2010-01-01
-CH,8.6,,Ελβετία,False,False,False,False,Υπόλοιπες,2011-01-01
-CH,7.4,,Ελβετία,False,False,False,False,Υπόλοιπες,2012-01-01
-CH,8.8,,Ελβετία,False,False,False,False,Υπόλοιπες,2013-01-01
-CH,9.7,b,Ελβετία,False,False,False,False,Υπόλοιπες,2014-01-01
-CH,8.4,,Ελβετία,False,False,False,False,Υπόλοιπες,2015-01-01
-CH,8.9,,Ελβετία,False,False,False,False,Υπόλοιπες,2016-01-01
-CH,8.6,,Ελβετία,False,False,False,False,Υπόλοιπες,2017-01-01
-CH,9.7,,Ελβετία,False,False,False,False,Υπόλοιπες,2018-01-01
-CH,8.8,,Ελβετία,False,False,False,False,Υπόλοιπες,2019-01-01
-CH,7.9,,Ελβετία,False,False,False,False,Υπόλοιπες,2020-01-01
-CH,8.4,,Ελβετία,False,False,False,False,Υπόλοιπες,2021-01-01
-CH,8.8,,Ελβετία,False,False,False,False,Υπόλοιπες,2022-01-01
-CH,8.7,,Ελβετία,False,False,False,False,Υπόλοιπες,2023-01-01
-CH,8.7,,Ελβετία,False,False,False,False,Υπόλοιπες,2024-01-01
 CY,53.0,,Κύπρος,True,True,False,False,Υπόλοιπες,2005-01-01
 CY,54.0,,Κύπρος,True,True,False,False,Υπόλοιπες,2006-01-01
 CY,52.8,,Κύπρος,True,True,False,False,Υπόλοιπες,2007-01-01
@@ -1821,64 +1342,6 @@ DK,12.9,,Δανία,True,False,False,False,Υπόλοιπες,2022-01-01
 DK,15.4,,Δανία,True,False,False,False,Υπόλοιπες,2023-01-01
 DK,14.9,,Δανία,True,False,False,False,Υπόλοιπες,2024-01-01
 DK,14.1,,Δανία,True,False,False,False,Υπόλοιπες,2025-01-01
-EA,33.5,e,EA,False,False,False,False,Υπόλοιπες,2011-01-01
-EA,34.9,e,EA,False,False,False,False,Υπόλοιπες,2012-01-01
-EA,35.4,e,EA,False,False,False,False,Υπόλοιπες,2013-01-01
-EA,33.7,e,EA,False,False,False,False,Υπόλοιπες,2014-01-01
-EA,31.9,e,EA,False,False,False,False,Υπόλοιπες,2015-01-01
-EA,30.5,e,EA,False,False,False,False,Υπόλοιπες,2016-01-01
-EA,28.0,e,EA,False,False,False,False,Υπόλοιπες,2017-01-01
-EA,27.3,e,EA,False,False,False,False,Υπόλοιπες,2018-01-01
-EA,26.2,,EA,False,False,False,False,Υπόλοιπες,2019-01-01
-EA,27.4,,EA,False,False,False,False,Υπόλοιπες,2020-01-01
-EA,26.2,,EA,False,False,False,False,Υπόλοιπες,2021-01-01
-EA17,35.3,e,EA17,False,False,False,False,Υπόλοιπες,2015-01-01
-EA18,33.7,,EA18,False,False,False,False,Υπόλοιπες,2005-01-01
-EA18,33.9,,EA18,False,False,False,False,Υπόλοιπες,2006-01-01
-EA18,32.4,,EA18,False,False,False,False,Υπόλοιπες,2007-01-01
-EA18,33.2,,EA18,False,False,False,False,Υπόλοιπες,2008-01-01
-EA18,33.6,,EA18,False,False,False,False,Υπόλοιπες,2009-01-01
-EA18,33.3,,EA18,False,False,False,False,Υπόλοιπες,2010-01-01
-EA18,33.7,,EA18,False,False,False,False,Υπόλοιπες,2011-01-01
-EA18,35.1,,EA18,False,False,False,False,Υπόλοιπες,2012-01-01
-EA18,35.5,,EA18,False,False,False,False,Υπόλοιπες,2013-01-01
-EA18,33.7,,EA18,False,False,False,False,Υπόλοιπες,2014-01-01
-EA18,31.8,,EA18,False,False,False,False,Υπόλοιπες,2015-01-01
-EA18,30.4,,EA18,False,False,False,False,Υπόλοιπες,2016-01-01
-EA18,27.9,,EA18,False,False,False,False,Υπόλοιπες,2017-01-01
-EA18,27.2,,EA18,False,False,False,False,Υπόλοιπες,2018-01-01
-EA18,26.1,,EA18,False,False,False,False,Υπόλοιπες,2019-01-01
-EA18,27.4,,EA18,False,False,False,False,Υπόλοιπες,2020-01-01
-EA19,34.1,,EA19,False,False,False,False,Υπόλοιπες,2005-01-01
-EA19,34.2,,EA19,False,False,False,False,Υπόλοιπες,2006-01-01
-EA19,32.7,,EA19,False,False,False,False,Υπόλοιπες,2007-01-01
-EA19,33.1,,EA19,False,False,False,False,Υπόλοιπες,2008-01-01
-EA19,33.7,,EA19,False,False,False,False,Υπόλοιπες,2009-01-01
-EA19,33.5,,EA19,False,False,False,False,Υπόλοιπες,2010-01-01
-EA19,33.8,,EA19,False,False,False,False,Υπόλοιπες,2011-01-01
-EA19,35.2,,EA19,False,False,False,False,Υπόλοιπες,2012-01-01
-EA19,35.6,,EA19,False,False,False,False,Υπόλοιπες,2013-01-01
-EA19,33.8,,EA19,False,False,False,False,Υπόλοιπες,2014-01-01
-EA19,31.9,,EA19,False,False,False,False,Υπόλοιπες,2015-01-01
-EA19,30.5,,EA19,False,False,False,False,Υπόλοιπες,2016-01-01
-EA19,28.0,,EA19,False,False,False,False,Υπόλοιπες,2017-01-01
-EA19,27.3,,EA19,False,False,False,False,Υπόλοιπες,2018-01-01
-EA19,26.2,,EA19,False,False,False,False,Υπόλοιπες,2019-01-01
-EA19,27.4,,EA19,False,False,False,False,Υπόλοιπες,2020-01-01
-EA19,26.2,,EA19,False,False,False,False,Υπόλοιπες,2021-01-01
-EA20,34.2,,EA20,False,False,False,False,Υπόλοιπες,2014-01-01
-EA20,32.3,,EA20,False,False,False,False,Υπόλοιπες,2015-01-01
-EA20,30.9,,EA20,False,False,False,False,Υπόλοιπες,2016-01-01
-EA20,28.4,,EA20,False,False,False,False,Υπόλοιπες,2017-01-01
-EA20,27.6,,EA20,False,False,False,False,Υπόλοιπες,2018-01-01
-EA20,26.5,,EA20,False,False,False,False,Υπόλοιπες,2019-01-01
-EA20,27.7,,EA20,False,False,False,False,Υπόλοιπες,2020-01-01
-EA20,26.4,,EA20,False,False,False,False,Υπόλοιπες,2021-01-01
-EA20,27.4,,EA20,False,False,False,False,Υπόλοιπες,2022-01-01
-EA20,27.2,,EA20,False,False,False,False,Υπόλοιπες,2023-01-01
-EA20,25.8,,EA20,False,False,False,False,Υπόλοιπες,2024-01-01
-EA20,26.3,,EA20,False,False,False,False,Υπόλοιπες,2025-01-01
-EA21,26.6,,EA21,False,False,False,False,Υπόλοιπες,2025-01-01
 EE,72.1,,Εσθονία,True,False,False,False,Υπόλοιπες,2004-01-01
 EE,65.8,,Εσθονία,True,False,False,False,Υπόλοιπες,2005-01-01
 EE,61.0,,Εσθονία,True,False,False,False,Υπόλοιπες,2006-01-01
@@ -1946,29 +1409,6 @@ ES,33.6,,Ισπανία,True,True,False,False,Υπόλοιπες,2022-01-01
 ES,33.2,,Ισπανία,True,True,False,False,Υπόλοιπες,2023-01-01
 ES,33.4,,Ισπανία,True,True,False,False,Υπόλοιπες,2024-01-01
 ES,32.2,,Ισπανία,True,True,False,False,Υπόλοιπες,2025-01-01
-EU,38.0,,EU,False,False,False,False,Υπόλοιπες,2011-01-01
-EU,39.7,,EU,False,False,False,False,Υπόλοιπες,2012-01-01
-EU,39.5,,EU,False,False,False,False,Υπόλοιπες,2013-01-01
-EU,36.9,,EU,False,False,False,False,Υπόλοιπες,2014-01-01
-EU,34.4,,EU,False,False,False,False,Υπόλοιπες,2015-01-01
-EU,32.8,,EU,False,False,False,False,Υπόλοιπες,2016-01-01
-EU,30.0,,EU,False,False,False,False,Υπόλοιπες,2017-01-01
-EU,28.5,,EU,False,False,False,False,Υπόλοιπες,2018-01-01
-EU,27.4,e,EU,False,False,False,False,Υπόλοιπες,2019-01-01
-EU15,33.7,e,EU15,False,False,False,False,Υπόλοιπες,2015-01-01
-EU27_2007,36.5,,EU27_2007,False,False,False,False,Υπόλοιπες,2007-01-01
-EU27_2007,36.7,,EU27_2007,False,False,False,False,Υπόλοιπες,2008-01-01
-EU27_2007,37.1,,EU27_2007,False,False,False,False,Υπόλοιπες,2009-01-01
-EU27_2007,37.1,,EU27_2007,False,False,False,False,Υπόλοιπες,2010-01-01
-EU27_2007,37.8,,EU27_2007,False,False,False,False,Υπόλοιπες,2011-01-01
-EU27_2007,39.4,,EU27_2007,False,False,False,False,Υπόλοιπες,2012-01-01
-EU27_2007,39.2,,EU27_2007,False,False,False,False,Υπόλοιπες,2013-01-01
-EU27_2007,36.6,,EU27_2007,False,False,False,False,Υπόλοιπες,2014-01-01
-EU27_2007,34.2,,EU27_2007,False,False,False,False,Υπόλοιπες,2015-01-01
-EU27_2007,32.6,,EU27_2007,False,False,False,False,Υπόλοιπες,2016-01-01
-EU27_2007,29.8,,EU27_2007,False,False,False,False,Υπόλοιπες,2017-01-01
-EU27_2007,28.3,,EU27_2007,False,False,False,False,Υπόλοιπες,2018-01-01
-EU27_2007,27.2,e,EU27_2007,False,False,False,False,Υπόλοιπες,2019-01-01
 EU27_2020,38.8,e,Ευρωπαϊκή Ένωση (27),False,False,False,True,ΕΕ27,2010-01-01
 EU27_2020,39.3,e,Ευρωπαϊκή Ένωση (27),False,False,False,True,ΕΕ27,2011-01-01
 EU27_2020,40.5,e,Ευρωπαϊκή Ένωση (27),False,False,False,True,ΕΕ27,2012-01-01
@@ -1985,16 +1425,6 @@ EU27_2020,28.6,,Ευρωπαϊκή Ένωση (27),False,False,False,True,ΕΕ27
 EU27_2020,28.5,,Ευρωπαϊκή Ένωση (27),False,False,False,True,ΕΕ27,2023-01-01
 EU27_2020,27.0,,Ευρωπαϊκή Ένωση (27),False,False,False,True,ΕΕ27,2024-01-01
 EU27_2020,27.5,,Ευρωπαϊκή Ένωση (27),False,False,False,True,ΕΕ27,2025-01-01
-EU28,37.3,,EU28,False,False,False,False,Υπόλοιπες,2010-01-01
-EU28,38.1,,EU28,False,False,False,False,Υπόλοιπες,2011-01-01
-EU28,39.7,,EU28,False,False,False,False,Υπόλοιπες,2012-01-01
-EU28,39.5,,EU28,False,False,False,False,Υπόλοιπες,2013-01-01
-EU28,36.9,,EU28,False,False,False,False,Υπόλοιπες,2014-01-01
-EU28,34.4,,EU28,False,False,False,False,Υπόλοιπες,2015-01-01
-EU28,32.8,,EU28,False,False,False,False,Υπόλοιπες,2016-01-01
-EU28,30.0,,EU28,False,False,False,False,Υπόλοιπες,2017-01-01
-EU28,28.5,,EU28,False,False,False,False,Υπόλοιπες,2018-01-01
-EU28,27.4,e,EU28,False,False,False,False,Υπόλοιπες,2019-01-01
 FI,19.9,,Φινλανδία,True,False,False,False,Υπόλοιπες,2004-01-01
 FI,19.9,,Φινλανδία,True,False,False,False,Υπόλοιπες,2005-01-01
 FI,18.7,,Φινλανδία,True,False,False,False,Υπόλοιπες,2006-01-01
@@ -2099,23 +1529,6 @@ IE,26.2,,Ιρλανδία,True,True,False,False,Υπόλοιπες,2022-01-01
 IE,23.7,,Ιρλανδία,True,True,False,False,Υπόλοιπες,2023-01-01
 IE,23.0,,Ιρλανδία,True,True,False,False,Υπόλοιπες,2024-01-01
 IE,20.5,,Ιρλανδία,True,True,False,False,Υπόλοιπες,2025-01-01
-IS,13.6,,Ισλανδία,False,False,False,False,Υπόλοιπες,2004-01-01
-IS,11.1,,Ισλανδία,False,False,False,False,Υπόλοιπες,2005-01-01
-IS,13.9,,Ισλανδία,False,False,False,False,Υπόλοιπες,2006-01-01
-IS,14.1,,Ισλανδία,False,False,False,False,Υπόλοιπες,2007-01-01
-IS,3.2,b,Ισλανδία,False,False,False,False,Υπόλοιπες,2008-01-01
-IS,4.4,,Ισλανδία,False,False,False,False,Υπόλοιπες,2009-01-01
-IS,7.0,,Ισλανδία,False,False,False,False,Υπόλοιπες,2010-01-01
-IS,7.8,,Ισλανδία,False,False,False,False,Υπόλοιπες,2011-01-01
-IS,7.8,,Ισλανδία,False,False,False,False,Υπόλοιπες,2012-01-01
-IS,7.3,,Ισλανδία,False,False,False,False,Υπόλοιπες,2013-01-01
-IS,5.6,,Ισλανδία,False,False,False,False,Υπόλοιπες,2014-01-01
-IS,4.5,,Ισλανδία,False,False,False,False,Υπόλοιπες,2015-01-01
-IS,10.9,,Ισλανδία,False,False,False,False,Υπόλοιπες,2016-01-01
-IS,10.4,,Ισλανδία,False,False,False,False,Υπόλοιπες,2017-01-01
-IS,8.6,,Ισλανδία,False,False,False,False,Υπόλοιπες,2018-01-01
-IS,9.5,,Ισλανδία,False,False,False,False,Υπόλοιπες,2019-01-01
-IS,7.9,,Ισλανδία,False,False,False,False,Υπόλοιπες,2020-01-01
 IT,38.7,,Ιταλία,True,True,False,False,Υπόλοιπες,2004-01-01
 IT,39.1,,Ιταλία,True,True,False,False,Υπόλοιπες,2005-01-01
 IT,39.0,,Ιταλία,True,True,False,False,Υπόλοιπες,2006-01-01
@@ -2203,32 +1616,6 @@ LV,28.5,,Λετονία,True,False,False,False,Υπόλοιπες,2022-01-01
 LV,31.4,,Λετονία,True,False,False,False,Υπόλοιπες,2023-01-01
 LV,29.3,,Λετονία,True,False,False,False,Υπόλοιπες,2024-01-01
 LV,28.9,,Λετονία,True,False,False,False,Υπόλοιπες,2025-01-01
-ME,76.2,,Μαυροβούνιο,False,False,False,False,Υπόλοιπες,2013-01-01
-ME,62.3,,Μαυροβούνιο,False,False,False,False,Υπόλοιπες,2014-01-01
-ME,73.3,,Μαυροβούνιο,False,False,False,False,Υπόλοιπες,2015-01-01
-ME,63.4,,Μαυροβούνιο,False,False,False,False,Υπόλοιπες,2016-01-01
-ME,60.8,,Μαυροβούνιο,False,False,False,False,Υπόλοιπες,2017-01-01
-ME,71.6,,Μαυροβούνιο,False,False,False,False,Υπόλοιπες,2018-01-01
-ME,70.2,,Μαυροβούνιο,False,False,False,False,Υπόλοιπες,2019-01-01
-ME,70.9,,Μαυροβούνιο,False,False,False,False,Υπόλοιπες,2020-01-01
-ME,67.2,,Μαυροβούνιο,False,False,False,False,Υπόλοιπες,2021-01-01
-ME,64.0,,Μαυροβούνιο,False,False,False,False,Υπόλοιπες,2022-01-01
-ME,58.2,,Μαυροβούνιο,False,False,False,False,Υπόλοιπες,2023-01-01
-MK,74.2,,Β. Μακεδονία,False,False,False,False,Υπόλοιπες,2010-01-01
-MK,71.8,,Β. Μακεδονία,False,False,False,False,Υπόλοιπες,2011-01-01
-MK,73.6,,Β. Μακεδονία,False,False,False,False,Υπόλοιπες,2012-01-01
-MK,70.7,,Β. Μακεδονία,False,False,False,False,Υπόλοιπες,2013-01-01
-MK,68.1,,Β. Μακεδονία,False,False,False,False,Υπόλοιπες,2014-01-01
-MK,64.1,,Β. Μακεδονία,False,False,False,False,Υπόλοιπες,2015-01-01
-MK,65.3,,Β. Μακεδονία,False,False,False,False,Υπόλοιπες,2016-01-01
-MK,61.2,,Β. Μακεδονία,False,False,False,False,Υπόλοιπες,2017-01-01
-MK,57.5,,Β. Μακεδονία,False,False,False,False,Υπόλοιπες,2018-01-01
-MK,55.7,,Β. Μακεδονία,False,False,False,False,Υπόλοιπες,2019-01-01
-MK,55.0,,Β. Μακεδονία,False,False,False,False,Υπόλοιπες,2020-01-01
-MK,53.7,b,Β. Μακεδονία,False,False,False,False,Υπόλοιπες,2021-01-01
-MK,55.7,,Β. Μακεδονία,False,False,False,False,Υπόλοιπες,2022-01-01
-MK,50.1,,Β. Μακεδονία,False,False,False,False,Υπόλοιπες,2023-01-01
-MK,48.0,,Β. Μακεδονία,False,False,False,False,Υπόλοιπες,2024-01-01
 MT,67.7,,Μάλτα,True,False,False,False,Υπόλοιπες,2005-01-01
 MT,67.0,,Μάλτα,True,False,False,False,Υπόλοιπες,2006-01-01
 MT,67.2,,Μάλτα,True,False,False,False,Υπόλοιπες,2007-01-01
@@ -2271,29 +1658,6 @@ NL,12.7,,Ολλανδία,True,False,False,False,Υπόλοιπες,2022-01-01
 NL,13.2,,Ολλανδία,True,False,False,False,Υπόλοιπες,2023-01-01
 NL,13.0,,Ολλανδία,True,False,False,False,Υπόλοιπες,2024-01-01
 NL,12.8,,Ολλανδία,True,False,False,False,Υπόλοιπες,2025-01-01
-NO,10.4,,Νορβηγία,False,False,False,False,Υπόλοιπες,2003-01-01
-NO,9.5,,Νορβηγία,False,False,False,False,Υπόλοιπες,2004-01-01
-NO,9.2,,Νορβηγία,False,False,False,False,Υπόλοιπες,2005-01-01
-NO,7.9,,Νορβηγία,False,False,False,False,Υπόλοιπες,2006-01-01
-NO,6.3,,Νορβηγία,False,False,False,False,Υπόλοιπες,2007-01-01
-NO,6.5,,Νορβηγία,False,False,False,False,Υπόλοιπες,2008-01-01
-NO,7.3,,Νορβηγία,False,False,False,False,Υπόλοιπες,2009-01-01
-NO,6.6,,Νορβηγία,False,False,False,False,Υπόλοιπες,2010-01-01
-NO,6.9,,Νορβηγία,False,False,False,False,Υπόλοιπες,2011-01-01
-NO,6.2,,Νορβηγία,False,False,False,False,Υπόλοιπες,2012-01-01
-NO,7.0,,Νορβηγία,False,False,False,False,Υπόλοιπες,2013-01-01
-NO,5.1,,Νορβηγία,False,False,False,False,Υπόλοιπες,2014-01-01
-NO,5.3,,Νορβηγία,False,False,False,False,Υπόλοιπες,2015-01-01
-NO,6.0,,Νορβηγία,False,False,False,False,Υπόλοιπες,2016-01-01
-NO,6.6,,Νορβηγία,False,False,False,False,Υπόλοιπες,2017-01-01
-NO,6.4,,Νορβηγία,False,False,False,False,Υπόλοιπες,2018-01-01
-NO,7.2,,Νορβηγία,False,False,False,False,Υπόλοιπες,2019-01-01
-NO,6.9,,Νορβηγία,False,False,False,False,Υπόλοιπες,2020-01-01
-NO,8.4,b,Νορβηγία,False,False,False,False,Υπόλοιπες,2021-01-01
-NO,7.9,,Νορβηγία,False,False,False,False,Υπόλοιπες,2022-01-01
-NO,7.9,,Νορβηγία,False,False,False,False,Υπόλοιπες,2023-01-01
-NO,9.3,,Νορβηγία,False,False,False,False,Υπόλοιπες,2024-01-01
-NO,9.1,,Νορβηγία,False,False,False,False,Υπόλοιπες,2025-01-01
 PL,70.6,,Πολωνία,True,False,False,False,Υπόλοιπες,2005-01-01
 PL,67.2,,Πολωνία,True,False,False,False,Υπόλοιπες,2006-01-01
 PL,64.6,,Πολωνία,True,False,False,False,Υπόλοιπες,2007-01-01
@@ -2356,19 +1720,6 @@ RO,62.5,,Ρουμανία,True,False,False,False,Υπόλοιπες,2022-01-01
 RO,59.5,,Ρουμανία,True,False,False,False,Υπόλοιπες,2023-01-01
 RO,58.6,,Ρουμανία,True,False,False,False,Υπόλοιπες,2024-01-01
 RO,61.4,,Ρουμανία,True,False,False,False,Υπόλοιπες,2025-01-01
-RS,67.2,,Σερβία,False,False,False,False,Υπόλοιπες,2013-01-01
-RS,68.4,,Σερβία,False,False,False,False,Υπόλοιπες,2014-01-01
-RS,68.5,,Σερβία,False,False,False,False,Υπόλοιπες,2015-01-01
-RS,62.8,,Σερβία,False,False,False,False,Υπόλοιπες,2016-01-01
-RS,56.9,,Σερβία,False,False,False,False,Υπόλοιπες,2017-01-01
-RS,52.0,,Σερβία,False,False,False,False,Υπόλοιπες,2018-01-01
-RS,50.5,,Σερβία,False,False,False,False,Υπόλοιπες,2019-01-01
-RS,49.6,,Σερβία,False,False,False,False,Υπόλοιπες,2020-01-01
-RS,44.3,,Σερβία,False,False,False,False,Υπόλοιπες,2021-01-01
-RS,41.6,,Σερβία,False,False,False,False,Υπόλοιπες,2022-01-01
-RS,41.1,,Σερβία,False,False,False,False,Υπόλοιπες,2023-01-01
-RS,38.0,,Σερβία,False,False,False,False,Υπόλοιπες,2024-01-01
-RS,36.3,,Σερβία,False,False,False,False,Υπόλοιπες,2025-01-01
 SE,15.0,,Σουηδία,True,False,False,False,Υπόλοιπες,2004-01-01
 SE,15.7,,Σουηδία,True,False,False,False,Υπόλοιπες,2005-01-01
 SE,15.2,,Σουηδία,True,False,False,False,Υπόλοιπες,2006-01-01
@@ -2433,37 +1784,3 @@ SK,33.8,,Σλοβακία,True,False,False,False,Υπόλοιπες,2022-01-01
 SK,36.2,,Σλοβακία,True,False,False,False,Υπόλοιπες,2023-01-01
 SK,33.4,,Σλοβακία,True,False,False,False,Υπόλοιπες,2024-01-01
 SK,29.1,,Σλοβακία,True,False,False,False,Υπόλοιπες,2025-01-01
-TR,88.5,,Τουρκία,False,False,False,False,Υπόλοιπες,2006-01-01
-TR,88.5,,Τουρκία,False,False,False,False,Υπόλοιπες,2007-01-01
-TR,88.8,,Τουρκία,False,False,False,False,Υπόλοιπες,2008-01-01
-TR,87.4,,Τουρκία,False,False,False,False,Υπόλοιπες,2009-01-01
-TR,86.5,,Τουρκία,False,False,False,False,Υπόλοιπες,2011-01-01
-TR,85.9,,Τουρκία,False,False,False,False,Υπόλοιπες,2012-01-01
-TR,78.5,b,Τουρκία,False,False,False,False,Υπόλοιπες,2013-01-01
-TR,68.7,,Τουρκία,False,False,False,False,Υπόλοιπες,2014-01-01
-TR,71.4,,Τουρκία,False,False,False,False,Υπόλοιπες,2015-01-01
-TR,65.9,,Τουρκία,False,False,False,False,Υπόλοιπες,2016-01-01
-TR,60.8,,Τουρκία,False,False,False,False,Υπόλοιπες,2017-01-01
-TR,58.4,,Τουρκία,False,False,False,False,Υπόλοιπες,2018-01-01
-TR,58.7,,Τουρκία,False,False,False,False,Υπόλοιπες,2019-01-01
-TR,59.2,,Τουρκία,False,False,False,False,Υπόλοιπες,2020-01-01
-TR,60.8,,Τουρκία,False,False,False,False,Υπόλοιπες,2021-01-01
-TR,59.6,,Τουρκία,False,False,False,False,Υπόλοιπες,2022-01-01
-TR,58.8,,Τουρκία,False,False,False,False,Υπόλοιπες,2023-01-01
-TR,57.4,,Τουρκία,False,False,False,False,Υπόλοιπες,2024-01-01
-TR,50.5,,Τουρκία,False,False,False,False,Υπόλοιπες,2025-01-01
-UK,23.3,,UK,False,False,False,False,Υπόλοιπες,2005-01-01
-UK,22.8,,UK,False,False,False,False,Υπόλοιπες,2006-01-01
-UK,21.4,,UK,False,False,False,False,Υπόλοιπες,2007-01-01
-UK,24.1,,UK,False,False,False,False,Υπόλοιπες,2008-01-01
-UK,26.1,,UK,False,False,False,False,Υπόλοιπες,2009-01-01
-UK,27.3,,UK,False,False,False,False,Υπόλοιπες,2010-01-01
-UK,29.8,,UK,False,False,False,False,Υπόλοιπες,2011-01-01
-UK,33.1,b,UK,False,False,False,False,Υπόλοιπες,2012-01-01
-UK,33.3,,UK,False,False,False,False,Υπόλοιπες,2013-01-01
-UK,31.7,,UK,False,False,False,False,Υπόλοιπες,2014-01-01
-UK,28.9,,UK,False,False,False,False,Υπόλοιπες,2015-01-01
-UK,27.8,,UK,False,False,False,False,Υπόλοιπες,2016-01-01
-UK,23.7,b,UK,False,False,False,False,Υπόλοιπες,2017-01-01
-UK,23.5,,UK,False,False,False,False,Υπόλοιπες,2018-01-01
-XK,69.5,,XK,False,False,False,False,Υπόλοιπες,2018-01-01

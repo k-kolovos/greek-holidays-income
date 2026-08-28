@@ -21,7 +21,6 @@ LU,DOM,NR_OTH,145600.0,28.5,Άλλο μη πληρωμένο,Εντός της �
 LV,DOM,NR_OTH,79625.0,1.2,Άλλο μη πληρωμένο,Εντός της χώρας,False,Λετονία,True,False,False,False
 MT,DOM,NR_OTH,28782.0,2.6,Άλλο μη πληρωμένο,Εντός της χώρας,False,Μάλτα,True,False,False,False
 NL,DOM,NR_OTH,2168443.0,2.9,Άλλο μη πληρωμένο,Εντός της χώρας,False,Ολλανδία,True,False,False,False
-NO,DOM,NR_OTH,1094033.0,1.6,Άλλο μη πληρωμένο,Εντός της χώρας,False,NO,False,False,False,False
 PL,DOM,NR_OTH,1155951.0,0.5,Άλλο μη πληρωμένο,Εντός της χώρας,False,Πολωνία,True,False,False,False
 PT,DOM,NR_OTH,1198546.0,2.1,Άλλο μη πληρωμένο,Εντός της χώρας,False,Πορτογαλία,True,True,False,False
 RO,DOM,NR_OTH,759842.0,1.2,Άλλο μη πληρωμένο,Εντός της χώρας,False,Ρουμανία,True,False,False,False
@@ -50,7 +49,6 @@ LU,DOM,NR_OWN,,,Δικό τους σπίτι,Εντός της χώρας,False,
 LV,DOM,NR_OWN,1349526.0,19.7,Δικό τους σπίτι,Εντός της χώρας,False,Λετονία,True,False,False,False
 MT,DOM,NR_OWN,231742.0,20.8,Δικό τους σπίτι,Εντός της χώρας,False,Μάλτα,True,False,False,False
 NL,DOM,NR_OWN,9395647.0,12.4,Δικό τους σπίτι,Εντός της χώρας,False,Ολλανδία,True,False,False,False
-NO,DOM,NR_OWN,26635196.0,38.3,Δικό τους σπίτι,Εντός της χώρας,False,NO,False,False,False,False
 PL,DOM,NR_OWN,11903928.0,5.2,Δικό τους σπίτι,Εντός της χώρας,False,Πολωνία,True,False,False,False
 PT,DOM,NR_OWN,14297279.0,25.3,Δικό τους σπίτι,Εντός της χώρας,False,Πορτογαλία,True,True,False,False
 RO,DOM,NR_OWN,2651255.0,4.1,Δικό τους σπίτι,Εντός της χώρας,False,Ρουμανία,True,False,False,False
@@ -79,7 +77,6 @@ LU,DOM,NR_RF,190664.0,37.3,Συγγενείς και φίλοι,Εντός τη�
 LV,DOM,NR_RF,4023225.0,58.7,Συγγενείς και φίλοι,Εντός της χώρας,False,Λετονία,True,False,False,False
 MT,DOM,NR_RF,204731.0,18.3,Συγγενείς και φίλοι,Εντός της χώρας,False,Μάλτα,True,False,False,False
 NL,DOM,NR_RF,12353365.0,16.3,Συγγενείς και φίλοι,Εντός της χώρας,False,Ολλανδία,True,False,False,False
-NO,DOM,NR_RF,27568889.0,39.7,Συγγενείς και φίλοι,Εντός της χώρας,False,NO,False,False,False,False
 PL,DOM,NR_RF,80903016.0,35.3,Συγγενείς και φίλοι,Εντός της χώρας,False,Πολωνία,True,False,False,False
 PT,DOM,NR_RF,25003153.0,44.2,Συγγενείς και φίλοι,Εντός της χώρας,False,Πορτογαλία,True,True,False,False
 RO,DOM,NR_RF,29758327.0,45.7,Συγγενείς και φίλοι,Εντός της χώρας,False,Ρουμανία,True,False,False,False
@@ -108,7 +105,6 @@ LU,DOM,R_APT,39651.0,7.8,Ενοικιαζόμενο διαμέρισμα,Εντ�
 LV,DOM,R_APT,363059.0,5.3,Ενοικιαζόμενο διαμέρισμα,Εντός της χώρας,False,Λετονία,True,False,False,False
 MT,DOM,R_APT,413067.0,37.0,Ενοικιαζόμενο διαμέρισμα,Εντός της χώρας,False,Μάλτα,True,False,False,False
 NL,DOM,R_APT,24991685.0,33.0,Ενοικιαζόμενο διαμέρισμα,Εντός της χώρας,False,Ολλανδία,True,False,False,False
-NO,DOM,R_APT,2798508.0,4.0,Ενοικιαζόμενο διαμέρισμα,Εντός της χώρας,False,NO,False,False,False,False
 PL,DOM,R_APT,38967488.0,17.0,Ενοικιαζόμενο διαμέρισμα,Εντός της χώρας,False,Πολωνία,True,False,False,False
 PT,DOM,R_APT,6614952.0,11.7,Ενοικιαζόμενο διαμέρισμα,Εντός της χώρας,False,Πορτογαλία,True,True,False,False
 RO,DOM,R_APT,3607072.0,5.5,Ενοικιαζόμενο διαμέρισμα,Εντός της χώρας,False,Ρουμανία,True,False,False,False
@@ -137,7 +133,6 @@ LU,DOM,R_CAMP,,,Κάμπινγκ,Εντός της χώρας,False,Λουξεμ
 LV,DOM,R_CAMP,180692.0,2.6,Κάμπινγκ,Εντός της χώρας,False,Λετονία,True,False,False,False
 MT,DOM,R_CAMP,,,Κάμπινγκ,Εντός της χώρας,False,Μάλτα,True,False,False,False
 NL,DOM,R_CAMP,13833352.0,18.2,Κάμπινγκ,Εντός της χώρας,False,Ολλανδία,True,False,False,False
-NO,DOM,R_CAMP,3931761.0,5.7,Κάμπινγκ,Εντός της χώρας,False,NO,False,False,False,False
 PL,DOM,R_CAMP,3791349.0,1.7,Κάμπινγκ,Εντός της χώρας,False,Πολωνία,True,False,False,False
 PT,DOM,R_CAMP,1247581.0,2.2,Κάμπινγκ,Εντός της χώρας,False,Πορτογαλία,True,True,False,False
 RO,DOM,R_CAMP,426869.0,0.7,Κάμπινγκ,Εντός της χώρας,False,Ρουμανία,True,False,False,False
@@ -166,7 +161,6 @@ LU,DOM,R_HOT,88265.0,17.3,Ξενοδοχείο,Εντός της χώρας,Fals
 LV,DOM,R_HOT,570988.0,8.3,Ξενοδοχείο,Εντός της χώρας,False,Λετονία,True,False,False,False
 MT,DOM,R_HOT,218910.0,19.6,Ξενοδοχείο,Εντός της χώρας,False,Μάλτα,True,False,False,False
 NL,DOM,R_HOT,11100377.0,14.6,Ξενοδοχείο,Εντός της χώρας,False,Ολλανδία,True,False,False,False
-NO,DOM,R_HOT,6257833.0,9.0,Ξενοδοχείο,Εντός της χώρας,False,NO,False,False,False,False
 PL,DOM,R_HOT,56883253.0,24.8,Ξενοδοχείο,Εντός της χώρας,False,Πολωνία,True,False,False,False
 PT,DOM,R_HOT,7733433.0,13.7,Ξενοδοχείο,Εντός της χώρας,False,Πορτογαλία,True,True,False,False
 RO,DOM,R_HOT,18955554.0,29.1,Ξενοδοχείο,Εντός της χώρας,False,Ρουμανία,True,False,False,False
@@ -195,7 +189,6 @@ LU,DOM,R_OTH,11908.0,2.3,Άλλο πληρωμένο,Εντός της χώρα�
 LV,DOM,R_OTH,285512.0,4.2,Άλλο πληρωμένο,Εντός της χώρας,False,Λετονία,True,False,False,False
 MT,DOM,R_OTH,18624.0,1.7,Άλλο πληρωμένο,Εντός της χώρας,False,Μάλτα,True,False,False,False
 NL,DOM,R_OTH,1998854.0,2.6,Άλλο πληρωμένο,Εντός της χώρας,False,Ολλανδία,True,False,False,False
-NO,DOM,R_OTH,1172063.0,1.7,Άλλο πληρωμένο,Εντός της χώρας,False,NO,False,False,False,False
 PL,DOM,R_OTH,35659317.0,15.6,Άλλο πληρωμένο,Εντός της χώρας,False,Πολωνία,True,False,False,False
 PT,DOM,R_OTH,412847.0,0.7,Άλλο πληρωμένο,Εντός της χώρας,False,Πορτογαλία,True,True,False,False
 RO,DOM,R_OTH,9014706.0,13.8,Άλλο πληρωμένο,Εντός της χώρας,False,Ρουμανία,True,False,False,False
@@ -224,7 +217,6 @@ LU,DOM,TOTAL,511046.0,100.0,ΣΥΝΟΛΟ,Εντός της χώρας,True,Λο�
 LV,DOM,TOTAL,6852627.0,100.0,ΣΥΝΟΛΟ,Εντός της χώρας,True,Λετονία,True,False,False,False
 MT,DOM,TOTAL,1116590.0,100.0,ΣΥΝΟΛΟ,Εντός της χώρας,True,Μάλτα,True,False,False,False
 NL,DOM,TOTAL,75841724.0,100.0,ΣΥΝΟΛΟ,Εντός της χώρας,True,Ολλανδία,True,False,False,False
-NO,DOM,TOTAL,69458283.0,100.0,ΣΥΝΟΛΟ,Εντός της χώρας,True,NO,False,False,False,False
 PL,DOM,TOTAL,229264302.0,100.0,ΣΥΝΟΛΟ,Εντός της χώρας,True,Πολωνία,True,False,False,False
 PT,DOM,TOTAL,56507792.0,100.0,ΣΥΝΟΛΟ,Εντός της χώρας,True,Πορτογαλία,True,True,False,False
 RO,DOM,TOTAL,65173624.0,100.0,ΣΥΝΟΛΟ,Εντός της χώρας,True,Ρουμανία,True,False,False,False
@@ -253,7 +245,6 @@ LU,DOM,TOT_NR,346945.0,67.9,ΣΥΝΟΛΟ μη πληρωμένο,Εντός τη
 LV,DOM,TOT_NR,5452377.0,79.6,ΣΥΝΟΛΟ μη πληρωμένο,Εντός της χώρας,True,Λετονία,True,False,False,False
 MT,DOM,TOT_NR,465254.0,41.7,ΣΥΝΟΛΟ μη πληρωμένο,Εντός της χώρας,True,Μάλτα,True,False,False,False
 NL,DOM,TOT_NR,23917455.0,31.5,ΣΥΝΟΛΟ μη πληρωμένο,Εντός της χώρας,True,Ολλανδία,True,False,False,False
-NO,DOM,TOT_NR,55298118.0,79.6,ΣΥΝΟΛΟ μη πληρωμένο,Εντός της χώρας,True,NO,False,False,False,False
 PL,DOM,TOT_NR,93962895.0,41.0,ΣΥΝΟΛΟ μη πληρωμένο,Εντός της χώρας,True,Πολωνία,True,False,False,False
 PT,DOM,TOT_NR,40498979.0,71.7,ΣΥΝΟΛΟ μη πληρωμένο,Εντός της χώρας,True,Πορτογαλία,True,True,False,False
 RO,DOM,TOT_NR,33169424.0,50.9,ΣΥΝΟΛΟ μη πληρωμένο,Εντός της χώρας,True,Ρουμανία,True,False,False,False
@@ -282,7 +273,6 @@ LU,DOM,TOT_R,164101.0,32.1,ΣΥΝΟΛΟ πληρωμένο,Εντός της χ�
 LV,DOM,TOT_R,1400250.0,20.4,ΣΥΝΟΛΟ πληρωμένο,Εντός της χώρας,True,Λετονία,True,False,False,False
 MT,DOM,TOT_R,651336.0,58.3,ΣΥΝΟΛΟ πληρωμένο,Εντός της χώρας,True,Μάλτα,True,False,False,False
 NL,DOM,TOT_R,51924269.0,68.5,ΣΥΝΟΛΟ πληρωμένο,Εντός της χώρας,True,Ολλανδία,True,False,False,False
-NO,DOM,TOT_R,14160166.0,20.4,ΣΥΝΟΛΟ πληρωμένο,Εντός της χώρας,True,NO,False,False,False,False
 PL,DOM,TOT_R,135301406.0,59.0,ΣΥΝΟΛΟ πληρωμένο,Εντός της χώρας,True,Πολωνία,True,False,False,False
 PT,DOM,TOT_R,16008813.0,28.3,ΣΥΝΟΛΟ πληρωμένο,Εντός της χώρας,True,Πορτογαλία,True,True,False,False
 RO,DOM,TOT_R,32004200.0,49.1,ΣΥΝΟΛΟ πληρωμένο,Εντός της χώρας,True,Ρουμανία,True,False,False,False
@@ -311,7 +301,6 @@ LU,FOR,NR_OTH,1066602.0,5.4,Άλλο μη πληρωμένο,Εξωτερικό,
 LV,FOR,NR_OTH,,,Άλλο μη πληρωμένο,Εξωτερικό,False,Λετονία,True,False,False,False
 MT,FOR,NR_OTH,52851.0,1.1,Άλλο μη πληρωμένο,Εξωτερικό,False,Μάλτα,True,False,False,False
 NL,FOR,NR_OTH,7422454.0,3.4,Άλλο μη πληρωμένο,Εξωτερικό,False,Ολλανδία,True,False,False,False
-NO,FOR,NR_OTH,734882.0,1.4,Άλλο μη πληρωμένο,Εξωτερικό,False,NO,False,False,False,False
 PL,FOR,NR_OTH,326484.0,0.3,Άλλο μη πληρωμένο,Εξωτερικό,False,Πολωνία,True,False,False,False
 PT,FOR,NR_OTH,734547.0,4.0,Άλλο μη πληρωμένο,Εξωτερικό,False,Πορτογαλία,True,True,False,False
 RO,FOR,NR_OTH,,,Άλλο μη πληρωμένο,Εξωτερικό,False,Ρουμανία,True,False,False,False
@@ -340,7 +329,6 @@ LU,FOR,NR_OWN,2419865.0,12.3,Δικό τους σπίτι,Εξωτερικό,Fal
 LV,FOR,NR_OWN,,,Δικό τους σπίτι,Εξωτερικό,False,Λετονία,True,False,False,False
 MT,FOR,NR_OWN,325613.0,7.1,Δικό τους σπίτι,Εξωτερικό,False,Μάλτα,True,False,False,False
 NL,FOR,NR_OWN,20058359.0,9.3,Δικό τους σπίτι,Εξωτερικό,False,Ολλανδία,True,False,False,False
-NO,FOR,NR_OWN,7759868.0,14.3,Δικό τους σπίτι,Εξωτερικό,False,NO,False,False,False,False
 PL,FOR,NR_OWN,1652341.0,1.4,Δικό τους σπίτι,Εξωτερικό,False,Πολωνία,True,False,False,False
 PT,FOR,NR_OWN,486168.0,2.7,Δικό τους σπίτι,Εξωτερικό,False,Πορτογαλία,True,True,False,False
 RO,FOR,NR_OWN,,,Δικό τους σπίτι,Εξωτερικό,False,Ρουμανία,True,False,False,False
@@ -369,7 +357,6 @@ LU,FOR,NR_RF,5591896.0,28.4,Συγγενείς και φίλοι,Εξωτερι�
 LV,FOR,NR_RF,1765760.0,21.0,Συγγενείς και φίλοι,Εξωτερικό,False,Λετονία,True,False,False,False
 MT,FOR,NR_RF,894746.0,19.4,Συγγενείς και φίλοι,Εξωτερικό,False,Μάλτα,True,False,False,False
 NL,FOR,NR_RF,28530905.0,13.2,Συγγενείς και φίλοι,Εξωτερικό,False,Ολλανδία,True,False,False,False
-NO,FOR,NR_RF,14055349.0,26.0,Συγγενείς και φίλοι,Εξωτερικό,False,NO,False,False,False,False
 PL,FOR,NR_RF,53414979.0,46.0,Συγγενείς και φίλοι,Εξωτερικό,False,Πολωνία,True,False,False,False
 PT,FOR,NR_RF,5255367.0,28.9,Συγγενείς και φίλοι,Εξωτερικό,False,Πορτογαλία,True,True,False,False
 RO,FOR,NR_RF,4608500.0,33.6,Συγγενείς και φίλοι,Εξωτερικό,False,Ρουμανία,True,False,False,False
@@ -398,7 +385,6 @@ LU,FOR,R_APT,2802992.0,14.2,Ενοικιαζόμενο διαμέρισμα,Εξ
 LV,FOR,R_APT,1535758.0,18.3,Ενοικιαζόμενο διαμέρισμα,Εξωτερικό,False,Λετονία,True,False,False,False
 MT,FOR,R_APT,958068.0,20.8,Ενοικιαζόμενο διαμέρισμα,Εξωτερικό,False,Μάλτα,True,False,False,False
 NL,FOR,R_APT,59749304.0,27.7,Ενοικιαζόμενο διαμέρισμα,Εξωτερικό,False,Ολλανδία,True,False,False,False
-NO,FOR,R_APT,6790904.0,12.6,Ενοικιαζόμενο διαμέρισμα,Εξωτερικό,False,NO,False,False,False,False
 PL,FOR,R_APT,10221219.0,8.8,Ενοικιαζόμενο διαμέρισμα,Εξωτερικό,False,Πολωνία,True,False,False,False
 PT,FOR,R_APT,1811439.0,10.0,Ενοικιαζόμενο διαμέρισμα,Εξωτερικό,False,Πορτογαλία,True,True,False,False
 RO,FOR,R_APT,344241.0,2.5,Ενοικιαζόμενο διαμέρισμα,Εξωτερικό,False,Ρουμανία,True,False,False,False
@@ -426,7 +412,6 @@ LU,FOR,R_CAMP,591260.0,3.0,Κάμπινγκ,Εξωτερικό,False,Λουξε�
 LV,FOR,R_CAMP,,,Κάμπινγκ,Εξωτερικό,False,Λετονία,True,False,False,False
 MT,FOR,R_CAMP,,,Κάμπινγκ,Εξωτερικό,False,Μάλτα,True,False,False,False
 NL,FOR,R_CAMP,19436198.0,9.0,Κάμπινγκ,Εξωτερικό,False,Ολλανδία,True,False,False,False
-NO,FOR,R_CAMP,2320308.0,4.3,Κάμπινγκ,Εξωτερικό,False,NO,False,False,False,False
 PL,FOR,R_CAMP,1406506.0,1.2,Κάμπινγκ,Εξωτερικό,False,Πολωνία,True,False,False,False
 PT,FOR,R_CAMP,131025.0,0.7,Κάμπινγκ,Εξωτερικό,False,Πορτογαλία,True,True,False,False
 RO,FOR,R_CAMP,,,Κάμπινγκ,Εξωτερικό,False,Ρουμανία,True,False,False,False
@@ -455,7 +440,6 @@ LU,FOR,R_HOT,7020004.0,35.6,Ξενοδοχείο,Εξωτερικό,False,Λου
 LV,FOR,R_HOT,4573856.0,54.4,Ξενοδοχείο,Εξωτερικό,False,Λετονία,True,False,False,False
 MT,FOR,R_HOT,2159380.0,46.9,Ξενοδοχείο,Εξωτερικό,False,Μάλτα,True,False,False,False
 NL,FOR,R_HOT,71243448.0,33.0,Ξενοδοχείο,Εξωτερικό,False,Ολλανδία,True,False,False,False
-NO,FOR,R_HOT,21551301.0,39.8,Ξενοδοχείο,Εξωτερικό,False,NO,False,False,False,False
 PL,FOR,R_HOT,46220945.0,39.8,Ξενοδοχείο,Εξωτερικό,False,Πολωνία,True,False,False,False
 PT,FOR,R_HOT,9390380.0,51.6,Ξενοδοχείο,Εξωτερικό,False,Πορτογαλία,True,True,False,False
 RO,FOR,R_HOT,8180706.0,59.6,Ξενοδοχείο,Εξωτερικό,False,Ρουμανία,True,False,False,False
@@ -484,7 +468,6 @@ LU,FOR,R_OTH,216621.0,1.1,Άλλο πληρωμένο,Εξωτερικό,False,�
 LV,FOR,R_OTH,230270.0,2.7,Άλλο πληρωμένο,Εξωτερικό,False,Λετονία,True,False,False,False
 MT,FOR,R_OTH,184589.0,4.0,Άλλο πληρωμένο,Εξωτερικό,False,Μάλτα,True,False,False,False
 NL,FOR,R_OTH,9387163.0,4.3,Άλλο πληρωμένο,Εξωτερικό,False,Ολλανδία,True,False,False,False
-NO,FOR,R_OTH,890552.0,1.6,Άλλο πληρωμένο,Εξωτερικό,False,NO,False,False,False,False
 PL,FOR,R_OTH,2951803.0,2.5,Άλλο πληρωμένο,Εξωτερικό,False,Πολωνία,True,False,False,False
 PT,FOR,R_OTH,381347.0,2.1,Άλλο πληρωμένο,Εξωτερικό,False,Πορτογαλία,True,True,False,False
 RO,FOR,R_OTH,352687.0,2.6,Άλλο πληρωμένο,Εξωτερικό,False,Ρουμανία,True,False,False,False
@@ -513,7 +496,6 @@ LU,FOR,TOTAL,19709241.0,100.0,ΣΥΝΟΛΟ,Εξωτερικό,True,Λουξεμ�
 LV,FOR,TOTAL,8405657.0,100.0,ΣΥΝΟΛΟ,Εξωτερικό,True,Λετονία,True,False,False,False
 MT,FOR,TOTAL,4605649.0,100.0,ΣΥΝΟΛΟ,Εξωτερικό,True,Μάλτα,True,False,False,False
 NL,FOR,TOTAL,215827830.0,100.0,ΣΥΝΟΛΟ,Εξωτερικό,True,Ολλανδία,True,False,False,False
-NO,FOR,TOTAL,54103165.0,100.0,ΣΥΝΟΛΟ,Εξωτερικό,True,NO,False,False,False,False
 PL,FOR,TOTAL,116194277.0,100.0,ΣΥΝΟΛΟ,Εξωτερικό,True,Πολωνία,True,False,False,False
 PT,FOR,TOTAL,18190274.0,100.0,ΣΥΝΟΛΟ,Εξωτερικό,True,Πορτογαλία,True,True,False,False
 RO,FOR,TOTAL,13718905.0,100.0,ΣΥΝΟΛΟ,Εξωτερικό,True,Ρουμανία,True,False,False,False
@@ -542,7 +524,6 @@ LU,FOR,TOT_NR,9078364.0,46.1,ΣΥΝΟΛΟ μη πληρωμένο,Εξωτερι
 LV,FOR,TOT_NR,1925790.0,22.9,ΣΥΝΟΛΟ μη πληρωμένο,Εξωτερικό,True,Λετονία,True,False,False,False
 MT,FOR,TOT_NR,1273209.0,27.6,ΣΥΝΟΛΟ μη πληρωμένο,Εξωτερικό,True,Μάλτα,True,False,False,False
 NL,FOR,TOT_NR,56011718.0,26.0,ΣΥΝΟΛΟ μη πληρωμένο,Εξωτερικό,True,Ολλανδία,True,False,False,False
-NO,FOR,TOT_NR,22550100.0,41.7,ΣΥΝΟΛΟ μη πληρωμένο,Εξωτερικό,True,NO,False,False,False,False
 PL,FOR,TOT_NR,55393804.0,47.7,ΣΥΝΟΛΟ μη πληρωμένο,Εξωτερικό,True,Πολωνία,True,False,False,False
 PT,FOR,TOT_NR,6476082.0,35.6,ΣΥΝΟΛΟ μη πληρωμένο,Εξωτερικό,True,Πορτογαλία,True,True,False,False
 RO,FOR,TOT_NR,4655861.0,33.9,ΣΥΝΟΛΟ μη πληρωμένο,Εξωτερικό,True,Ρουμανία,True,False,False,False
@@ -571,7 +552,6 @@ LU,FOR,TOT_R,10630877.0,53.9,ΣΥΝΟΛΟ πληρωμένο,Εξωτερικό,
 LV,FOR,TOT_R,6479867.0,77.1,ΣΥΝΟΛΟ πληρωμένο,Εξωτερικό,True,Λετονία,True,False,False,False
 MT,FOR,TOT_R,3332440.0,72.4,ΣΥΝΟΛΟ πληρωμένο,Εξωτερικό,True,Μάλτα,True,False,False,False
 NL,FOR,TOT_R,159816112.0,74.0,ΣΥΝΟΛΟ πληρωμένο,Εξωτερικό,True,Ολλανδία,True,False,False,False
-NO,FOR,TOT_R,31553065.0,58.3,ΣΥΝΟΛΟ πληρωμένο,Εξωτερικό,True,NO,False,False,False,False
 PL,FOR,TOT_R,60800473.0,52.3,ΣΥΝΟΛΟ πληρωμένο,Εξωτερικό,True,Πολωνία,True,False,False,False
 PT,FOR,TOT_R,11714192.0,64.4,ΣΥΝΟΛΟ πληρωμένο,Εξωτερικό,True,Πορτογαλία,True,True,False,False
 RO,FOR,TOT_R,9063044.0,66.1,ΣΥΝΟΛΟ πληρωμένο,Εξωτερικό,True,Ρουμανία,True,False,False,False
