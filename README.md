@@ -66,6 +66,12 @@ survey, the same sample and the same definition of a trip. INSETE, using
 the same source, publishes the domestic figure and our recalculation
 matches it to the decimal.
 
+**Half the country's nights cost 20 euro.** **49,8%** of domestic nights
+are spent in an owned holiday home, and a night there costs **20,1
+euro**. In a hotel it costs **100,1**. The 20 euro is the whole trip
+expenditure per night, not just accommodation: it includes transport,
+food and everything else.
+
 **Paid accommodation is moving to the mainland.** In 2025 the islands
 grew **+1,1%** and mainland Greece **+6,0%**. All thirteen regions gained
 foreign visitors. Four lost residents of Greece, and they are the four
@@ -113,12 +119,13 @@ stays open.
 against mode of transport: trips requiring a ferry or a plane held a
 stable share, 25,1% to 25,2%.
 
-**That long trips happen in an owned or a friend's house is a very strong
-indication, not a cross-tabulation.** 21 euro a night does not pay for
-accommodation anywhere in Greece, and 52,4% of domestic nights are spent
-in an owned dwelling. The two point the same way from two directions. But
-ELSTAT does not cross duration bands with accommodation type, so it
-remains an indication.
+**That the long trips are the holiday-home trips remains an indication.**
+ELSTAT does not cross duration bands with accommodation type, neither in
+the press releases nor in the annex tables. The two cuts are now measured
+separately and point the same way: the 15-nights-and-over band is 53,1%
+of domestic nights at 19,2 euro, an owned holiday home is 49,8% at 20,1.
+Two independent measurements, about half the nights each, about twenty
+euro each.
 
 **It does not claim the 46,6% means no holiday at all.** The indicator is
 about **one week away from home**. Residents of Greece made 7,9 million
