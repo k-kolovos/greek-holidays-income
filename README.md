@@ -59,6 +59,13 @@ more are **15,3%** of trips, **50,7%** of nights and only **21,2%** of
 spending. A night on those trips costs **21 euro**, against **107** on a
 short trip.
 
+**The same person spends 2,5 times more per night abroad.** In 2025 a
+resident of Greece spent **42 euro** a night on a trip inside the country
+and **106** on a trip outside it. Both figures come from the same ELSTAT
+survey, the same sample and the same definition of a trip. INSETE, using
+the same source, publishes the domestic figure and our recalculation
+matches it to the decimal.
+
 **Paid accommodation is moving to the mainland.** In 2025 the islands
 grew **+1,1%** and mainland Greece **+6,0%**. All thirteen regions gained
 foreign visitors. Four lost residents of Greece, and they are the four
@@ -138,6 +145,7 @@ kwdikas/
   02_katalymata.py     where people stay, Eurostat
   03_taxidia.py        duration and spending, ELSTAT STO15
   04_perifereies.py    regions 2025, ELSTAT STO12 and STO18
+  05_insete.py         euro per night by destination, ELSTAT STO15
 dedomena/              the CSV files produced
 pdf/                   the ELSTAT press releases
 METHODOLOGIA.md        decisions, traps, what was rejected
@@ -154,10 +162,11 @@ python 01_eisodima.py
 python 02_katalymata.py
 python 03_taxidia.py
 python 04_perifereies.py
+python 05_insete.py
 ```
 
 The first two need a connection, they download from the Eurostat API. The
-last two run offline.
+last three run offline.
 
 Each script prints its checks. **If a check does not return the expected
 value, the data must not go into a chart.**
