@@ -14,7 +14,7 @@ At the same time, one in two people living here reports being unable to afford o
 
 The figure is 46.6% for 2025, according to Eurostat. The EU average is 27.5%. Only Romania does worse.
 
-![Inability to afford one week of holiday, Greece and the EU, 2010–2025](../eikones/01-adynamia-diakopes.png)
+![Inability to afford one week of holiday, Greece and the EU, 2010–2025](../01-adynamia-diakopes.png)
 
 *Inability to afford one week of holiday, Greece and the EU, 2010–2025. Source: Eurostat, `ilc_mdes02`.*
 
