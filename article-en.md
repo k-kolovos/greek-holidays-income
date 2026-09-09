@@ -48,7 +48,7 @@ In other words, poverty is the main explanation and there is no need to look els
 
 The European comparisons that follow refer to 2024, the most recent year Eurostat has published. The Greek 2025 figures come from ELSTAT.
 
-![Domestic overnight stays by accommodation type, 2024](../eikones/02-katalymata-2024.png)
+![Domestic overnight stays by accommodation type, 2024](02-katalymata-2024.png)
 
 *Domestic overnight stays by accommodation type, 2024. Source: Eurostat, `tour_dem_tnac`.*
 
@@ -80,7 +80,7 @@ Two independent cuts of the same data, both giving roughly half the country's ov
 
 This year's figures show a shift. Paid overnight stays on the islands rose **1.1%**, while mainland Greece rose **6.0%**.
 
-![Change in nights in short-term rental accommodation by region, 2024 to 2025](../eikones/03-perifereies-2025.png)
+![Change in nights in short-term rental accommodation by region, 2024 to 2025](03-perifereies-2025.png)
 
 *Change in nights in short-term rental accommodation by region, 2024 to 2025. Source: ELSTAT, STO18.*
 
