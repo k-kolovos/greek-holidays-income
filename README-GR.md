@@ -7,6 +7,10 @@ Eurostat και ΕΛΣΤΑΤ, έτη 2009 έως 2025.
 
 **Διαδραστικά γραφήματα:** [Tableau Public](https://public.tableau.com/app/profile/konstantinos.kolovos5903/viz/WhyhalfofGreekscannotaffordaweekaway)
 
+**Το άρθρο:** [arthro-gr.md](arthro-gr.md)
+
+![Η αδυναμία για μία εβδομάδα διακοπές, Ελλάδα και ΕΕ, 2010-2025](01-adynamia-diakopes.png)
+
 ---
 
 ## Το ερώτημα
