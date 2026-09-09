@@ -7,6 +7,10 @@ ELSTAT sources, 2009 to 2025.
 
 **Interactive charts:** [Tableau Public](https://public.tableau.com/app/profile/konstantinos.kolovos5903/viz/WhyhalfofGreekscannotaffordaweekaway)
 
+**Full article:** [article-en.md](article-en.md)
+
+![Inability to afford one week of holiday, Greece and the EU, 2010-2025](01-adynamia-diakopes.png)
+
 ---
 
 ## The question
