@@ -7,7 +7,7 @@ ELSTAT sources, 2009 to 2025.
 
 **Interactive charts:** [Tableau Public](https://public.tableau.com/app/profile/konstantinos.kolovos5903/viz/WhyhalfofGreekscannotaffordaweekaway)
 
-**Full article:** [article-en.md](article-en.md)
+**Full article:** [article-en.md](article-en.md) · published in Greek in [Athens Voice](https://www.athensvoice.gr/epikairotita/ellada/988172/poso-touristiki-einai-telika-i-ellada-gia-tous-idious-tous-katoikous-tis/), 1.10.2026
 
 ![Inability to afford one week of holiday, Greece and the EU, 2010-2025](01-adynamia-diakopes.png)
 

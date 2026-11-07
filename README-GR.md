@@ -7,7 +7,7 @@ Eurostat και ΕΛΣΤΑΤ, έτη 2009 έως 2025.
 
 **Διαδραστικά γραφήματα:** [Tableau Public](https://public.tableau.com/app/profile/konstantinos.kolovos5903/viz/WhyhalfofGreekscannotaffordaweekaway)
 
-**Το άρθρο:** [arthro-gr.md](arthro-gr.md)
+**Το άρθρο:** [arthro-gr.md](arthro-gr.md) · δημοσιεύτηκε στην [Athens Voice](https://www.athensvoice.gr/epikairotita/ellada/988172/poso-touristiki-einai-telika-i-ellada-gia-tous-idious-tous-katoikous-tis/), 1.10.2026
 
 ![Η αδυναμία για μία εβδομάδα διακοπές, Ελλάδα και ΕΕ, 2010-2025](01-adynamia-diakopes.png)
 
